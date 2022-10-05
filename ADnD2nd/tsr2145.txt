@@ -18,22 +18,10 @@ Annual
     
 
 Volume One
- 
 
-MONSTROUS COMPENDIUM”
-Annual
+ADVANCED DUNGEONS & Dracons, AD&D, DUNGEON Mastir, AL-QADIM, FORGOTTEN REALMS, MONSTROUS COMPENDIUM, and RAVENLOFT are registered trademarks owned by TSR, Inc. DM, MonsTrous MANUAL, PLANESCAre, and the TSR logo are trademarks owned by TSR, Inc. All TSR characters, character names, and the distinctive likenesses thereof are trademarks owned by TSR, Inc. © 1994 TSR, Inc. All Rights Reserved. Printed in the U.S.A
 
-Volume One
-
- 
-
-ADVANCED DUNGEONS & Dracons, AD&D, DUNGEON Mastir, AL-QADIM, FORGOTTEN REALMS, MONSTROUS COMPENDIUM, and RAVENLOFT are registered trademarks
-owned by TSR, Inc. DM, MonsTrous MANUAL, PLANESCAre, and the TSR logo are trademarks owned by TSR, Inc. All TSR characters, character names, and the distinc-
-tive likenesses thereof are trademarks owned by TSR, Inc. © 1994 TSR, Inc. All Rights Reserved. Printed in the U.S.A
-
-Random House and its affiliate companies have worldwide distribution rights in the book trade for English-language products of TSR, Inc. Distributed to the toy and
-hobby trade by regional distributors. Distributed to the book and hobby trade in the United Kingdom by TSK Ltd. This material is protected under the copyright laws
-of the United States of America. Any reproduction or unauthorized use of the material contained herein is prohibited without the express written consent of TSK, Inc
+Random House and its affiliate companies have worldwide distribution rights in the book trade for English-language products of TSR, Inc. Distributed to the toy and hobby trade by regional distributors. Distributed to the book and hobby trade in the United Kingdom by TSK Ltd. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material contained herein is prohibited without the express written consent of TSK, Inc
 
 TSR Ltd
 
@@ -51,7 +39,7 @@ USA
 2145 ISBN 1-56076-838-X
 
  
-Editor: David Wise
+Editor: David Wise
 Project Coordinator: Roger Moore
 Cover Artist: Jeff Easley
 Interior Artist: Tony DiTerlizzi
@@ -61,45 +49,14 @@ Typography: Nancy J. Kerkstra
 Graphic Artist: Dawn Murin
 
  
- 
-
- 
-
 How to Use This Book
 
- 
+This book is the first annual MONSTROUS COMPENDIUM” appendix in a series featuring creatures that appeared in various TSR role-playing games and periodicals over a single year—in this case, 1993. The selections come from myriad game worlds, but they've been developed with the intent to make them useful in any campaign setting; those who own products containing these monsters may discover slight variations if they compare the respective entries. Even so, monsters that come from product lines like the AL-QADIM® campaign setting or the RAVENLOFT® setting’s realm of terror often remain quite distinctive, and they should be chosen with care for use in an adventure. For example, most adventurers aren’t likely to happen upon a tasked genie or a psionic lich as they wander along the road to glory. Therefore, there are no standard “random encounter” tables included in this text. Instead, some advice on how to generate adventure-specific random encounters has been added. See page 6, “Beyond Random Encounters.”\\
+<wrap indent>Each monster entry includes the following information:</wrap>\\
 
- 
+**CLIMATE/TERRAIN** defines where the creature is most often found. Normally, climates include terms such as arctic, subarctic, temperate, and tropical. Terrain types include plain/scrub, forest, rough/hill, mountain, swamp, and desert.
 
-This book is the first annual MONSTROUS COMPENDIUM” appen-
-dix in a series featuring creatures that appeared in various TSR
-role-playing games and periodicals over a single year—in this
-case, 1993. The selections come from myriad game worlds, but
-they've been developed with the intent to make them useful in
-any campaign setting; those who own products containing
-these monsters may discover slight variations if they compare
-the respective entries. Even so, monsters that come from prod-
-uct lines like the AL-QADIM® campaign setting or the
-RAVENLOFT® setting’s realm of terror often remain quite dis-
-tinctive, and they should be chosen with care for use in an
-adventure. For example, most adventurers aren’t likely to hap-
-pen upon a tasked genie or a psionic lich as they wander along
-the road to glory. Therefore, there are no standard “random
-encounter” tables included in this text. Instead, some advice
-on how to generate adventure-specific random encounters has
-been added. See page 6, “Beyond Random Encounters.”
-Each monster entry includes the following information:
-
-CLIMATE/TERRAIN defines where the creature is most often
-found. Normally, climates include terms such as arctic, subarc-
-tic, temperate, and tropical. Terrain types include plain/scrub,
-forest, rough/hill, mountain, swamp, and desert.
-
-FREQUENCY is the likelihood of encountering a creature in
-any given area. Very rare indicates a 4% chance, rare is 11%,
-uncommon is 20%, and common is a 65% chance. Chances can
-be adjusted for special areas. This entry can be used as a
-guideline for adventure design.
+**FREQUENCY** is the likelihood of encountering a creature in any given area. Very rare indicates a 4% chance, rare is 11%, uncommon is 20%, and common is a 65% chance. Chances can be adjusted for special areas. This entry can be used as a guideline for adventure design.
 
 ORGANIZATION is a description of the general social struc-
 ture that the monster adopts. Common types are solitary, clan,
