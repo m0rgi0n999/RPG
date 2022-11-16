@@ -144,23 +144,65 @@ None of these changes affects the general way in which experience points are cal
 <wrap indent>The bonus normally awarded for flight has been expanded to include other special forms of movement. Thus, a monster like a bullette or xorn, which can travel through the earth at great speed, would receive the same adjustment to its experience point value as a flying creature.</wrap>\\
 <wrap indent>Of course, exceptions and unusual cases will still crop up. When this happens, Dungeon Masters will simply have to use a little common sense in the awarding of experience points.</wrap>
 
-Table 31: Creature Experience Point Values
-
-HD or Level XP Value
-Less than 1-1 7
-1-1 tol 15
-1+1 to2 35
-2+1to3 65
-3+1 to4 120
-4+1to5 175
-5+1 to 6 270
-6+1 to7 420
-7+1to8 650
-8+1 to9 975
-9+1 to 10+ 1,400
-11 to 12+ 2,000
-
+{| title="Table 31: Creature Experience Point Values"
+|+//Table 31: Creature Experience Point Values//
+! style="width: 12em;"| HD or Level
+! style="width: 10em;"| XP Value
+|-
+|
+Less than 1-1
+|
+7
+|-
+1-1 to 1
+|
+15
+|-
+1+1 to 2
+|
+35
+|-
+2+1 to 3
+|
+65
+|-
+3+1 to 4
+|
+120
+|-
+4+1 to 5
+|
+175
+|-
+5+1 to 6
+|
+270
+|-
+6+1 to 7
+|
+420
+|-
+7+1 to 8
+|
+850
+|-
+8+1 to 9
+|
+975
+|-
+9+1 to 10+
+|
+1400
+|-
+11 to 12+
+|
+2000
+|-
 13 or higher
+|
+2,000 + 1,000 per
+additional Hit Die
+|}
 
 Table 32:
 
@@ -200,8 +242,7 @@ Table 32:
 +3
 +3
 
-2,000 + 1,000 per
-additional Hit Die
+
 
 Hit Dice Value Modifiers
 
