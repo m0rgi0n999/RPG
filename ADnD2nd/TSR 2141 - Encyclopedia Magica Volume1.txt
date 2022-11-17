@@ -3327,1820 +3327,414 @@ This magical arrow has a brightly colored shaft, usually red, orange, or yellow 
 of Silence
 **XP Value:** 20 **GP Value:** 120
 Dracon Magazine 135
-This magical arrow is very useful indeed—espe-
-
-cially when PCs are seeking entry to some heav-
-
-Arrow of Slaying
-
-ee eee
-
-ily guarded fortification. Not only does this arrow
-hide the “twang” of bow shots, it also silences
-any noise made by its target. Furthermore, any
-actions conducted within a 15-foot radius of the
-arrow are cloaked as if by a permanent version of
-the priestal spell, silence 15' radius.
+This magical arrow is very useful indeed—especially when PCs are seeking entry to some heavily guarded fortification. Not only does this arrow hide the “twang” of bow shots, it also silences any noise made by its target. Furthermore, any actions conducted within a 15-foot radius of the arrow are cloaked as if by a permanent version of the priestal spell, //silence 15' radius//.
 
 of Sinking
 **XP Value:** 200 **GP Value:** 400
 DunGEONS & Dracons Rules Cyclopedia
-When fired at a water craft, an arrow of sinking
-inflicts 1d10+10 (11-20) points of hull damage
-when it hits. (The AC of the vessel is used, as if
-the shot were a ramming or catapult attack.)
+When fired at a water craft, an //arrow of sinking// inflicts 1d10+10 (11-20) points of hull damage when it hits. (The AC of the vessel is used, as if the shot were a ramming or catapult attack.)
 
 of Slaying
 **XP Value:** 250 **GP Value:** 2,500
 DUNGEONS & DRAGONS Rules Cyclopedia
+If the die rolls for a missile indicate this ability, roll 1d100. The result indicates the missile’s opponent. When an opponent is hit by this missile, the victim must make a saving throw vs. death magic or die.
 
-If the die rolls for a missile indicate this ability,
-roll 1d100. The result indicates the missile’s
-opponent. When an opponent is hit by this mis-
-sile, the victim must make a saving throw vs.
-death magic or die.
-
-Roll Opponent Roll Opponent
-01-06 Bugs 59-67 Reptiles and
-07-09 Constructs dinosaurs
-10-15 Dragonkind 68-70 Spell-immune
-16-24 Enchanted monsters
-Monsters 71-76 Spellcasters
-25-36 Giantkind 77-88 Undead
-37-48 Lycanthropes 89-94 Water
-breathing
-49-52 Planar Beings monsters
-53-58 Regenerating 95-00 Weapon-using
-monsters monsters
-
-¢ Bugs include all normal and giant-sized forms
-of arachnids (spider, tick, scorpion, etc.),
-insects (ant, beetle, fly, etc.), and chilopods
-(centipedes, etc.).
-
-* Constructs include all created monsters such
-as living statues or golems. Gargoyles are also
-included in this category.
-
-¢ Dragonkind includes dragons of all colors
-and sizes plus draconian monsters such as the
-chimera, hydra (all types), salamander, and
-wyvern.
-
-¢ Enchanted monsters include those creatures
-that cannot be hit by normal or silver weap-
-ons.
-
-* Giantkind includes all giants and all giant-
-293
-
+^ Roll ^ Opponent ^ Roll ^ Opponent |
+| 01-06 | Bugs | 59-67 | Reptiles and dinosaurs |
+| 07-09 | Constructs |||
+| 10-15 | Dragonkind | 68-70 | Spell-immune |
+| 16-24 | Enchanted Monsters | 71-76 | Spellcasters monsters |
+| 25-36 | Giantkind | 77-88 | Undead |
+| 37-48 | Lycanthropes | 89-94 | Water breathing monsters |
+| 49-52 | Planar Beings |||
+| 53-58 | Regenerating monsters | 95-00 | Weapon-using monsters |
  
+* **Bugs** include all normal and giant-sized forms of arachnids (spider, tick, scorpion, etc.), insects (ant, beetle, fly, etc.), and chilopods (centipedes, etc.).
 
-97
+* **Constructs** include all created monsters such as living statues or golems. Gargoyles are also included in this category.
 
-X
- 
-Arrow of Slaying IV
+* **Dragonkind** includes dragons of all colors and sizes plus draconian monsters such as the chimera, hydra (all types), salamander, and wyvern.
 
-Th aseeteeeeneeenneerneseanseecctneneiennemenmemt mastic emma
+* **Enchanted monsters** include those creatures that cannot be hit by normal or silver weapons.
 
-type creatures such as ogres, cyclopes, and
-other humanoids that are larger than human-
-size (including characters who have consumed
-a potion of growth.).
+* **Giantkind** includes all giants and all giant-type creatures such as ogres, cyclopes, and other humanoids that are larger than human-size (including characters who have consumed a //potion of growth//.).
 
-* Lycanthropes include all werecreatures,
-whether in animal form or not, and all charac-
-ters afflicted with lycanthropy.
+* **Lycanthropes** include all werecreatures, whether in animal form or not, and all characters afflicted with lycanthropy.
 
-* Planar monsters include those creatures that
-come from the Elemental, Ethereal, Astral, or
-Outer Planes. All types are included, but
-Immortals do not count as planar monsters.
+* **Planar monsters** include those creatures that come from the Elemental, Ethereal, Astral, or Outer Planes. All types are included, but Immortals do not count as planar monsters.
 
-* Regenerating monsters include all creatures
-that regain more than 1 hit point per day by
-rest or other means. This includes any creature
-wearing a ring of regeneration.
+* **Regenerating monsters** include all creatures that regain more than 1 hit point per day by rest or other means. This includes any creature wearing a //ring of regeneration//.
 
-* Reptiles and dinosaurs include all normal
-and giant-sized forms of lizards, snakes, tur-
-tles, crocodiles, and dinosaurs.
+* **Reptiles and dinosaurs** include all normal and giant-sized forms of lizards, snakes, turtles, crocodiles, and dinosaurs.
 
-¢ Spell-immune monsters include those crea-
-tures that are immune to | or more spell lev-
-els, as specified in the monster descriptions
-(such as drakes). This does not include crea-
-tures that are immune merely to certain spe-
-cific spells (such as the undead immunity to
-sleep, charm, and hold). ~~
+* **Spell-immune monsters** include those creatures that are immune to | or more spell levels, as specified in the monster descriptions (such as drakes). This does not include creatures that are immune merely to certain specific spells (such as the undead immunity to //sleep//, //charm//, and //hold//).
 
-* Spellcasters include all priests, elves, wiz-
-ards, and other creatures able to use spells.
+* **Spellcasters** include all priests, elves, wizards, and other creatures able to use spells.
 
-¢ Undead includes all types of undead crea-
-tures, both land and water, from skeleton to
-lich.
+* **Undead** includes all types of undead creatures, both land and water, from skeleton to lich.
 
-* Water-breathing monsters include those
-creatures able to breathe water, including
-characters under the influence of a potion or
-ring of water breathing. Note that aquatic
-mammals breathe air and are not included in
-this category.
+* **Water-breathing monsters** include those creatures able to breathe water, including characters under the influence of a //potion// or //ring of water breathing//. Note that aquatic mammals breathe air and are not included in this category.
 
-+ Weapon-using monsters include those crea-
-tures that have weapons in hand (not claws) at
-the time of a melee. For example, a wererat
-wielding a sword would be affected by this
-additional bonus, but the wererat would not be
-affected if it were attacking only with its bite.
-
-of Slaying II
-**GP Value:** 2,500
-DRAGON Magazine 35
-Ineffective against “wild and crazy” comedians,
-even when struck in the head. In game terms, this
-arrow is -2 to attacks against bards.
-
-**XP Value:** 250
+* **Weapon-using monsters** include those creatures that have weapons in hand (not claws) at the time of a melee. For example, a wererat wielding a sword would be affected by this additional bonus, but the wererat would not be affected if it were attacking only with its bite.
 
 of Slaying II
 **XP Value:** 250 **GP Value:** 2,500
+DRAGON Magazine 35
+Ineffective against “wild and crazy” comedians, even when struck in the head. In game terms, this arrow is -2 to attacks against bards.
+
+of Slaying III
+**XP Value:** 250 **GP Value:** 2,500
 DUNGEON MASTER Guide
+This is an //arrow +3// with unusual physical characteristics—a shaft of some special material, feathers of some rare creature, a head of some strange design, a rune carved on the nock, etc. These characteristics indicate the arrow is effective against some creature type. If the arrow is employed against the kind of creature it has been enchanted to slay, the missile kills it instantly, if it hits the target creature. The following list comprises only a portion of the possible kinds of these arrows:
 
-This is an arrow +3 with unusual physical charac-
-teristics—a shaft of some special material, feathers
-of some rare creature, a head of some strange
-design, a rune carved on the nock, etc. These char-
-acteristics indicate the arrow is effective against
-some creature type. If the arrow is employed
-against the kind of creature it has been enchanted
-to slay, the missile kills it instantly, if it hits the tar-
-get creature. The following list comprises only a
-portion of the possible kinds of these arrows:
+^ Roll ^ Creature ^ Roll ^ Creature |
+| 1 | Arachnids | 11 | Illusionists |
+| 2 | Avians | 12 | Mages |
+| 3 | Bards | 13 | Mammals |
+| 4 | Priests | 14 | Paladins |
+| 5 | Dragons | 15 | Rangers |
+| 6 | Druids | 16 | Reptiles |
+| 7 | Elementals | 17 | Sea monsters |
+| 8 | Fighters | 18 | Thieves |
+| 9 | Giants | 19 | Titans |
+| 10 | Golems | 20 | Undead |
 
-Roll Creature Roll Creature
-
-l Arachnids 1] Illusionists
-2 Avians 12 Mages
-
-3 Bards 13 Mammals
-4 Priests 14 Paladins
-
-5 Dragons 15 Rangers
-
-6 Druids 16 Reptiles
-
-7 Elementals 17 Sea monsters
-8 Fighters 18 Thieves
-
-9 Giants 19 Titans
-
-10 Golems 20 Undead
-
-Develop your own types and modify or limit
-the foregoing as fits your campaign.
-
-In a DRAGONLANCE Campaign: The arrow of
-dragon slaying does not exist on Ansalon. See
-Arrow, of Draconian Slaying.
+<wrap indent>Develop your own types and modify or limit the foregoing as fits your campaign.</wrap>\\
+<wrap indent>**In a DRAGONLANCE Campaign:** The arrow of dragon slaying does not exist on Ansalon. See **Arrow**, //of Draconian Slaying//.</wrap>
 
 of Slaying IV
 **XP Value:** 250 **GP Value:** 2,500
 Land of Fate
-
 This arrow uses the following table in Zakhara:
 
 Roll Victim Roll Victim
+| 1 | Arachnids | 11 | Hierarchy priest |
+| 2 | Bard | 12 | Mammal |
+| 3 | Bird | 13 | Paladin |
+| 4 | Elemental | 14 | Ranger |
+| 5 | Elemental wizard | 15 | Reptile |
+| 6 | Enlightened* being | 16 | Sea Creature |
+| 7 | Fighter | 17 | Sha’ir |
+| 8 | Free Priest | 18 | Sorcerer |
+| 9 | Genie | 19 | Unenlightened being |
+| 10 | Giant | 20 | Undead |
 
-] Arachnids 11 Hierarchy priest
+*See **Sword**, of the Believer for definitions of enlightened and unenlightened.
 
-2 Bard 12. Mammal
-
-3 Bird 13. Paladin
-
-4 Elemental 14‘ Ranger
-
-5 Elemental wizard 15 Reptile
-
-6 Enlightened* being 16 Sea Creature
-
-7 Fighter 17. Sha’ir
-
-8 Free Priest 18 Sorcerer
-
-9 Genie 19 Unenlightened
-being
-
-10 Giant 20 Undead
-
-*See Sword, of the Believer for definitions of
-enlightened and unenlightened.
-
-296
-
- 
-
-99
-of Sleighing
+of Sleighing
 **XP Value:** — **GP Value:** 50
 DRAGON Magazine 35
-When this powerful item is drawn in a bow, ina
-combat situation, it immediately expands and
-
-unfolds into a full-size, four-place toboggan.
+When this powerful item is drawn in a bow, in a combat situation, it immediately expands and unfolds into a full-size, four-place toboggan.
 
 Snake
 **XP Value:** 50 **GP Value:** 100
 POLYHEDRON Newszine 47
-When loosed, these arrows +/ transform themselves
-into pit vipers (AC 8; HD %; hp 3; #AT 1; Dmg 14; SA
-poison). Their poison is weak, so all saving throws are
-at +1. They remain in snake form until killed (which
-also destroys the arrows). A dispel magic spell causes
-them to turn into nonmagical arrows.
+When loosed, these //arrows +1// transform themselves into pit vipers (AC 8; HD %; hp 3; #AT 1; Dmg 14; SA poison). Their poison is weak, so all saving throws are at +1. They remain in snake form until killed (which also destroys the arrows). A //dispel magic// spell causes them to turn into nonmagical arrows.
 
 of Speaking
-
 **XP Value:** 50 **GP Value:** 150
 DuNGEONS & DraGons Rules Cyclopedia
-
-A missile with this talent misses any creature at
-which it is fired—it is used for communication
-purposes only. The user may give the missile any
-message of 20 words or less and then shoot it,
-either naming a place within 10 miles or aiming
-at a target. The missile automatically lands on the
-floor or ground in the target area, repeats its mes-
-sage aloud twice, and falls silent.
-
- 
-
-weet
-
-Klee Atty,
-hire eree teen tN Atte
-
- 
-
-~,, Arrow of Sleighing fr
+A missile with this talent misses any creature at which it is fired—it is used for communication purposes only. The user may give the missile any message of 20 words or less and then shoot it, either naming a place within 10 miles or aiming at a target. The missile automatically lands on the floor or ground in the target area, repeats its message aloud twice, and falls silent.
 
 Stun Bolt
 **XP Value:** 200 **GP Value:** 700
 Dwarves Deep
-This special crossbow quarrel can be fired from
-any size crossbow from hand to heavy, and
-looks like a stone door knob on a short, thin
-shaft. When fired, a stun bolt behaves in all
-cases (range, ROF, etc.) as if fired from hand
-crossbow. However, on impact it shatters into
-dust-sized motes, releasing a stunning magical
-shock of force that does 2d4 damage to any
-being struck. Victims of a stun bolt strike are
-unable to think or act coherently for the round
-following the hit (no saving throw). Only living
-things are affected—undead and objects suffer
-no shock effects. Such weapons are often used
-by dwarven guards.
+This special crossbow quarrel can be fired from any size crossbow from hand to heavy, and looks like a stone door knob on a short, thin shaft. When fired, a //stun bolt// behaves in all cases (range, ROF, etc.) as if fired from hand crossbow. However, on impact it shatters into dust-sized motes, releasing a stunning magical shock of force that does 2d4 damage to any being struck. Victims of a //stun bolt// strike are unable to think or act coherently for the round following the hit (no saving throw). Only living things are affected—undead and objects suffer no shock effects. Such weapons are often used by dwarven guards.
 
 of Stunning
 **XP Value:** 250 **GP Value:** 750
 DUNGEONS & DRAGONS Rules Cyclopedia
-A victim hit by a missile with this talent must
-make a saving throw vs. spell or be stunned for
-1d6 rounds.
+A victim hit by a missile with this talent must make a saving throw vs. spell or be stunned for 1d6 rounds.
 
 Stirge’s Bite
 **XP Value:** 130 **GP Value:** 780
 DRAGON Magazine 135
-This arrow +5 has a steel shaft and is rather large
-in size. When the arrow hits, it drains one ounce of
-its target’s blood, which is then stored in a hollow
-compartment in the shaft. The following round, the
-arrow detaches itself from its victim and may be
-recovered later by the archer. Due to the impor-
-tance of blood as an ingredient in the fabrication of
-scroll inks and potions, this arrow is highly prized
-by wizards, priests, and alchemists.
+This //arrow +5// has a steel shaft and is rather large in size. When the arrow hits, it drains one ounce of its target’s blood, which is then stored in a hollow compartment in the shaft. The following round, the arrow detaches itself from its victim and may be recovered later by the archer. Due to the importance of blood as an ingredient in the fabrication of scroll inks and potions, this arrow is highly prized by wizards, priests, and alchemists.
 
 of Teleporting
 **XP Value:** 400 **GP Value:** 800
 DuNGEONS & DRAGONS Rules Cyclopedia
+A victim hit by a missile with this talent must make a saving throw vs. spell (at a +2 bonus to the roll) or be teleported to a point 1d100 miles away, with direction and distance determined randomly. The victim cannot arrive in the air or within a solid object.
 
-A victim hit by a missile with this talent must
-make a saving throw vs. spell (at a +2 bonus to
-the roll) or be teleported to a point 1d100 miles
-away, with direction and distance determined ran-
-domly. The victim cannot arrive in the air or
-within a solid object.
-
-303
-
- 
-
-100
-of Transporting
-
+of Transporting
 **XP Value:** 400 **GP Value:** 800
 DunGEONS & DRAGONS Rules Cyclopedia
-A victim hit by this missile must make a saving
-throw vs. spell or be sent to a point up to 360 feet
-away, as determined by the missile user. This is
-identical to the wizard spell dimension door, and
-cannot cause the victim to appear within a solid
-object.
+A victim hit by this missile must make a saving throw vs. spell or be sent to a point up to 360 feet away, as determined by the missile user. This is identical to the wizard spell dimension door, and cannot cause the victim to appear within a solid object.
 
 Wooden
 **XP Value:** 1,000 **GP Value:** 5,000
 The Complete Book of Elves
-
-This is a completely organic arrow. Made entirely
-from wood and carved with ornate runes, it
-appears to be nothing more than a novelty, or per-
-haps a woodcarver’s doodle. In reality, this arrow
-is a very dangerous weapon, and it radiates strong
-enchantment magic.
-
-The arrow ignores all nonorganic armor.
-Thus, metal armor offers no protection against
-this missile, while leather, hide, and scale mail
-made from a creature’s skin offer normal
-bonuses. Studded leather protects only as leather
-armor.
-
-Those wearing metal armor are considered to
-be AC 10 against this arrow. Magical protection
-still applies; thus, plate mail +4, although nor-
-mally AC -1, would instead be AC 6 against the
-wooden arrow.
-
-These arrows are never found in bunches. If
-encountered, there is but a single shaft. Further-
-more, the wooden arrow is an exception to elven
-arrows in that it is always destroyed when fired,
-regardless of whether or not it hits anything. The
-wood necessary to the enchantment is such that it
-can function no other way.
+This is a completely organic arrow. Made entirely from wood and carved with ornate runes, it appears to be nothing more than a novelty, or perhaps a woodcarver’s doodle. In reality, this arrow is a very dangerous weapon, and it radiates strong enchantment magic.\\
+<wrap indent>The arrow ignores all nonorganic armor. Thus, metal armor offers no protection against this missile, while leather, hide, and scale mail made from a creature’s skin offer normal bonuses. Studded leather protects only as leather armor.</wrap>\\
+<wrap indent>Those wearing metal armor are considered to be AC 10 against this arrow. Magical protection still applies; thus, plate mail +4, although normally AC -1, would instead be AC 6 against the wooden arrow.</wrap>\\
+<wrap indent>These arrows are never found in bunches. If encountered, there is but a single shaft. Furthermore, the //wooden arrow// is an exception to elven arrows in that it is always destroyed when fired, regardless of whether or not it hits anything. The wood necessary to the enchantment is such that it can function no other way.</wrap>
 
 of Wounding
 **XP Value:** 500 **GP Value:** 2,500
 DUNGEONS & DRAGONS Rules Cyclopedia
+When a missile with the //wounding// talent strikes a target creature, it inflicts normal damage. In addition, however, it causes the loss of | hit point per round thereafter until a magical cure is applied (a potion, cure spell of any type, etc.). However, no undead creature or construct (golem, living statue, etc.) can be //wounded// with this talent, and such creatures suffer only the initial damage.
 
-When a missile with the wounding talent strikes a
-target creature, it inflicts normal damage. In addi-
-tion, however, it causes the loss of | hit point per
-round thereafter until a magical cure is applied (a
-potion, cure spell of any type, etc.). However, no
-undead creature or construct (golem, living
-statue, etc.) can be wounded with this talent, and
-such creatures suffer only the initial damage.
-
-Dragonnel-by-the Cliff
-
-”"h aspeeseaeeenennne tinetipmenenneiemeniaeate matinee memeenetmmimemmmmel
-
-Arrowhead of Marking
+===== Arrowhead of Marking =====
 **XP Value:** 25 **GP Value:** 50
-
 The Ruins of Undermountain
+These normal-looking stone arrowheads must be shaped by the being enchanting them. The common use of these devices is as dungeon and maze markers. If one is placed on a stone surface, and a command word (set during the enchantment of the item) spoken, the arrowhead sinks into the surface of the stone. There it fuses, leaving a clearly visible arrowhead mark, pointing in the direction it was set.\\
+<wrap indent>These items may be used to point directions, or multiples can be placed to form code symbols or messages in the stone walls, floors, and ceilings of buildings, cave networks, or dungeons. Harpers often place them on stones in outdoor areas, to mark trails or burial sites. Typical treasure hoards contain 2d12 of these arrowheads.</wrap>
 
-These normal-looking stone arrowheads must be
-shaped by the being enchanting them. The com-
-mon use of these devices is as dungeon and maze
-markers. If one is placed on a stone surface, and a
-command word (set during the enchantment of
-the item) spoken, the arrowhead sinks into the
-surface of the stone. There it fuses, leaving a
-clearly visible arrowhead mark, pointing in the
-direction it was set.
+===== Art =====
 
-These items may be used to point directions, or
-multiples can be placed to form code symbols or
-messages in the stone walls, floors, and ceilings
-of buildings, cave networks, or dungeons. Harpers
-often place them on stones in outdoor areas, to
-mark trails or burial sites. Typical treasure hoards
-contain 2d12 of these arrowheads.
-
-Art
-
-Few magical pieces of artwork (paintings and
-portraits in particular) exist in the AD&D cam-
-paign worlds, but those that do show an amazing
-diversity of properties. Some can be used by non-
-mages simply through proper concentration;
-others can be used to their fullest extent only by
-wizards. Most radiate a magical aura. Unless oth-
-erwise specified, magical paintings are totally
-immune to normal fire and to normal crushing
-blows, or the effects of time. They gain a +4 sav-
-ing throw bonus vs. other hazards (magical fire,
-electricity, and so on), reflecting the strength of
-their dweomers.
+Few magical pieces of artwork (paintings and portraits in particular) exist in the AD&D campaign worlds, but those that do show an amazing diversity of properties. Some can be used by nonmages simply through proper concentration; others can be used to their fullest extent only by wizards. Most radiate a magical aura. Unless otherwise specified, magical paintings are totally immune to normal fire and to normal crushing blows, or the effects of time. They gain a +4 saving throw bonus vs. other hazards (magical fire, electricity, and so on), reflecting the strength of their dweomers.
 
 Blue on Bronze
 **XP Value:** 1,000 **GP Value:** 7,500
 DRAGON Magic
-
-This painting is an abstract swirl of deep blues
-and violets. If anyone studies the painting for
-2d10 minutes, a voice sounds in his or her head
-asking for a question. If the character rolls a suc-
-cessful Wisdom Check, the magical painting cor-
-rectly answers any yes or no question. The
-painting answers one question per being per day.
+This painting is an abstract swirl of deep blues and violets. If anyone studies the painting for 2d10 minutes, a voice sounds in his or her head asking for a question. If the character rolls a successful Wisdom Check, the magical painting correctly answers any yes or no question. The painting answers one question per being per day.
 
 Dragonnel-by-the-Cliff
 **XP Value:** — **GP Value:** 9,000
 DRAGON Magazine 179
-This is an unframed square painting, 3 feet to a
+This is an unframed square painting, 3 feet to a side, and mounted on tightly stretched dragonnel hide. Its powers are mostly unknown, and this fact alone makes the painting worth 5,000 gp. Unlike the other paintings described in this section, //Dragonnel// radiates no aura of magic. Only an //identify// spell can show that it is magical. This work was created two centuries ago by the half-drow wizard Liemuai (now rumored to have become the lich lord of an Underdark kingdom) and is thought to reside in the treasure repository of some drow noble. This painting originated from an undisclosed location in the Pomarj region of Grayhawk. It depicts a large dragonnel perched on a rocky cliff above a river valley.\\
+<wrap indent>By concentrating and speaking the word of summoning, “fuga,” the viewer can call forth the dragonnel, causing it to vanish from the painting and appear before the summoner. The dragonnel is totally obedient to the mental orders of the person who called it forth, willing to act as a mount to the limits of its strength or to fight to the death. Note that obedience is not transferrable, since the mental rapport necessary for control exists only between the dragonnel and its summoner.</wrap>\\
 
-side, and mounted on tightly stretched dragonnel
-309
+**Dragonnel:** (INT semi-; AL NE; AC 3; MV 12, Fl 18 (C, D if mounted); HD 8 +4; hp 68; THACO 11; #AT 3; Dmg 1d6/1d6/4d4; SA tail slap to the rear, with no other attack, for 2d6; ML 13.
 
- 
-
-101
-
-X
-The Gladiators
-
- 
-
-hide. Its powers are mostly unknown, and this fact
-alone makes the painting worth 5,000 gp. Unlike
-the other paintings described in this section, Drag-
-onnel radiates no aura of magic. Only an identify
-spell can show that it is magical. This work was
-created two centuries ago by the half-drow wizard
-Liemuai (now rumored to have become the lich
-lord of an Underdark kingdom) and is thought to
-reside in the treasure repository of some drow
-noble. This painting originated from an undis-
-closed location in the Pomarj region of Grayhawk.
-It depicts a large dragonnel perched on a rocky
-cliff above a river valley.
-
-By concentrating and speaking the word of
-summoning, “fuga,” the viewer can call forth the
-dragonnel, causing it to vanish from the painting
-and appear before the summoner. The dragonnel
-is totally obedient to the mental orders of the per-
-son who called it forth, willing to act as a mount
-to the limits of its strength or to fight to the death.
-Note that obedience is not transferrable, since the
-mental rapport necessary for control exists only
-between the dragonnel and its summoner.
-
-Dragonnel: (INT semi-; AL NE; AC 3; MV 12,
-Fl 18 (C, D if mounted); HD 8 +4; hp 68; THACO
-11; #AT 3; Dmg 1d6/1d6/4d4; SA tail slap to the
-rear, with no other attack, for 2d6; ML 13.
-
-"7 pa RREEEER SEE
-
-If called during the day, the dragonnel remains
-in existence until the sun touches the horizon,
-disappearing instantly—with no warning (poten-
-tially embarrassing to its rider if in flight at the
-time). If called during the night, it disappears at
-the moment the sun first appears above the hori-
-zon. The dragonnel can be dispelled by its sum-
-moner at any time, returning it to the painting. If
-the beast is killed, the corpse remains until the
-sun next touches the horizon, then returns to the
-painting. The dragonnel can only be summoned
-once in any 24-hour period; even if it is slain,
-another dragonnel can not be called again for 24
-hours.
-
-Alternatively, by concentrating on the painting
-for one round and speaking the word of changing,
-“mutare,” the viewer can shape change (like the
-wizard spell) into a dragonnel. The duration of
-the effect is 20 turns, but it can be dispelled by
-the viewer at any time before it expires. This
-power can be used three times a day.
+<wrap indent>If called during the day, the dragonnel remains in existence until the sun touches the horizon, disappearing instantly—with no warning (potentially embarrassing to its rider if in flight at the time). If called during the night, it disappears at the moment the sun first appears above the horizon. The dragonnel can be //dispelled// by its summoner at any time, returning it to the painting. If the beast is killed, the corpse remains until the sun next touches the horizon, then returns to the painting. The dragonnel can only be summoned once in any 24-hour period; even if it is slain, another dragonnel can not be called again for 24 hours.</wrap>\\
+<wrap indent>Alternatively, by concentrating on the painting for one round and speaking the word of changing, “mutare,” the viewer can //shape change// (like the wizard spell) into a dragonnel. The duration of the effect is 20 turns, but it can be //dispelled// by the viewer at any time before it expires. This power can be used three times a day.</wrap>
 
 The Gladiators
-
-**GP Value:** 48,000
+**XP Value:** **GP Value:** 48,000
 DRAGON Magazine 179
-The Gladiators is a large painting, 6 feet square,
-heavy and cumbersome. As its name implies, the
-painting depicts four heavily armed and armored
-gladiators facing each other in a sandy arena. It
-was painted by Arlena the Pair, to ward her
-country villa. Arlena herself vanished two
-decades ago and is believed to be dead. The
-painting disappeared around the same time, but
-rumors have since reported it in various locales.
-Because of the size of the painting, transporting
-and hiding it have undoubtedly proved to be
-serious problems.
+//The Gladiators// is a large painting, 6 feet square, heavy and cumbersome. As its name implies, the painting depicts four heavily armed and armored gladiators facing each other in a sandy arena. It was painted by Arlena the Pair, to //ward// her country villa. Arlena herself vanished two decades ago and is believed to be dead. The painting disappeared around the same time, but rumors have since reported it in various locales. Because of the size of the painting, transporting and hiding it have undoubtedly proved to be serious problems.\\
+<wrap indent>If a human, demihuman or humanoid (except Arlena herself) walks within 10 feet of the painting without first saying a special password (this word is thought to be lost with Arlena), the victim and all clothing and equipment are immediately transported into the painting. This effect is similar to that of a //mirror of life trapping//, except that it does not require the victim to look at the painting. Once within the painting, the victim is immediately attacked by the four chain mail-clad gladiators.</wrap>
 
-If a human, demihuman or humanoid (except
-Arlena herself) walks within 10 feet of the paint-
-ing without first saying a special password (this
-word is thought to be lost with Arlena), the victim
-and all clothing and equipment are immediately
-transported into the painting. This effect is simi-
-lar to that of a mirror of life trapping, except that
-it does not require the victim to look at the paint-
-ing. Once within the painting, the victim is
-immediately attacked by the four chain mail-clad
-gladiators.
+**Gladiators (4):** (INT average; AL N; AC 4; MV 12; F6; hp 48 each; THACO 15; #AT 2; Dmg by weapon type; splint mail, two-handed sword).
 
- 
+The gladiators are totally resistant to all enchantment/charm, fear, and other mind-affecting spells; to other spells, they have a 60% magic resistance. They are totally single-minded in their intent to kill the victim and cannot be reasoned with in any way.
 
-**XP Value:**
-
-Gladiators (4): (INT average; AL N; AC 4; MV
-12; F6; hp 48 each; THACO 15; #AT 2; Dmg by
-weapon type; splint mail, two-handed sword).
-
-310
-
- 
-
-102
-
-X\
- 
-
- 
-
- 
-
-The gladiators are totally resistant to all enchant-
-ment/charm, fear, and other mind-affecting
-spells; to other spells, they have a 60% magic
-resistance. They are totally single-minded in their
-intent to kill the victim and cannot be reasoned
-with in any way.
-
-If the victim is slain, the body is immediately
-transported back outside the painting. If the glad-
-iators are slain, the victim cannot escape from the
-painting unless someone outside speaks the word
-of release, “libertas,” which may be learned by
-casting a legend lore spell). Any damage received
-from the gladiators is real and can be cured nor-
-mally. None of the gladiators’ weaponry or armor
-may be brought out of the painting.
-
-Up to eight creatures may be trapped by the
-painting at any one time. They are kept totally
-separate from each other, each with four gladia-
-tors to fight. When the word of release is spoken,
-the creature who has been trapped the longest is
-the first to be released (first in, first out). For
-each subsequent repetition of the word, another
-creature is released until all have been freed. If
-the painting is “full” and a ninth creature passes
-by, the ninth victim is trapped and the creature
-who has been within the painting the longest is
-freed, When a creature is trapped by the painting,
+<wrap indent>If the victim is slain, the body is immediately //transported// back outside the painting. If the gladiators are slain, the victim cannot escape from the painting unless someone outside speaks the word of release, “libertas,” which may be learned by casting a //legend lore// spell). Any damage received from the gladiators is real and can be cured normally. None of the gladiators’ weaponry or armor may be brought out of the painting.</wrap>\\
+<wrap indent>Up to eight creatures may be trapped by the painting at any one time. They are kept totally separate from each other, each with four gladiators to fight. When the word of release is spoken, the creature who has been trapped the longest is the first to be released (first in, first out). For each subsequent repetition of the word, another creature is released until all have been freed. If the painting is “full” and a ninth creature passes by, the ninth victim is trapped and the creature who has been within the painting the longest is freed, When a creature is trapped by the painting, his or her image—seemingly part of the painting—appears in the arena, but remains visible for only one round. After that time, the painting returns to normal.</wrap>\\
+<wrap indent>If someone outside the painting speaks the word of summoning, “aggredivi” (also lost with Arlena but recoverable with //legend lore//), the four gladiators vanish from the painting and appear standing before it. (Note that this has no effect on anyone within the painting; they still have their own four gladiators to deal with.) The gladiators immediately attack anyone designated by the person who spoke the word, and fight until either they or their opponents are dead. This is all they can do; if there is no one to fight, or if their summoner tries to give them other instructions, they immediately return to the painting. Once the combat is over, one way or the other, the gladiators or their corpses (and all equipment) vanish and the painting returns to normal. The gladiators can be summoned once per day. The word of summoning must be spoken within 50 feet of the painting.</wrap>
 
 Glorindel’s Gates
-
-his or her image—seemingly part of the paint-
-ing—appears in the arena, but remains visible for
-only one round. After that time, the painting
-returns to normal.
-
-If someone outside the painting speaks the
-word of summoning, “aggredivi” (also lost
-with Arlena but recoverable with /egend lore),
-the four gladiators vanish from the painting
-and appear standing before it. (Note that this
-has no effect on anyone within the painting;
-they still have their own four gladiators to deal
-with.) The gladiators immediately attack any-
-one designated by the person who spoke the
-word, and fight until either they or their oppo-
-nents are dead. This is all they can do; if there
-is no one to fight, or if their summoner tries to
-give them other instructions, they immediately
-return to the painting. Once the combat is over,
-one way or the other, the gladiators or their
-corpses (and all equipment) vanish and the
-painting returns to normal. The gladiators can
-be summoned once per day. The word of sum-
-moning must be spoken within 50 feet of the
-painting,
-
-Glorindel’s Gates
-
-**GP Value:** 10,000
-
+**XP Value:** — **GP Value:** 10,000
 DRAGON Magazine 179
-
-During her sojourn across the lands of the
-Forgotten Realms, but before her return to the
-city of Waterdeep (and eventual disappearance),
-the wizard-bard Glorindel put much effort into
-creating a number of small, exquisitely crafted
-paintings depicting places she had visited on her
-extensive travels. As suited her peaceful nature at
-this time, they were typically uninhabited areas of
-great scenic beauty—sylvan glades, wilderness
-lakes, and forbidden plateaus. Some paintings,
-however, depicted some less scenic areas that
-were of importance to her, such as the Market in
-Waterdeep and the courtyard of her villa. These
-small paintings, her gates, were Glorindel’s
-favored means of transport.
-
-Any human, demihuman, or humanoid with
-Intelligence not less than 13 and Wisdom not less
-than 12 may harness the power of one of these
-paintings. If the painting is stared at, uninter-
-rupted, for two rounds, the viewer experiences the
-sensation of the image in the painting enlarging
-until it fills his or her entire field of vision,
-becoming ever more real as it enlarges. After a
-further round, the viewer is able to “step into” the
-
-**XP Value:** —
-
- 
-
-103
-
-X
-Glorindel’s Living Painting
-
- 
-
-SAT
-
-(tl
-
-We
-
-TM
-
-cee ee ane tae Se
-
-IES
-
-So
-
- 
-
- 
-
-painting. The effect is identical to the spell ¢ele-
-port without error, To someone standing nearby,
-the viewer seems to simply vanish, along with all
-items carried. The painting does not fe/eport with
-the user (although if the viewer has another of
-Glorindels gate paintings in his or her backpack,
-the second does teleport).
-
-Although Glorindel’s home in Waterdeep was
-destroyed by undead foes, her body was never
-found. Some believe that she used one of her
-gates to effect her escape when it became appar-
-ent that all was lost. Whatever the case, Glorindel
-has not been seen since. No one knows how many
-of Glorindel’s gates were created or may still
-exist. Only three are known for certain to have
-survived, all owned by the bard Diarmund of
-Waterdeep. All of Glorindel’s gates are small
-paintings, usually less than 1-foot square. Unlike
-most other magical paintings, they have no innate
-resistance to harm; they can be damaged and
-destroyed like any normal painting.
+During her sojourn across the lands of the Forgotten Realms, but before her return to the city of Waterdeep (and eventual disappearance), the wizard-bard Glorindel put much effort into creating a number of small, exquisitely crafted paintings depicting places she had visited on her extensive travels. As suited her peaceful nature at this time, they were typically uninhabited areas of great scenic beauty—sylvan glades, wilderness lakes, and forbidden plateaus. Some paintings, however, depicted some less scenic areas that were of importance to her, such as the Market in Waterdeep and the courtyard of her villa. These small paintings, her //gates//, were Glorindel’s favored means of transport.\\
+<wrap indent>Any human, demihuman, or humanoid with Intelligence not less than 13 and Wisdom not less than 12 may harness the power of one of these paintings. If the painting is stared at, uninterrupted, for two rounds, the viewer experiences the sensation of the image in the painting enlarging until it fills his or her entire field of vision, becoming ever more real as it enlarges. After a further round, the viewer is able to “step into” the painting. The effect is identical to the spell //teleport without error//, To someone standing nearby, the viewer seems to simply vanish, along with all items carried. The painting does not //teleport// with the user (although if the viewer has another of //Glorindels gate// paintings in his or her backpack, the second does //teleport//).</wrap>\\
+<wrap indent>Although Glorindel’s home in Waterdeep was destroyed by undead foes, her body was never found. Some believe that she used one of her gates to effect her escape when it became apparent that all was lost. Whatever the case, Glorindel has not been seen since. No one knows how many of //Glorindel’s gates// were created or may still exist. Only three are known for certain to have survived, all owned by the bard Diarmund of Waterdeep. All of //Glorindel’s gates// are small paintings, usually less than 1-foot square. Unlike most other magical paintings, they have no innate resistance to harm; they can be damaged and destroyed like any normal painting.</wrap>
 
 Glorindel’s Living Painting
 **XP Value:** — **GP Value:** 36,000
 DRAGON Magazine 179
-Further triumphs of Glorindel’s art were her “liv-
-ing paintings.” These are generally square, and up
-to 6 feet per side, usually depicting scenic panora-
-
-104
-
- 
-
-Pe ee
-
-Oe?
-- ke i “ok
-Ls! ime wre
-te
-
-waite WORE
-
-cf
-
-a a i I
-“lity
-Ce
-
- 
-
-mas. The magic involved in these works is more
-apparent than that of the gates as the scenes in
-these paintings actually move. In a seascape, the
-clouds may race, sea gulls fly, and waves wash
-over the rocky shore. In a forest scene, the sun
-may cast shifting beams of light through the gen-
-tly moving branches. These paintings are, without
-exception, strikingly beautiful, and could—if it
-weren’t for their frames—almost be mistaken for
-windows.
-
-Although their major purpose is to please the
-eye, each of these paintings has additional pow-
-ers. When triggered by a command word
-“fascinum,” each has the effect of the spell, hyp-
-notic pattern, This effect lasts until dispelled by
-another command word “en.” In addition, the
-following spells may be cast upon creatures cap-
-tivated by the painting, each spell triggered by
-its own word of command: blindness, “‘caecitas;”
-suggestion, obsequium;” geas, “exite;” and
-sleep, “somnus.” These spells have no effect on
-anyone not previously captivated by the hyp-
-notic pattern effect, and the spells do not count
-as being cast from the viewer’s mind. Each is
-usable once per day.
-
-As with Glorindel's gates, no one is sure pre-
-cisely how many living paintings Glorindel cre-
-ated or how many have survived. Due to their
-
-312
-
-a
-great value (15,000 gp is a bare minimum), those
-that still exist may probably be found in the col-
-lections of rich merchants, nobles, and other per-
-sons of wealth.
-
-eee
-
-TT
-
-1ehae
-He
-i
-
- 
+Further triumphs of Glorindel’s art were her “living paintings.” These are generally square, and up to 6 feet per side, usually depicting scenic panoramas. The magic involved in these works is more apparent than that of the gates as the scenes in these paintings actually move. In a seascape, the clouds may race, sea gulls fly, and waves wash over the rocky shore. In a forest scene, the sun may cast shifting beams of light through the gently moving branches. These paintings are, without exception, strikingly beautiful, and could—if it weren’t for their frames—almost be mistaken for windows.</wrap>\\
+<wrap indent>Although their major purpose is to please the eye, each of these paintings has additional powers. When triggered by a command word “fascinum,” each has the effect of the spell, //hypnotic pattern//, This effect lasts until dispelled by another command word “en.” In addition, the following spells may be cast upon creatures captivated by the painting, each spell triggered by its own word of command: //blindness//, “‘caecitas;” //suggestion//, obsequium;” //geas//, “exite;” and //sleep//, “somnus.” These spells have no effect on anyone not previously captivated by the //hypnotic pattern// effect, and the spells do not count as being cast from the viewer’s mind. Each is usable once per day.</wrap>\\
+<wrap indent>As with //Glorindel's gates//, no one is sure precisely how many living paintings Glorindel created or how many have survived. Due to their great value (15,000 gp is a bare minimum), those that still exist may probably be found in the collections of rich merchants, nobles, and other persons of wealth.</wrap>
 
 Igraine’s Portrait
-**GP Value:** 54,000
+**XP Value:** — **GP Value:** 54,000
 DRAGON Magazine 179
-In her dual roles as Court Wizard and Court
-Painter of the minor barony Freeman’s Pass,
-Igraine created a number of remarkable portraits
-for her liege, Lord Balto.
-
-Although many of these paintings perished (as
-did Igraine herself) when Freeman’s Pass was
-overrun by an army of were-creatures, some have
-survived the last century and a half to the present
-day.
-
-Each of these paintings depicts one person—a
-close friend, a trusted counsellor, close advisor,
-or family member—with whom Lord Balto
-would often have cause to consult. The purpose
-of these paintings was to make such consultation
-easy. Simply concentrating on the painting sets
-up a strong mental rapport between the viewer
-and the person depicted. The rapport takes one
-complete round to develop; after that time, it
-allows the two people to communicate fully as
-though through telepathy. There is no limit to the
-
-**XP Value:** —
-
-Igraine’s Portrait
-
-hen”
-
-duration of the rapport or to the number of times
-it can be established. All that is required is for the
-viewer to look at the painting and concentrate on
-establishing the rapport. During rapport, both
-participants can engage in no other activity.
-
-As the rapport is being established, the person
-depicted becomes aware of a chilling cold and a
-sensation of presence. If the person is willing to
-enter communication, rapport is established
-after one round; if unwilling, a save vs. spell
-must be made to terminate contact. A successful
-save means that contact is broken and cannot be
-reattempted for a period of one hour. If the save
-fails, the person being contacted has one last
-chance to resist rapport. During the round that
-establishes rapport, contact may be resisted by
-the use of mind-shielding spells, devices, or
-psionics. Once established, rapport can only be
-broken by the viewer or through the death or
-loss of consciousness of one of the partici-
-pants—there is no range limit.
-
-All of Igraine’s portrait paintings still in exis-
-tence, except for one to be discussed later,
-depict people who have died since the creation
-of the paintings. If anyone, through ignorance or
-design, tries to establish rapport through such a
-painting, there is a fixed 50% chance of estab-
-lishing rapport with the spirit of the dead per-
-son. Treat the rapport as the spell contact other
-plane. To determine the chances of insanity,
-knowledge, and veracity, assume the spirit is
-nine planes removed from the viewer of the
-painting. The viewer can ask one question for
-each two levels of experience (only wizards
-receive benefit for Intelligence scores over 15).
-Since rapport with a dead person requires much
-more of the painting’s power, this can only be
-attempted once per day.
-
-Rumors tell of one surviving painting that does
-not depict a dead confidant of Lord Balto. This is
-the painting that Igraine was working on at the
-time of her death. The background is complete, as
-is the body of the person depicted—only the face
-is missing. Perhaps because its dweomer was not
-finally bound by the completion of the painting,
-this famed “unfinished portrait” has an additional
-power over and above those possessed by Igraine’s
-other works. By concentrating strongly on the
-painting for a period of two rounds, the viewer
-can make the likeness of anyone well known by
-the viewer to appear in the portrait. The painting
-can then be used to establish rapport with that
-
- 
-
-105
-
-313
-XK
-—~, Norval’s Timely Portrait ar
-
-person (in this case, a saving throw is automatic
-whether the person being contacted is willing or
-not). If rapport fails or is broken, the face van-
-ishes from the portrait again. This power can be
-used once every two full days. Although no firm
-information is available, there is a persistent
-rumor that Igraine’s unfinished portrait hangs in
-the halls of a dwarf king.
+In her dual roles as Court Wizard and Court Painter of the minor barony Freeman’s Pass, Igraine created a number of remarkable portraits for her liege, Lord Balto.\\
+<wrap indent>Although many of these paintings perished (as did Igraine herself) when Freeman’s Pass was overrun by an army of were-creatures, some have survived the last century and a half to the present day.</wrap>\\
+<wrap indent>Each of these paintings depicts one person—a close friend, a trusted counsellor, close advisor, or family member—with whom Lord Balto would often have cause to consult. The purpose of these paintings was to make such consultation easy. Simply concentrating on the painting sets up a strong mental rapport between the viewer and the person depicted. The rapport takes one complete round to develop; after that time, it allows the two people to communicate fully as though through //telepathy//. There is no limit to the duration of the rapport or to the number of times it can be established. All that is required is for the viewer to look at the painting and concentrate on establishing the rapport. During rapport, both participants can engage in no other activity.</wrap>\\
+<wrap indent>As the rapport is being established, the person depicted becomes aware of a chilling cold and a sensation of presence. If the person is willing to enter communication, rapport is established after one round; if unwilling, a save vs. spell must be made to terminate contact. A successful save means that contact is broken and cannot be reattempted for a period of one hour. If the save fails, the person being contacted has one last chance to resist rapport. During the round that establishes rapport, contact may be resisted by the use of mind-shielding spells, devices, or psionics. Once established, rapport can only be broken by the viewer or through the death or loss of consciousness of one of the participants—there is no range limit.</wrap>\\
+<wrap indent>All of Igraine’s portrait paintings still in existence, except for one to be discussed later, depict people who have died since the creation of the paintings. If anyone, through ignorance or design, tries to establish rapport through such a painting, there is a fixed 50% chance of establishing rapport with the spirit of the dead person. Treat the rapport as the spell //contact other plane//. To determine the chances of insanity, knowledge, and veracity, assume the spirit is nine planes removed from the viewer of the painting. The viewer can ask one question for each two levels of experience (only wizards receive benefit for Intelligence scores over 15). Since rapport with a dead person requires much more of the painting’s power, this can only be attempted once per day.</wrap>\\
+<wrap indent>Rumors tell of one surviving painting that does not depict a dead confidant of Lord Balto. This is the painting that Igraine was working on at the time of her death. The background is complete, as is the body of the person depicted—only the face is missing. Perhaps because its dweomer was not finally bound by the completion of the painting, this famed “unfinished portrait” has an additional power over and above those possessed by Igraine’s other works. By concentrating strongly on the painting for a period of two rounds, the viewer can make the likeness of anyone well known by the viewer to appear in the portrait. The painting can then be used to establish rapport with that person (in this case, a saving throw is automatic whether the person being contacted is willing or not). If rapport fails or is broken, the face vanishes from the portrait again. This power can be used once every two full days. Although no firm information is available, there is a persistent rumor that Igraine’s unfinished portrait hangs in the halls of a dwarf king.</wrap>
 
 Norval’s Timely Portrait
-
 **XP Value:** 750 **GP Value:** 4,000
 POLYHEDRON Newszine 8
-This small, canvas, inset in a wooden frame, fits
-into the palm of one’s hand. To use it, a command
-word is spoken and the canvas is held up to a liv-
-ing subject for 10 minutes. At the end of that
-time, an image of the subject appears on the can-
-vas. During the life of the subject, the painted fig-
-ure mimics the portrayed individual, showing age
-and well being. At the point when the subject
-passes from this world (even if just leaving the
-plane), the canvas is wiped clean and is ready to
-be used again.
+This small, canvas, inset in a wooden frame, fits into the palm of one’s hand. To use it, a command word is spoken and the canvas is held up to a living subject for 10 minutes. At the end of that time, an image of the subject appears on the canvas. During the life of the subject, the painted figure mimics the portrayed individual, showing age and well being. At the point when the subject passes from this world (even if just leaving the plane), the canvas is wiped clean and is ready to be used again.
 
 Pigments of Longevity
 **XP Value:** 5,000 **GP Value:** 50,000
 DUNGEON Magazine 10
+This powerful but perilous magical item extends the life-span of the person whose features are portrayed on its canvas. The canvas must be subjected to //enchant an item//, //polymorph object//, //trap the soul//, and //wish// spells as a diamond of at least 50,000 gp value is crushed and sprinkled on its surface. The portrait must be painted by a living, master painter, using //pigments of longevity//, As the last brush stroke is applied, the portrait must be dried using another //wish//. Then 1d100 is rolled against the following table.
 
-This powerful but perilous magical item extends
-the life-span of the person whose features are
-portrayed on its canvas. The canvas must be sub-
-jected to enchant an item, polymorph object, trap
-the soul, and wish spells as a diamond of at least
-50,000 gp value is crushed and sprinkled on its
-surface. The portrait must be painted by a living,
-master painter, using pigments of longevity, As
-the last brush stroke is applied, the portrait must
-be dried using another wish. Then 1d100 is rolled
-against the following table.
+^ Roll ^ Effect |
+| 01-20 | Subject’s body shrivels, and his or her essence is trapped for eternity in the portrait. |
+| 21-35 | No effect; subject ages normally. Portrait may not be retouched. |
+| 36-60 | Subject’s life-span is doubled |
+| 61-80 | Subject’s life-span is tripled |
+| 81-95 | Subject’s life-span is quadrupled |
+| 96-99 | Subject’s life-span is quintupled |
+| 00 | Subject’s aging capacity ceases. Immortality is achieved! |
 
-Roll Effect
+<wrap indent>Only one //portrait of longevity// may be made of a person during his or her lifetime, but a portrait may be periodically retouched with //pigments of longevity//. Each time a portrait is retouched, the table above must be consulted to determine the potency of the restoration. Thus, a subject may be trapped forever or gain immortality the second time around, and must decide if the gamble is worthwhile. Even //wish// spells cannot alter a roll on this table.</wrap>\\
+<wrap indent>The formula for a //portrait of longevity// is inherently evil. There is a 1% cumulative chance per decade that an alignment shift toward chaotic evil (lawful to neutral to chaotic; good to neutral to evil; one axis at a time) affects the figure depicted by a //portrait of longevity//.</wrap>\\
+<wrap indent>If the portrait is destroyed, the following table should be consulted:</wrap>\\
 
-01-20  Subject’s body shrivels, and his or her
-essence is trapped for eternity in the
-portrait.
+^ Roll ^ Effect |
+| 01-20 | Subject turns to dust, forever dead. |
+| 21-65 | Subject reverts to true age. If that age is greater than venerable, the subject dies. |
+| 66-99 | The subject ages normally from the current, apparent age. |
+| 00 | Subject’s aging capacity is destroyed with the portrait—Immortality is achieved! |
 
-21-35 No effect; subject ages normally. Por-
-trait may not be retouched.
-
-36-60 Subject’s life-span is doubled
-
-61-80  Subject’s life-span is tripled
-
-81-95 Subject’s life-span is quadrupled
-
-96-99  Subject’s life-span is quintupled
-
-00 Subject’s aging capacity ceases.
-
-Immortality is achieved!
-
-Only one portrait of longevity may be made of
-a person during his or her lifetime, but a portrait
-may be periodically retouched with pigments of
-longevity. Each time a portrait is retouched, the
-table above must be consulted to determine the
-potency of the restoration. Thus, a subject may be
-trapped forever or gain immortality the second
-time around, and must decide if the gamble is
-worthwhile. Even wish spells cannot alter a roll
-on this table.
-
-The formula for a portrait of longevity is inher-
-ently evil. There is a 1% cumulative chance per
-decade that an alignment shift toward chaotic evil
-(lawful to neutral to chaotic; good to neutral to
-evil; one axis at a time) affects the figure depicted
-by a portrait of longevity.
-
-If the portrait is destroyed, the following table
-should be consulted:
-
-Roll Effect
-01-20 Subject turns to dust, forever dead.
-21-65 Subject reverts to true age. If that age is
-greater than venerable, the subject dies.
-66-99 The subject ages normally from the
-current, apparent age.
-00 Subject’s aging capacity is destroyed
-
-with the portrait—Immortality is
-achieved!
-
-Portraits of longevity are extremely rare. The
-only known location of the formula for creating
-them is the Astral Tome of Ildranadum, an artifact
-last known to exist in the astral stronghold of the
-Archmage Azurax.
+<wrap indent>//Portraits of longevity// are extremely rare. The only known location of the formula for creating them is the //Astral Tome of Ildranadum//, an artifact last known to exist in the astral stronghold of the Archmage Azurax.</wrap>
 
 Portraiture by Magic
 **XP Value:** 4,000 **GP Value:** 40,000
 DRAGON Magazine 73
-A canvas is stretched on an ordinary artist’s
-frame; when a magical word is spoken, the can-
-vas takes on the image of whatever faces it. The
-result is a very realistic painting.
+A canvas is stretched on an ordinary artist’s frame; when a magical word is spoken, the canvas takes on the image of whatever faces it. The result is a very realistic painting.
 
 The Watchers
-
-**GP Value:** 12,000
+**XP Value:** — **GP Value:** 12,000
 DRAGON Magazine 179
-Created over three centuries ago by Tal Alanan,
-an evil elven wizard, The Watchers is a bulky
-painting, 4 feet wide by 3 feet high, on heavy
-canvas. When last reported, it was framed in dark
-oak. The work depicts a wooded area with heavy
-
-undergrowth. Barely discernible are the eyes of
-317
-
-**XP Value:** —
-
- 
-
-106
-
-Me
-Ate spate
-Nel! y
-
-OU = SA
-
- 
-
-several creatures watching through the bush (a
-viewer must consciously examine the picture to
-notice them). The dark-colored style has an
-oppressive, almost menacing, feel to it. Just pass-
-ing the picture or seeing it in peripheral vision
-gives the viewer an overpowering impression of
-subtle movement; leaves seem to shift, and the
-bush seems to stir as creatures move behind
-cover. Looking directly at the painting removes
-this discomforting effect.
-
-Concentrated scrutiny for more than one round
-activates the powers of the painting. The viewer
-becomes disoriented, then feels that he or she is
-being drawn into the painting. If a saving throw
-vs. spell fails, the viewer’s mind merges with the
-consciousness of a small, woodland animal, such
-as a fox or an owl, one actually existing in the
-wooded area nearest to the painting (and viewer)
-at the moment, within a range of 20 miles. If no
-such woodland area exists or if the viewer's sav-
-ing throw is successful, no ill effects are suffered.
-If mental merging with an animal does occur, the
-viewer's sensory perspective moves as the animal
-does, and all senses become heightened and
-attuned to the forest and the creature.
-
-Unless the viewer is aware of the problem and
-concentrates on avoiding it during the moment of
-disorientation, the victim’s mentality becomes
-
-The Watchers
-
-one with the small animal as well, unable to with-
-draw. (Recognizing this problem requires a Wis-
-dom check on 1d20 each time the painting is
-gazed at until the viewer makes the check. The
-check need not be made again.) Once this magi-
-cal union is joined, it can be broken only by
-blocking the victim’s view of the painting or an
-anti-magical field (not by dispel magic). During
-this union, the participant’s body becomes rigid
-and unresponsive, while heart and breathing rates
-rise drastically, posing severe danger. For every
-10 rounds the victim remains magically captured
-by the painting, a successful system shock roll
-must be made or take 3d6 hit points damage from
-physical exhaustion.
-
-When an unwitting mental union is broken, the
-victim’s heart rate and breathing drop back to
-normal, but the animal mentality remains. For
-each round such a union exists, the animal men-
-tality remains for one round after union is broken.
-Role-playing this event is left to the DM and
-player involved. After this period, the victim’s
-mind returns to normal. This does not occur if the
-viewer passes the Wisdom check.
-
-If the viewer makes the Wisdom check and
-then voids the subsequent saving throw, he or she
-is in control of the merged animal when the union
-occurs, able to move anywhere at will, within the
-nearby woodland, with movement and speed
-appropriate to the animal (see the Monsrrous
-MANUAL™ accessory under Mammal, Small, or
-the appropriate animal type; only normal, non-
-magical animals are contacted). In such a case,
-the viewer can break contact at will, returning to
-his or her own body immediately. However, the
-stress on the heart, requiring a system shock roll,
-still exists.
-
-In addition to controlling the animal, someone
-who knows the powers of the painting can even
-choose where the animal to be controlled is
-located. Before viewing the painting, the user
-must concentrate on the desired region. The only
-restriction is that the area must be wooded and
-within 50 miles. As with teleportation, the
-chance of successfully “reaching” the target area
-depends on familiarity; use the same probabilities
-for success as for the spell teleport, in the PHB. If
-the viewer fails the roll (comes in “low” or
-“high”) or does not concentrate on a specific
-locale, the wooded area used is the one nearest to
-the painting within a 20-mile radius.
-
-If, during the union, the animal is wounded,
-
- 
-
-107
-
-317
-%
-Widow’s Walk
-
-the viewer immediately loses a proportion of hit
-points equal to the proportion lost by the animal
-(if a 4-hit point fox takes a wound doing 3
-points damage, the viewer immediately takes
-damage equal to % total hit points, not the char-
-acter’s current hit point value), fractions are
-rounded down; save vs. death magic for half of
-this damage. If the animal is killed, the viewer
-must save vs. death magic or die instantly.
-(Even if the saving throw is successful, hit
-points drop to one, and the victim falls uncon-
-scious for 4d4 rounds.)
-
-Any spellcaster who successfully avoids
-merging with an animal mind, then concentrates
-on the painting for 10 uninterrupted rounds,
-gains the power to cast one of the following
-spells, chosen at will: entangle, call woodland
-beings, speak with animals, animal friendship,
-invisibility to animals, transport via plants. This
-spell is in addition to the character’s spell allot-
-ment for the day. In the case of nondruid spell-
-casters, the level of casting is 6th level; for
-druids, the level of casting is the druid’s own
-level plus two, or 6th level, whichever is greater.
-Each spell gained can be used only once and
-must be cast within a 24-hour period of viewing
-the painting, or else the acquired spell fades
-from the caster’s mind.
-
-It is said that Tal Alanan kept close, covert
-watch over his elven subjects using this painting,
-and he was greatly feared for his intimate knowl-
-edge of the occurrences within his minor king-
-dom. Until he was overthrown by a neighboring
-woodland kingdom, he successfully crushed
-every rebellion raised against him and controlled
-all aspects of life within his magical reach. After
-his death, his possessions (including the painting)
-were collected, but later stolen by rival wizards.
-The painting’s whereabouts are currently
-unknown.
+Created over three centuries ago by Tal Alanan, an evil elven wizard, //The Watchers// is a bulky painting, 4 feet wide by 3 feet high, on heavy canvas. When last reported, it was framed in dark oak. The work depicts a wooded area with heavy undergrowth. Barely discernible are the eyes of several creatures watching through the bush (a viewer must consciously examine the picture to notice them). The dark-colored style has an oppressive, almost menacing, feel to it. Just passing the picture or seeing it in peripheral vision gives the viewer an overpowering impression of subtle movement; leaves seem to shift, and the bush seems to stir as creatures move behind cover. Looking directly at the //painting// removes this discomforting effect.\\
+<wrap indent>Concentrated scrutiny for more than one round activates the powers of the painting. The viewer becomes disoriented, then feels that he or she is being drawn into the painting. If a saving throw vs. spell fails, the viewer’s mind merges with the consciousness of a small, woodland animal, such as a fox or an owl, one actually existing in the wooded area nearest to the painting (and viewer) at the moment, within a range of 20 miles. If no such woodland area exists or if the viewer's saving throw is successful, no ill effects are suffered. If mental merging with an animal does occur, the viewer's sensory perspective moves as the animal does, and all senses become heightened and attuned to the forest and the creature.</wrap>\\
+<wrap indent>Unless the viewer is aware of the problem and concentrates on avoiding it during the moment of disorientation, the victim’s mentality becomes one with the small animal as well, unable to withdraw. (Recognizing this problem requires a Wis- dom check on 1d20 each time the painting is gazed at until the viewer makes the check. The check need not be made again.) Once this magical union is joined, it can be broken only by blocking the victim’s view of the painting or an anti-magical field (not by //dispel magic//). During this union, the participant’s body becomes rigid and unresponsive, while heart and breathing rates rise drastically, posing severe danger. For every 10 rounds the victim remains magically captured by the painting, a successful system shock roll must be made or take 3d6 hit points damage from physical exhaustion.</wrap>\\
+<wrap indent>When an unwitting mental union is broken, the victim’s heart rate and breathing drop back to normal, but the animal mentality remains. For each round such a union exists, the animal mentality remains for one round after union is broken. Role-playing this event is left to the DM and player involved. After this period, the victim’s mind returns to normal. This does not occur if the viewer passes the Wisdom check.</wrap>\\
+<wrap indent>If the viewer makes the Wisdom check and then voids the subsequent saving throw, he or she is in control of the merged animal when the union occurs, able to move anywhere at will, within the nearby woodland, with movement and speed appropriate to the animal (see the //Monstrous MANUAL™// accessory under **Mammal, Small**, or the appropriate animal type; only normal, non-magical animals are contacted). In such a case, the viewer can break contact at will, returning to his or her own body immediately. However, the stress on the heart, requiring a system shock roll, still exists.</wrap>\\
+<wrap indent>In addition to controlling the animal, someone who knows the powers of the painting can even choose where the animal to be controlled is located. Before viewing the painting, the user must concentrate on the desired region. The only restriction is that the area must be wooded and within 50 miles. As with //teleportation//, the chance of successfully “reaching” the target area depends on familiarity; use the same probabilities for success as for the spell //teleport//, in the //PHB//. If the viewer fails the roll (comes in “low” or “high”) or does not concentrate on a specific locale, the wooded area used is the one nearest to the painting within a 20-mile radius.</wrap>\\
+<wrap indent>If, during the union, the animal is wounded, the viewer immediately loses a proportion of hit points equal to the proportion lost by the animal (if a 4-hit point fox takes a wound doing 3 points damage, the viewer immediately takes damage equal to % total hit points, not the character’s current hit point value), fractions are rounded down; save vs. death magic for half of this damage. If the animal is killed, the viewer must save vs. death magic or die instantly. (Even if the saving throw is successful, hit points drop to one, and the victim falls unconscious for 4d4 rounds.)</wrap>\\
+<wrap indent>Any spellcaster who successfully avoids merging with an animal mind, then concentrates on the painting for 10 uninterrupted rounds, gains the power to cast one of the following spells, chosen at will: //entangle//, //call woodland beings//, //speak with animals//, //animal friendship//, //invisibility to animals//, //transport via plants//. This spell is in addition to the character’s spell allotment for the day. In the case of nondruid spellcasters, the level of casting is 6th level; for druids, the level of casting is the druid’s own level plus two, or 6th level, whichever is greater. Each spell gained can be used only once and must be cast within a 24-hour period of viewing the painting, or else the acquired spell fades from the caster’s mind.</wrap>\\
+<wrap indent>It is said that Tal Alanan kept close, covert watch over his elven subjects using this painting, and he was greatly feared for his intimate knowledge of the occurrences within his minor kingdom. Until he was overthrown by a neighboring woodland kingdom, he successfully crushed every rebellion raised against him and controlled all aspects of life within his magical reach. After his death, his possessions (including the painting) were collected, but later stolen by rival wizards. The painting’s whereabouts are currently unknown.</wrap>
 
 Widow’s Walk
-
-**GP Value:** 40,000
+**XP Value:** — **GP Value:** 40,000
 DraGon Magazine 179
-This painting shows the crowded dockside of a
-bustling port. Created by Balfas the Seafarer,
-famed for his love of ships and all things nautical,
-the painting was reportedly destroyed in the sack
-of his island manor, but reappeared in the collec-
-tion of Ramoth, of Northport. This is often cited
-as evidence that Ramoth in fact funded the raid
-on the manor—in any case, there is serious doubt
+This painting shows the crowded dockside of a bustling port. Created by Balfas the Seafarer, famed for his love of ships and all things nautical, the painting was reportedly destroyed in the sack of his island manor, but reappeared in the collection of Ramoth, of Northport. This is often cited as evidence that Ramoth in fact funded the raid on the manor—in any case, there is serious doubt that Ramoth can tap, or is even aware of, the true powers of his prize.\\
+<wrap indent>When someone viewing the painting looks closely at the crowd on the dockside, he or she immediately notices a representation of the person most on the viewer’s mind during that day. While initially startling and intriguing, this is but a minor effect of the painting, an intimate alignment with the viewer’s mind.</wrap>\\
+<wrap indent>The major power of the painting is to allow the viewer total protection from divination, detection, and scrying spells or powers. The viewer cannot be detected from afar by any means while concentrating on viewing the painting for 10 rounds. Psionics, scrying spells, devices such as //crystal balls// and //magical mirrors//—all are useless. If the viewer is a wizard of 6th level or above, this effect protects the character from detection by any creature up to the status of a demigod. The isolation effect lasts for up to eight hours or until the invoker consciously dispels it. During this time, he or she need not concentrate on maintaining the effect; nor is it necessary to continue viewing the painting. The effect can be invoked only once per day and can be granted to but one person at a time. This power does not confer any form of //invisibility//; the protection is restricted to magical and psionic forms of detection alone. Any creature that can see the viewer directly can attack without interference from the picture.</wrap>\\
+<wrap indent>In addition to the isolation effect, the viewer of the painting can cast each of the following wizard spells once per day, at the 18th level, by staring at the painting for one uninterrupted hour: //control weather//, //part water//, //water breathing//, and //fog cloud//. These spells may be maintained indefinitely in the viewer’s mind if uncast.</wrap>\\
+<wrap indent>The painting is relatively small, 2- by 2-foot square, and is lightly framed. Despite its fragile appearance, it is totally immune to damage from water or lightning. All other damage is saved against at +2.</wrap>
 
-**XP Value:** —
+===== Astrolabe =====
 
- 
-
- 
-
-that Ramoth can tap, or is even aware of, the true
-powers of his prize.
-
-When someone viewing the painting looks
-closely at the crowd on the dockside, he or she
-immediately notices a representation of the per-
-son most on the viewer’s mind during that day.
-While initially startling and intriguing, this is but
-a minor effect of the painting, an intimate align-
-ment with the viewer’s mind.
-
-The major power of the painting is to allow the
-viewer total protection from divination, detection,
-and scrying spells or powers. The viewer cannot
-be detected from afar by any means while con-
-centrating on viewing the painting for 10 rounds.
-Psionics, scrying spells, devices such as crystal
-balls and magical mirrors—all are useless. If the
-viewer is a wizard of 6th level or above, this
-effect protects the character from detection by
-any creature up to the status of a demigod. The
-isolation effect lasts for up to eight hours or until
-the invoker consciously dispels it. During this
-time, he or she need not concentrate on maintain-
-ing the effect; nor is it necessary to continue
-viewing the painting. The effect can be invoked
-only once per day and can be granted to but one
-person at a time. This power does not confer any
-form of invisibility; the protection is restricted to
-
-magical and psionic forms of detection alone.
-318
-
- 
-
-108
-
-X
-Any creature that can see the viewer directly can
-attack without interference from the picture.
-
-In addition to the isolation effect, the viewer of
-the painting can cast each of the following wizard
-spells once per day, at the 18th level, by staring at
-the painting for one uninterrupted hour: control
-weather, part water, water breathing, and fog
-cloud. These spells may be maintained indefi-
-nitely in the viewer’s mind if uncast.
-
-The painting is relatively small, 2- by 2-foot
-square, and is lightly framed. Despite its fragile
-appearance, it is totally immune to damage from
-water or lightning. All other damage is saved
-against at +2.
-
-Astrolabe
-
-The historical astrolabe was a device used to
-determine the astron of the sun, the moon, and
-other celestial objects. Originally, the navigator
-of a sea-going vessel would locate a relatively
-stationary stellar object (the North Star, for
-instance) and find its position. From that reading,
-the navigator would be able to calculate the
-approximate latitude of the ship. Since most sea
-travel was done on an east-to-west axis from
-common ports, the navigator rarely needed to
-know the longitude. Simply knowing that the ship
-was three days out of home port, the navigator
-would know the approximate number of days left
-in the voyage. The navigator did need to know
-how far north or south he or she was from the
-destination.
-
-A magical astrolabe allows a navigator to know
-exactly where the ship is, both in longitude and
-latitude, without having to make exact measure-
-ments and precise calculations.
+The historical astrolabe was a device used to determine the astron of the sun, the moon, and other celestial objects. Originally, the navigator of a sea-going vessel would locate a relatively stationary stellar object (the North Star, for instance) and find its position. From that reading, the navigator would be able to calculate the approximate latitude of the ship. Since most sea travel was done on an east-to-west axis from common ports, the navigator rarely needed to know the longitude. Simply knowing that the ship was three days out of home port, the navigator would know the approximate number of days left in the voyage. The navigator did need to know how far north or south he or she was from the destination.\\
+<wrap indent>A magical astrolabe allows a navigator to know exactly where the ship is, both in longitude and latitude, without having to make exact measurements and precise calculations.</wrap>
 
 Celestial
 **XP Value:** 2,000 **GP Value:** 8,000
 War Captain’s Companion
-
-Celestial astrolabes are large, fixed devices. They
-are used to display the location of astronomical
-bodies of Class A and larger. These fixed astro-
-labes display a large, spherical projection, and
-must be used inside a crystal sphere, in a dark
-room, or during the night, when no lights can dis-
-turb the picture. The item creates a three-dimen-
-sional picture, exactly to scale. The astrolabe
-shows the orbital path and the current location of
-every large or major celestial body in the crystal
-sphere. The 3-D picture perfectly fits the room it
-is in, or a radius of 30 feet, whichever is smaller.
-
-Astrolabe of Entrapment
-
-The points of varying colors of light a fixed
-astrolabe creates, show the motions and colors of
-all planets, moons, suns, asteroids, and comets
-(though some anomalies cannot be penetrated). A
-small point of white that blinks once every second
-shows the relative position of the astrolabe in the
-system. This is often used in navigation rooms to
-check course changes and verify headings.
-
-A celestial astrolabe always operates, and can-
-not be turned off. Merely bringing a light source
-into its room, however, is enough to nullify the
-faint picture it presents. Thus conferences and
-meetings can be held in a room with an astrolabe
-without the attendees realizing one is present.
+//Celestial astrolabes// are large, fixed devices. They are used to display the location of astronomical bodies of Class A and larger. These fixed astrolabes display a large, spherical projection, and must be used inside a crystal sphere, in a dark room, or during the night, when no lights can disturb the picture. The item creates a three-dimensional picture, exactly to scale. The astrolabe shows the orbital path and the current location of every large or major celestial body in the crystal sphere. The 3-D picture perfectly fits the room it is in, or a radius of 30 feet, whichever is smaller.\\
+<wrap indent>The points of varying colors of light a fixed astrolabe creates, show the motions and colors of all planets, moons, suns, asteroids, and comets (though some anomalies cannot be penetrated). A small point of white that blinks once every second shows the relative position of the astrolabe in the system. This is often used in navigation rooms to check course changes and verify headings.</wrap>\\
+<wrap indent>A //celestial astrolabe// always operates, and cannot be turned off. Merely bringing a light source into its room, however, is enough to nullify the faint picture it presents. Thus conferences and meetings can be held in a room with an astrolabe without the attendees realizing one is present.</wrap>
 
 of Henrik
 **XP Value:** — **GP Value:** 8,000
 In the Phantom’s Wake
-The astrolabe of Henrik is a cursed item of great
-power. When activated, it sends the user and
-everything within 10 feet of the user, to the near-
-est cursed location or to a place enchanted by
-evil. The astrolabe of Henrik usually sends
-people to the Hollandes, but the DM is free to
-send the characters anywhere. The device itself
-does not go with the transported party.
+The //astrolabe of Henrik// is a cursed item of great power. When activated, it sends the user and everything within 10 feet of the user, to the nearest cursed location or to a place enchanted by evil. The //astrolabe of Henrik// usually sends people to the Hollandes, but the DM is free to send the characters anywhere. The device itself does not go with the transported party.
 
 of Entrapment
 **XP Value:** 10,000 **GP Value:** 100,000
 A Dozen and One Adventures
+Only a handful of these powerful items exist. They appear to be metal, spherical astrolabes, inscribed with the locations of constellations and planets. Like all astrolabes, they are useful to wizards with the astrology proficiency, who can use the device to determine the hour, date, and location in terms of degrees latitude (each requiring a successful ability check). In addition, this item magically draws power from the motion of the stars and planets in the heavens and uses the energy to imprison genies.\\
+<wrap indent>An //astrolabe of entrapment// contains 12 genie prisons arranged in an elaborate mechanism inside its metal sphere. As the constellations wind their paths across the night sky, the inner cycle of prisons slowly revolves. Only one genie prison in the device is active in any given month. During that time, the owner of the astrolabe may employ any or all of its three functions:</wrap>\\
+* Summon the genie trapped within the active prison. Roll on the following table to determine each of the 12 prison contents:
 
-Only a handful of these powerful items exist.
-They appear to be metal, spherical astrolabes,
-inscribed with the locations of constellations and
-planets. Like all astrolabes, they are useful to
-wizards with the astrology proficiency, who can
-use the device to determine the hour, date, and
-location in terms of degrees latitude (each requir-
-ing a successful ability check). In addition, this
-item magically draws power from the motion of
-the stars and planets in the heavens and uses the
-energy to imprison genies.
+^ Roll ^ Type of Genie |
+| 01-20 | None. The trapped genie was released. |
+| 21-35 | Dyjinni. |
+| 36-55 | Dao. |
+| 56-75 | Efreeti. |
+| 76-90 | Marid. |
+| 91-96 | Tasked Genie (DM’s choice). |
+| 97-00 | Noble Genie (DM’s choice). |
 
-An astrolabe of entrapment contains 12 genie
-prisons arranged in an elaborate mechanism
-inside its metal sphere. As the constellations wind
-their paths across the night sky, the inner cycle of
-prisons slowly revolves. Only one genie prison in
-the device is active in any given month. During
-that time, the owner of the astrolabe may employ
-any or all of its three functions:
+<wrap indent>Once called, there is an 80% chance that the genie can be commanded to perform certain actions for the owner of the astrolabe, but there is a 20% chance that the trapped genie is so enraged that it attacks whoever is within reach for 2d12 rounds before the power of the astrolabe prevents further havoc. In these rare instances, the berserk genie may never harm the owner, though any nearby friends and family are fair game for the genie’s retribution. A trapped (and obedient) genie can only be summoned from its prison once per day to perform a specific task for its master.</wrap>\\
+* Free the genie trapped within the active prison. This might be risky, for once the genie is free, nothing can prevent it from seeking revenge on its previous master, the master’s friends, and family. Usually, fear of further imprisonment within the astrolabe keeps the genie from immediate, direct vengeance.
+* Trap a genie within the active prison. This function can only be used on a single genie within 30 feet of the astrolabe. The victim is entitled to a save vs. spell at a -6 penalty. If it fails, the genie is imprisoned and any genie previously trapped in the active prison is automatically released, with the consequences described above. If a genie makes its save, it is immune to the effects of the astrolabe for a full calendar month and during that time seeks to destroy both the device and its owner.
+<wrap indent>At the end of each month, the current prison deactivates for the next 11 months, trapping the genie inside with no chance for release until the clockwork prison mechanism inside the astrolabe has made another complete revolution. Most genies are aware of the 30 days of “parole” from their cyclical prison, and seek to convince the astrolabe’s owner to release them during that time by swearing oaths and pleading with promises of good behavior.</wrap>\\
+<wrap indent>Although powerful divination spells might hint cryptically at an astrolabe’s prisoners, the DM should never reveal what genies are trapped within an astrolabe when it is discovered.</wrap>
 
-* Summon the genie trapped within the active
-prison. Roll on the following table to deter-
+===== Awl =====
 
-mine each of the 12 prison contents:
-321
+An awl is a common leather working tool—a metal spike 3 inches or more in length with a wooden handle. Though normal awls are common, magical ones are not. Roll on the table below to determine what is found.
 
- 
-
-109
-
-My.
-Awl of the Above
-
-Roll Type of Genie
-
-01-20 None. The trapped genie was released.
-21-35  Dyjinni.
-
-36-55 Dao.
-
-56-75 Efreeti.
-
-76-90 = Marid.
-
-91-96  ‘Tasked Genie (DM’s choice).
-
-97-00 Noble Genie (DM’s choice).
-
-Once called, there is an 80% chance that the
-genie can be commanded to perform certain
-actions for the owner of the astrolabe, but there is
-a 20% chance that the trapped genie is so enraged
-that it attacks whoever is within reach for 2d12
-rounds before the power of the astrolabe prevents
-further havoc. In these rare instances, the berserk
-genie may never harm the owner, though any
-nearby friends and family are fair game for the
-genie’s retribution. A trapped (and obedient)
-genie can only be summoned from its prison once
-per day to perform a specific task for its master.
-¢ Free the genie trapped within the active prison.
-
-This might be risky, for once the genie is free,
-
-nothing can prevent it from seeking revenge
-
-on its previous master, the master’s friends,
-and family. Usually, fear of further imprison-
-ment within the astrolabe keeps the genie
-from immediate, direct vengeance.
-
-¢ Trap a genie within the active prison. This
-function can only be used on a single genie
-within 30 feet of the astrolabe. The victim is
-entitled to a save vs. spell at a -6 penalty. If it
-fails, the genie is imprisoned and any genie
-previously trapped in the active prison is auto-
-matically released, with the consequences
-described above. If a genie makes its save, it is
-
-immune to the effects of the astrolabe for a
-
-full calendar month and during that time seeks
-
-to destroy both the device and its owner.
-
-At the end of each month, the current prison
-deactivates for the next 11 months, trapping the
-genie inside with no chance for release until the
-clockwork prison mechanism inside the astrolabe
-has made another complete revolution. Most genies
-are aware of the 30 days of “parole” from their
-cyclical prison, and seek to convince the astrolabe’s
-owner to release them during that time by swearing
-oaths and pleading with promises of good behavior.
-
-Although powerful divination spells might hint
-cryptically at an astrolabe’s prisoners, the DM
-should never reveal what genies are trapped
-within an astrolabe when it is discovered.
-
-“Nl sesieeeieneneeeeeeieeeninnemeee eee enema
-
-Awl
-
-An awl is a common leather working tool—a
-metal spike 3 inches or more in length with a
-wooden handle. Though normal awls are com-
-mon, magical ones are not. Roll on the table
-below to determine what is found.
-
-Roll Awl Type
-01-70 ~—s Awl
-71-00 Ice Pick
+^ Roll ^ Awl Type |
+| 01-70 | Awl |
+| 71-00 | Ice Pick |
 
 of the Above
 **XP Value:** 1,000 **GP Value:** 5,000
 POLYHEDRON Newszine 23
+If this item is held and the command word spoken, it attracts the attention of an Immortal or a deity (a powerful being from the Outer Planes, immune to all character attacks and spells, with very great powers). This being’s actions are determined by rolling 1d6, using the chart below after applying the following adjustments. If the user is magically cursed when the awl is used (however minor the curse), or is Carrying a //cursed// item, a -1 penalty applies to the roll. If a //wish// is cast before the awl is used, //wishing// for good fortune, a +1 bonus applies. After the awl is used, there is no way to alter what occurs. The awl may be used once a year. The 1d6 table below is adjusted for the modifiers.
 
-If this item is held and the command word spoken,
-it attracts the attention of an Immortal or a deity (a
-powerful being from the Outer Planes, immune to
-all character attacks and spells, with very great
-powers). This being’s actions are determined by
-rolling 1d6, using the chart below after applying
-the following adjustments. If the user is magically
-cursed when the awl is used (however minor the
-curse), or is Carrying a cursed item, a-1 penalty
-applies to the roll. Ifa wish is cast before the awl is
-used, wishing for good fortune, a +1 bonus applies.
-After the awl is used, there is no way to alter what
-occurs. The awl may be used once a year. The 1d6
-table below is adjusted for the modifiers.
+^ Roll ^ Immortal Reaction |
+| 0 | Appear and then depart with both the character and the awl. (The character can only be retrieved by others, who must first regain the immortal’s attention and then please the creature with a great service or sacrifice). |
+| 1 | Appear, slay the character (no saving throw), and depart, leaving the awl. |
+| 2 | Ignore the summons (nothing happens). |
+| 3 | Appear, take the awl, and depart. |
+| 4 | Answer any three questions for the user, take the awl, and depart. |
+| 5 | Raise any one ability score by three points (to a maximum of 18), as desired by the user; the immortal takes the awl and departs. |
+| 6 | Grant one //wish// to the holder and depart, leaving the awl. |
+| 7 | Replace the user’s //wish// (usable any time thereafter), grant one other //wish// (made at that time), and depart, taking the awl. |
 
-Roll Immortal Reaction
-0 Appear and then depart with both the
-character and the awl. (The character can
-only be retrieved by others, who must
-first regain the immortal’s attention and
-then please the creature with a great ser-
-vice or sacrifice),
-
-l Appear, slay the character (no saving
-throw), and depart, leaving the awl.
-
-2 Ignore the summons (nothing happens).
-
-3 Appear, take the awl, and depart.
-
-4 Answer any three questions for the user,
-take the awl, and depart.
-
-5 Raise any one ability score by three
-
-points (to a maximum of 18), as desired
-by the user; the immortal takes the aw]
-and departs.
-
-6 Grant one wish to the holder and depart,
-leaving the awl.
-
-7 Replace the user’s wish (usable any time
-thereafter), grant one other wish (made at
-
-that time), and depart, taking the awl.
-322
-
- 
-
-110
-
-="
-Full
+Full
 **XP Value:** 3,000 **GP Value:** 12,000
 The Book of Marvelous Magic
-When this awl is inserted into a skin containing
-one or more drops of water, wine, or oil and the
-command word is spoken, it causes the container
-to fill completely with the same liquid. Only non-
-magical liquids can be affected by the full awl.
+When this awl is inserted into a skin containing one or more drops of water, wine, or oil and the command word is spoken, it causes the container to fill completely with the same liquid. Only non-magical liquids can be affected by the full awl.
 
 of Hole Punching
 **XP Value:** 300 **GP Value:** 5,000
 The Book of Marvelous Magic
-
-This awl can be used to create a hole large enough
-to see through (44-inch across and up to 5 feet
-deep) in any nonliving material—including mage
-wall spells and solid steel. It does not affect crea-
-tures of any kind and, if used on a magical
-weapon, it does not change or destroy the
-enchantments upon it. The awi of hole punching
-may be used as often as desired.
+This awl can be used to create a hole large enough to see through (44-inch across and up to 5 feet deep) in any nonliving material—including //mage wall// spells and solid steel. It does not affect creatures of any kind and, if used on a magical weapon, it does not change or destroy the enchantments upon it. The awi of //hole punching// may be used as often as desired.
 
 Inn
 **XP Value:** 1,000 **GP Value:** 8,000
 POLYHEDRON Newszine 23
-
-This item creates an apparently normal door out
-of thin air, on command. The door may be opened
-easily, and remains open for one turn. Anyone
-passing through the door arrives in a safe, friendly
-inn, where food, drink, and a good night’s rest
-may be had (though at 10 times normal prices).
-The inn contains one manager, one chef, one bar-
-keep, 50 furnished rooms, and 1d20 other visitors
-of various races (NPCs and monsters alike). At
-least one of each category also possesses an awl.
-It is magically impossible for any visitor to dis-
-obey the Manager or to attack or steal from the
-inn or from any other resident. There is only a
-gray mist outside of the inn, and the mist cannot
-be entered. All visitors leave the inn after break-
-fast (no saving throw). The awi/ inn may be used
-only once per week.
+This item creates an apparently normal door out of thin air, on command. The door may be opened easily, and remains open for one turn. Anyone passing through the door arrives in a safe, friendly inn, where food, drink, and a good night’s rest may be had (though at 10 times normal prices). The inn contains one manager, one chef, one barkeep, 50 furnished rooms, and 1d20 other visitors of various races (NPCs and monsters alike). At least one of each category also possesses an awl. It is magically impossible for any visitor to disobey the Manager or to attack or steal from the inn or from any other resident. There is only a gray mist outside of the inn, and the mist cannot be entered. All visitors leave the inn after breakfast (no saving throw). The awi/ inn may be used only once per week.
 
 Mess
 **XP Value:** 250 **GP Value:** 1,000
 The Book of Marvelous Magic
-This item has no intrinsic value. When a magical
-dinner plate is tapped by the awl, it produces five
-times the given amount of food, 15 meals per day
-instead of three—but just for that day. However,
-each diner must make a saving throw vs. spell
-while eating; failure indicates that the food spills
-out, staining the diner’s garments permanently
-
-Agni’s Red Axe
-
-"eee eee EERE”
-
-unless washed with soap of washing. The mess
-awl may be used as often as desired.
+This item has no intrinsic value. When a magical //dinner plate// is tapped by the awl, it produces five times the given amount of food, 15 meals per day instead of three—but just for that day. However, each diner must make a saving throw vs. spell while eating; failure indicates that the food spills out, staining the diner’s garments permanently unless washed with //soap of washing//. The mess awl may be used as often as desired.
 
 Out
 **XP Value:** 1,000 **GP Value:** 5,000
 POLYHEDRON Newszine 23
+When touched, this item forces the victim to immediately leave the dungeon in which the aw! is found, by the fastest available route. No saving throw applies, and the victim attempts to avoid all encounters until he or she is outside again. The victim may fight normally if cornered, but cannot stop to pick up any treasure. The //awl out// may be kept by the victim, and functions as a normal awl thereafter, as long as it is physically touching the victim. Note that if the awl leaves the victim’s hand or skin at any time, its original power returns.
 
-When touched, this item forces the victim to
-immediately leave the dungeon in which the aw! is
-found, by the fastest available route. No saving
-throw applies, and the victim attempts to avoid all
-encounters until he or she is outside again. The
-victim may fight normally if cornered, but cannot
-stop to pick up any treasure. The aw/ out may be
-kept by the victim, and functions as a normal awl
-thereafter, as long as it is physically touching the
-victim. Note that if the awl leaves the victim’s hand
-or skin at any time, its original power returns.
+===== Axe =====
 
-Axe
+Axes are woodcutting instruments with sharpened metal or stone heads and wooden handles. Axes are also used as weapons of war. War axes come in all sizes, from small hatchets and throwing axes to two-handed great axes. Many magically enchanted versions exist, particularly among the dwarves.\\
+<wrap indent>After determining the magical properties of the axe the character found, purchased, or traded for, roll on the following table to determine the type of axe found.</wrap>
 
-Axes are woodcutting instruments with sharp-
-ened metal or stone heads and wooden handles.
-Axes are also used as weapons of war. War axes
-come in all sizes, from small hatchets and throw-
-ing axes to two-handed great axes. Many magi-
-cally enchanted versions exist, particularly
-among the dwarves.
+^ Roll ^ Axe Type |
+| 01-08 | Battle Axe |
+| 09-15 | Carikkal |
+| 16-23 | Bhuj |
+| 24-31 | Eye-axe |
+| 32-38 | Forearm Axe |
+| 39-46 | Hand |
+| 47-54 | Hatchet |
+| 55-59 | Mace-axe |
+| 60-64 | Pick |
+| 65-69 | Pickaxe |
+| 70-77 | Shoka |
+| 78-85 | Throwing |
+| 86-92 | Tungi |
+| 93-00 | Two-handed Battle Axe |
 
-After determining the magical properties of the
-axe the character found, purchased, or traded for,
-roll on the following table to determine the type
-of axe found.
-
-Roll Axe Type
-
-01-08 Battle Axe
-
-09-15 Carikkal
-
-16-23 Bhuj
-
-24-31  Eye-axe
-
-32-38 Forearm Axe
-
-39-46 Hand
-
-47-54 Hatchet
-
-55-59 Mace-axe
-
-60-64 ~~ Pick
-
-65-69 ~——~ Pickaxe
-
-70-77 Shoka
-
-78-85 Throwing
-
-86-92 Tungi
-
-93-00 Two-handed Battle Axe
 Agni’s Red
-
 **XP Value:** **GP Value:** —
-
- 
-
 Legends & Lore
-Anyone hit by Agni’s glowing, red axe must save
-
-vs. paralyzation or burst into flames. Those fail-
-328
-
- 
-
-II
-
-Th
-ing the save suffer an additional 1d10 points of
-damage each round and cannot cast spells, fight,
-or do anything but roll on the ground until the
-flames are put out. The flames can only be
-quenched through magical means; ordinary
-water, even holy water, has no effect on them.
+Anyone hit by Agni’s glowing, red axe must save vs. paralyzation or burst into flames. Those failing the save suffer an additional 1d10 points of damage each round and cannot cast spells, fight, or do anything but roll on the ground until the flames are put out. The flames can only be quenched through magical means; ordinary water, even holy water, has no effect on them.
 
 Ama-Tsu-Mara’s Vorpal
 **XP Value:** — **GP Value:** —
 Legends & Lore
-The avatar carries a huge vorpal axe +5 (AL any
-lawful) that functions like a vorpal sword.
+The avatar carries a huge //vorpal axe// +5 (AL any lawful) that functions like a //vorpal sword//.
 
 Arumdina
 **XP Value:** — **GP Value:** —
 Monster Mythology
-Garl Glittergold, the father of the gnomish race,
-wields an intelligent battle axe named Arumdina.
-This axe cleaves through stone as easily as air,
-and slices through metal armor as if it didn’t
-exist.
+Garl Glittergold, the father of the gnomish race, wields an intelligent battle axe named Arumdina. This axe cleaves through stone as easily as air, and slices through metal armor as if it didn’t exist.
 
 Azuredge, Slayer of the Netherborn
 **XP Value:** 7,000 **GP Value:** 35,000
-
 New Item
-Azuredge is a medium-sized battle axe forged of
-silver, electrum, and steel alloys, its handle cast
-from solid steel and wrapped at the haft in blue
+//Azuredge// is a medium-sized battle axe forged of silver, electrum, and steel alloys, its handle cast from solid steel and wrapped at the haft in blue dragon skin. There is a star sapphire set into the pommel. It is as effective as a pure silver weapon and is magically enchanted with a number of powers, the least of which cause the edges of the axehead to shimmer a deep blue at all times. The axe has six runes carved into it, one along each edge on either side of the axe and one rune at the center of each side of the axe. At various times, the runes flash with blue radiance (apparently when their powers are active). Smaller runes are also carved into the handle, but these are only noticeable under close scrutiny. Though the wide, double-edged axe appears quite heavy and unwieldy, it is light and well-balanced in the hands of its chosen wielder.\\
+<wrap indent>//Azuredge's// origins are even more tightly tied to the City of Splendors than some suspect. A little over 300 years ago, Aghairon was marshalling his power as the premier wizard of Waterdeep under the just, though violent, rule of Lady Lauroun, Warlord of Waterdeep. Aghairon saw the last honorable Warlord of Waterdeep fall in battle, her body pierced by a score of orcish arrows. //Teleporting// her from the field, he performed her last request, “to ensure that she would always be able to aid the defense of the City of Splendors.” Having been preparing a magical axe to present to her, Aghairon’s magic bound a piece of Lauroun’s fleeting spirit to the weapon, making her forever an intelligent, soulful presence in an item capable of fulfilling her last request. Though its memory is not fully Lauroun’s, //Azuredge// remembers her creation and history as a weapon.</wrap>\\
+<wrap indent>Though powerful and eager to be used in the city’s defense, //Azuredge// waited six long years before her initial use. Upon Aghairon’s establishment of the Masked Lords’ Rule, the blue axe was given to Kherris—a warrior, Lord of Waterdeep, and great-grandfather of Baeron—to dispatch the heinous otherplanar creatures that emerged outside the city. Coming from the ruins of Halaster’s tower, these were the first dangers visited on Waterdeep from Undermountain. Legends tell of a battle late one night, when a flood of ghastly creatures spilled out of Undermountain, intent on the City herself. Aghairon’s magic slowed them but did not stop them all; many reached the city walls only to meet a tall, cloaked Lord holding the glistening, blue axe. //Azuredge// sent all the fiends back to their makers, its glowing blue radiance keeping the evils from Waterdeep.</wrap>\\
+<wrap indent>The axe was not seen again by Waterdhavians until the time of Baeron, the next open Lord of Waterdeep over 200 years later. After Baeron’s from his belt on the funeral pyre), the axe is not mentioned in any history of the City until Berrygon, a warrior/blacksmith from South Ward, wielded it against Bane’s forces during their invasion of Waterdeep at the Time of Troubles. With Berrygon’s fall, his final companion, the wizardess Caryn, risked a spell to //teleport// the axe to safety, sending it to Blackstaff Tower. Khelben kept watch over //Azuredge//, and added enchantments that allow him to watch over the wielder of the axe as well as to provide the magical effects for her reappearance. Khelben and Piergeiron do not interfere with //Azuredge// and her protection of the City, but they plan on keeping tabs on the axe and her chosen companions, making sure they do not stray from the Lords’ path, whether for Waterdeep’s good or not.</wrap>\\
+<wrap indent>Enchanted as it was (“to be as worthy a weapon as its wielder”’), //Azuredge's// powers wax and wane with each new wielder. The blue axe’s full powers and abilities are listed and activated as follows:</wrap>
 
-oN
-rh Ul)
-HY
-
-|
-
-ewe | | Feta
-ne tasake
-
-err
-
-a
-Ni
-
-eee
-Cae
-
-~~, Ama-Tsu-Mara’s Vorpal a
-
-dragon skin. There is a star sapphire set into the
-pommel. It is as effective as a pure silver weapon
-and is magically enchanted with a number of
-powers, the least of which cause the edges of the
-axehead to shimmer a deep blue at all times. The
-axe has six runes carved into it, one along each
-edge on either side of the axe and one rune at the
-center of each side of the axe. At various times,
-the runes flash with blue radiance (apparently
-when their powers are active). Smaller runes are
-also carved into the handle, but these are only
-noticeable under close scrutiny. Though the wide,
-double-edged axe appears quite heavy and
-unwieldy, it is light and well-balanced in the
-hands of its chosen wielder.
-
-Azuredge 5 origins are even more tightly tied to
-the City of Splendors than some suspect. A little
-over 300 years ago, Aghairon was marshalling his
-power as the premier wizard of Waterdeep under
-the just, though violent, rule of Lady Lauroun,
-Warlord of Waterdeep. Aghairon saw the last
-honorable Warlord of Waterdeep fall in battle, her
-body pierced by a score of orcish arrows. Tele-
-porting her from the field, he performed her last
-request, “to ensure that she would always be able
-to aid the defense of the City of Splendors.” Hav-
-ing been preparing a magical axe to present to
-her, Aghairon’s magic bound a piece of Lauroun’s
-
-ta
-
-HD)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-112
-fleeting spirit to the weapon, making her forever
-an intelligent, soulful presence in an item capable
-of fulfilling her last request. Though its memory
-is not fully Lauroun’s, Azuredge remembers her
-creation and history as a weapon.
-
-Though powerful and eager to be used in the
-city’s defense, Azuredge waited six long years
-before her initial use. Upon Aghairon’s estab-
-lishment of the Masked Lords’ Rule, the blue
-axe was given to Kherris—a warrior, Lord of
-Waterdeep, and great-grandfather of Baeron—to
-dispatch the heinous otherplanar creatures that
-emerged outside the city. Coming from the ruins
-of Halaster’s tower, these were the first dangers
-visited on Waterdeep from Undermountain.
-Legends tell of a battle late one night, when a
-flood of ghastly creatures spilled out of Under-
-mountain, intent on the City herself. Aghairon’s
-magic slowed them but did not stop them all;
-many reached the city walls only to meet a tall,
-cloaked Lord holding the glistening, blue axe.
-Azuredge sent all the fiends back to their mak-
-ers, its glowing blue radiance keeping the evils
-from Waterdeep.
-
-The axe was not seen again by Waterdhavians
-until the time of Baeron, the next open Lord of
-Waterdeep over 200 years later. After Baeron’s
-
-Azuredge, Slayer of the Netherborn
-
-from his belt on the funeral pyre), the axe is not
-mentioned in any history of the City until Berry-
-gon, a warrior/blacksmith from South Ward,
-wielded it against Bane’s forces during their inva-
-sion of Waterdeep at the Time of Troubles. With
-Berrygon’s fall, his final companion, the wiz-
-ardess Caryn, risked a spell to fe/eport the axe to
-safety, sending it to Blackstaff Tower. Khelben
-kept watch over Azuredge, and added enchant-
-ments that allow him to watch over the wielder of
-the axe as well as to provide the magical effects
-for her reappearance. Khelben and Piergeiron do
-not interfere with Azuredge and her protection of
-the City, but they plan on keeping tabs on the axe
-and her chosen companions, making sure they do
-not stray from the Lords’ path, whether for Water-
-deep’s good or not.
-
-Enchanted as it was (“to be as worthy a weapon
-as its wielder”’), Azuredge 5 powers wax and wane
-with each new wielder. The blue axe’s full powers
-and abilities are listed and activated as follows:
-
-* The blue axe does not have any combat
-bonuses for attack or damage, but its magical
-construction allows it to hit creatures only
-affected by silver or magical weapons (even
-those only affected by +3 weapons). Its dam-
-age cannot be regenerated save by normal rest,
-making it an effective weapon against trolls.
-
-Battle Ave
-
- 
-
- 
-
- 
-
-113
-Brihaspati’s Axe
-
-* Immediately upon gaining the use of her, the
-wielder can command Azuredge to generate
-light (as the Ist-level spell).
-
-* After reaching 4th level (or wielding her for a
-year), Azuredge can be thrown at targets a
-number of times per day equal to the level of
-the fighter wielding her (a 6th-level paladin =
-6 throws per day). Other than that and the lack
-of combat bonuses, this power is identical to
-an axe of hurling (double damage when
-thrown).
-
-* At 8th level and above, the wielder can use
-Azuredge against undead and creatures from
-the lower planes as if she were a mace of dis-
-ruption. This power is coupled with Azuredge s
-ability to detect evil planar beings and undead,
-those creatures she was forged to slay; when-
-ever in the presence of undead or evil beings
-from outside the Prime Material Plane,
-Azuredge glows brightly (whether her wielder
-wishes her to or not) with cold azure flames
-enveloping the axehead (illuminating a 40-
-foot-radius).
-
-* Azuredge is an intelligent weapon (Intelli-
-gence 14, Ego 12) with a female identity,
-hence the references to the weapon as “‘she.”
-With sentience, she is the one who chooses
-her wielder (magically sticking to surfaces
-like sovereign glue until she is touched by one
-she deems worthy); she also has a limited
-detect alignment ability she uses on her wield-
-ers, which aids her in her choice (she chooses
-only good, most often chaotic, heroes). She
-chooses a wielder only after the passing of her
-previous wielder. She can communicate by
-speech or telepathy, though she rarely com-
-municates until the wielder is at least 12th
-level (any communication before to this is
-more apt to be heard as whispers or words in a
-dream), She can also resist identification
-magic at will, relinquishing only the informa-
-tion she wishes.
+* The blue axe does not have any combat bonuses for attack or damage, but its magical construction allows it to hit creatures only affected by silver or magical weapons (even those only affected by +3 weapons). Its damage cannot be regenerated save by normal rest, making it an effective weapon against trolls.
+* Immediately upon gaining the use of her, the wielder can command //Azuredge// to generate //light// (as the Ist-level spell).
+* After reaching 4th level (or wielding her for a year), //Azuredge// can be thrown at targets a number of times per day equal to the level of the fighter wielding her (a 6th-level paladin = 6 throws per day). Other than that and the lack of combat bonuses, this power is identical to an //axe of hurling// (double damage when thrown).
+* At 8th level and above, the wielder can use //Azuredge// against undead and creatures from the lower planes as if she were a //mace of disruption//. This power is coupled with //Azuredge's// ability to detect evil planar beings and undead, those creatures she was forged to slay; when- ever in the presence of undead or evil beings from outside the Prime Material Plane, //Azuredge// glows brightly (whether her wielder wishes her to or not) with cold azure flames enveloping the axehead (illuminating a 40-foot-radius).
+* //Azuredge// is an intelligent weapon (Intelligence 14, Ego 12) with a female identity, hence the references to the weapon as “‘she.” With sentience, she is the one who chooses her wielder (magically sticking to surfaces like //sovereign glue// until she is touched by one she deems worthy); she also has a limited //detect alignment// ability she uses on her wielders, which aids her in her choice (she chooses only good, most often chaotic, heroes). She chooses a wielder only after the passing of her previous wielder. She can communicate by speech or //telepathy//, though she rarely communicates until the wielder is at least 12th level (any communication before to this is more apt to be heard as whispers or words in a dream), She can also resist identification magic at will, relinquishing only the information she wishes.
 
 Brihaspati’s
-
 **XP Value:** — **GP Value:** —
 Legends & Lore
 While carrying his axe, Brihaspati cannot be hit
