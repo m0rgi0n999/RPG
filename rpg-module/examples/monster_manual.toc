@@ -1,0 +1,183 @@
+\setcounter {tocdepth}{1}
+\contentsline {part}{\numberline {1}Monsters from the Basic/Expert Rulebooks}{1}{part.1}%
+\contentsline {section}{Ant, \StrDel {Driver Ant}{ Ant}}{1}{section*.3}%
+\contentsline {section}{Ape, \StrDel {White Ape}{ Ape}}{1}{section*.6}%
+\contentsline {section}{Basilisk}{1}{section*.9}%
+\contentsline {section}{Bat}{1}{section*.12}%
+\contentsline {section}{Bear}{2}{section*.15}%
+\contentsline {section}{Bee, \StrDel {Killer Bee}{ Bee}}{2}{section*.18}%
+\contentsline {section}{Beetle}{2}{section*.21}%
+\contentsline {section}{Black Pudding}{3}{section*.24}%
+\contentsline {section}{Blink Dog}{3}{section*.27}%
+\contentsline {section}{Boar}{3}{section*.30}%
+\contentsline {section}{Bugbear}{3}{section*.33}%
+\contentsline {section}{Caecilia}{3}{section*.36}%
+\contentsline {section}{Camel}{3}{section*.39}%
+\contentsline {section}{Carrion Crawler}{3}{section*.42}%
+\contentsline {section}{Cat, Great}{3}{section*.45}%
+\contentsline {section}{Cave Locust}{4}{section*.48}%
+\contentsline {section}{Centaur}{4}{section*.51}%
+\contentsline {section}{Centipede, \StrDel {Giant Centipede}{ Centipede}}{4}{section*.54}%
+\contentsline {section}{Chimera}{4}{section*.57}%
+\contentsline {section}{Cockatrice}{4}{section*.60}%
+\contentsline {section}{Crab, \StrDel {Giant Crab}{ Crab}}{5}{section*.63}%
+\contentsline {section}{Crocodile}{5}{section*.66}%
+\contentsline {section}{Cyclops}{5}{section*.69}%
+\contentsline {section}{Dinosaur}{5}{section*.72}%
+\contentsline {section}{Displacer Beast}{5}{section*.75}%
+\contentsline {section}{Djinni, \StrDel {Lesser Djinni}{ Djinni}}{6}{section*.78}%
+\contentsline {section}{Doppleganger}{6}{section*.81}%
+\contentsline {section}{Dragon, \StrDel {White Dragon}{ Dragon}}{6}{section*.84}%
+\contentsline {section}{Dragon, \StrDel {Black Dragon}{ Dragon}}{6}{section*.87}%
+\contentsline {section}{Dragon, \StrDel {Green Dragon}{ Dragon}}{6}{section*.90}%
+\contentsline {section}{Dragon, \StrDel {Blue Dragon}{ Dragon}}{6}{section*.93}%
+\contentsline {section}{Dragon, \StrDel {Red Dragon}{ Dragon}}{6}{section*.96}%
+\contentsline {section}{Dragon, \StrDel {Gold Dragon}{ Dragon}}{7}{section*.99}%
+\contentsline {section}{Dragon Turtle}{7}{section*.102}%
+\contentsline {section}{Dryad}{7}{section*.105}%
+\contentsline {section}{Dwarf}{7}{section*.108}%
+\contentsline {section}{Efreeti, \StrDel {Lesser Efreeti}{ Efreeti}}{7}{section*.111}%
+\contentsline {section}{Elemental}{7}{section*.114}%
+\contentsline {section}{Elephant}{8}{section*.117}%
+\contentsline {section}{Elf}{8}{section*.120}%
+\contentsline {section}{Ferret, \StrDel {Giant Ferret}{ Ferret}}{8}{section*.123}%
+\contentsline {section}{Fish}{8}{section*.126}%
+\contentsline {section}{Gargoyle}{8}{section*.129}%
+\contentsline {section}{Gelatinous Cube}{9}{section*.132}%
+\contentsline {section}{Ghoul}{9}{section*.135}%
+\contentsline {section}{Giant}{9}{section*.138}%
+\contentsline {section}{Gnoll}{9}{section*.141}%
+\contentsline {section}{Gnome}{9}{section*.144}%
+\contentsline {section}{Goblin}{10}{section*.147}%
+\contentsline {section}{Golem}{10}{section*.150}%
+\contentsline {section}{Gorgon}{10}{section*.153}%
+\contentsline {section}{Gray Ooze}{10}{section*.156}%
+\contentsline {section}{Green Slime}{10}{section*.159}%
+\contentsline {section}{Griffon}{10}{section*.162}%
+\contentsline {section}{Halfling}{11}{section*.165}%
+\contentsline {section}{Harpy}{11}{section*.168}%
+\contentsline {section}{Hawk}{11}{section*.171}%
+\contentsline {section}{Herd Animal}{11}{section*.174}%
+\contentsline {section}{Hellhound}{12}{section*.177}%
+\contentsline {section}{Hippogriff}{12}{section*.180}%
+\contentsline {section}{Hobgoblin}{12}{section*.183}%
+\contentsline {section}{Horse}{12}{section*.186}%
+\contentsline {section}{Hydra, \StrDel {Five-Headed Hydra}{ Hydra}}{12}{section*.189}%
+\contentsline {section}{Insect Swarm}{13}{section*.192}%
+\contentsline {section}{Invisible Stalker}{13}{section*.195}%
+\contentsline {section}{Kobold}{13}{section*.198}%
+\contentsline {section}{Leech, \StrDel {Giant Leech}{ Leech}}{13}{section*.201}%
+\contentsline {section}{Living Statue}{13}{section*.204}%
+\contentsline {section}{Lizard}{14}{section*.207}%
+\contentsline {section}{Lizard Man}{14}{section*.210}%
+\contentsline {section}{Lycanthrope}{14}{section*.213}%
+\contentsline {section}{Manticore}{15}{section*.216}%
+\contentsline {section}{Mastodon}{15}{section*.219}%
+\contentsline {section}{Medusa}{15}{section*.222}%
+\contentsline {section}{Men}{15}{section*.225}%
+\contentsline {section}{Merman}{16}{section*.228}%
+\contentsline {section}{Minotaur}{17}{section*.231}%
+\contentsline {section}{Mule}{17}{section*.234}%
+\contentsline {section}{Mummy}{17}{section*.237}%
+\contentsline {section}{Neanderthal}{17}{section*.240}%
+\contentsline {section}{Nixie}{17}{section*.243}%
+\contentsline {section}{Ochre Jelly}{17}{section*.246}%
+\contentsline {section}{Octopus, \StrDel {Giant Octopus}{ Octopus}}{17}{section*.249}%
+\contentsline {section}{Ogre}{18}{section*.252}%
+\contentsline {section}{Orc}{18}{section*.255}%
+\contentsline {section}{Owl Bear}{18}{section*.258}%
+\contentsline {section}{Pegasus}{18}{section*.261}%
+\contentsline {section}{Pixie}{18}{section*.264}%
+\contentsline {section}{Pterodactyl}{18}{section*.267}%
+\contentsline {section}{Purple Worm}{18}{section*.270}%
+\contentsline {section}{Rat}{19}{section*.273}%
+\contentsline {section}{Rhagodessa}{19}{section*.276}%
+\contentsline {section}{Rhinoceros}{19}{section*.279}%
+\contentsline {section}{Robber Fly}{19}{section*.282}%
+\contentsline {section}{Roc}{19}{section*.285}%
+\contentsline {section}{Rock Baboon}{20}{section*.288}%
+\contentsline {section}{Rust Monster}{20}{section*.291}%
+\contentsline {section}{Salamander}{20}{section*.294}%
+\contentsline {section}{Scorpion, \StrDel {Giant Scorpion}{ Scorpion}}{20}{section*.297}%
+\contentsline {section}{Sea Dragon}{20}{section*.300}%
+\contentsline {section}{Sea Serpent, \StrDel {Lesser Sea Serpent}{ Sea Serpent}}{21}{section*.303}%
+\contentsline {section}{Shadow}{21}{section*.306}%
+\contentsline {section}{Shark}{21}{section*.309}%
+\contentsline {section}{Shrew, \StrDel {Giant Shrew}{ Shrew}}{21}{section*.312}%
+\contentsline {section}{Shrieker}{21}{section*.315}%
+\contentsline {section}{Skeleton}{21}{section*.318}%
+\contentsline {section}{Snake}{21}{section*.321}%
+\contentsline {section}{Spectre}{22}{section*.324}%
+\contentsline {section}{Spider}{22}{section*.327}%
+\contentsline {section}{Sprite}{22}{section*.330}%
+\contentsline {section}{Squid, \StrDel {Giant Squid}{ Squid}}{22}{section*.333}%
+\contentsline {section}{Stirge}{23}{section*.336}%
+\contentsline {section}{Termite}{23}{section*.339}%
+\contentsline {section}{Thoul}{23}{section*.342}%
+\contentsline {section}{Titanothere}{23}{section*.345}%
+\contentsline {section}{Toad, \StrDel {Giant Toad}{ Toad}}{23}{section*.348}%
+\contentsline {section}{Treant}{23}{section*.351}%
+\contentsline {section}{Troglodyte}{24}{section*.354}%
+\contentsline {section}{Troll}{24}{section*.357}%
+\contentsline {section}{Unicorn}{24}{section*.360}%
+\contentsline {section}{Vampire}{24}{section*.363}%
+\contentsline {section}{Weasel, \StrDel {Giant Weasel}{ Weasel}}{24}{section*.366}%
+\contentsline {section}{Whale}{24}{section*.369}%
+\contentsline {section}{Wight}{25}{section*.372}%
+\contentsline {section}{Wolf}{25}{section*.375}%
+\contentsline {section}{Wraith}{25}{section*.378}%
+\contentsline {section}{Wyvern}{25}{section*.381}%
+\contentsline {section}{Yellow Mold}{25}{section*.384}%
+\contentsline {section}{Zombie}{25}{section*.387}%
+\contentsline {part}{\numberline {2}Monsters from B3: Palace of the Silver Princess}{26}{part.2}%
+\contentsline {section}{Archer Bush}{26}{section*.390}%
+\contentsline {section}{Archer Bush}{26}{section*.393}%
+\contentsline {section}{Baric}{26}{section*.396}%
+\contentsline {section}{Bubble}{26}{section*.399}%
+\contentsline {section}{Decapus}{26}{section*.402}%
+\contentsline {section}{Decapus}{26}{section*.405}%
+\contentsline {section}{Diger}{26}{section*.408}%
+\contentsline {section}{Ghost}{27}{section*.411}%
+\contentsline {section}{Snake, \StrDel {Giant Marble Snake}{ Snake}}{27}{section*.414}%
+\contentsline {section}{Jupiter Blood Sucker}{27}{section*.417}%
+\contentsline {section}{Monkey, \StrDel {Giant Marmoset}{ Monkey}}{27}{section*.420}%
+\contentsline {section}{Protector}{27}{section*.423}%
+\contentsline {section}{Purple Moss}{27}{section*.426}%
+\contentsline {section}{Ubue}{27}{section*.429}%
+\contentsline {section}{Vampire Rose}{27}{section*.432}%
+\contentsline {part}{\numberline {3}Monsters from B4: The Lost City}{28}{part.3}%
+\contentsline {section}{Banshee}{28}{section*.435}%
+\contentsline {section}{Cynidicean}{28}{section*.438}%
+\contentsline {section}{Lycanthrope, \StrDel {Werefox}{ Lycanthrope}}{28}{section*.441}%
+\contentsline {section}{Polymar}{28}{section*.444}%
+\contentsline {section}{Zargon}{28}{section*.447}%
+\contentsline {part}{\numberline {4}Monsters from X1: Isle of Dread}{28}{part.4}%
+\contentsline {section}{Dinosaur}{28}{section*.450}%
+\contentsline {section}{Aranea}{29}{section*.453}%
+\contentsline {section}{Elk, \StrDel {Giant Elk}{ Elk}}{29}{section*.456}%
+\contentsline {section}{Grangeri}{29}{section*.459}%
+\contentsline {section}{Kopru}{29}{section*.462}%
+\contentsline {section}{Megatherium}{29}{section*.465}%
+\contentsline {section}{Men, \StrDel {Native}{ Men}}{29}{section*.468}%
+\contentsline {section}{Oyster, \StrDel {Giant Oyster}{ Oyster}}{29}{section*.471}%
+\contentsline {section}{Phanaton}{30}{section*.474}%
+\contentsline {section}{Phororhacos}{30}{section*.477}%
+\contentsline {section}{Rakasta}{30}{section*.480}%
+\contentsline {part}{\numberline {5}Monsters from X2: Castle Amber}{30}{part.5}%
+\contentsline {section}{Amber Lotus Flower}{30}{section*.483}%
+\contentsline {section}{Amoeba, \StrDel {Giant Amoeba}{ Amoeba}}{30}{section*.486}%
+\contentsline {section}{Brain Collector}{30}{section*.489}%
+\contentsline {section}{Demon, \StrDel {Death Demon}{ Demon}}{31}{section*.492}%
+\contentsline {section}{Golem, \StrDel {Mud Golem}{ Golem}}{31}{section*.495}%
+\contentsline {section}{Grab Grass}{31}{section*.498}%
+\contentsline {section}{Gremlin}{31}{section*.501}%
+\contentsline {section}{Tree, \StrDel {Killer Tree}{ Tree}}{31}{section*.504}%
+\contentsline {section}{Lupin}{31}{section*.507}%
+\contentsline {section}{Magen}{31}{section*.510}%
+\contentsline {section}{Pagan}{32}{section*.513}%
+\contentsline {section}{Phantom}{32}{section*.516}%
+\contentsline {section}{Worm, \StrDel {Slime Worm}{ Worm}}{32}{section*.519}%
+\contentsline {section}{Sun Brother}{32}{section*.522}%
+\contentsline {part}{\numberline {6}Monsters Listed in Tabular Form}{33}{part.6}%
+\contentsline {part}{\numberline {7}Open Game Content}{39}{part.7}%
+\contentsfinish 
