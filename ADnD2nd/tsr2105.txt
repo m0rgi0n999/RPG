@@ -22,11 +22,7 @@
     "Morale": "Steady (11)",
     "XP Value": "12,000",
     "Psionic Summary": "",
-<<<<<<< HEAD
-    "Description": "<div>The anemone is a mobile, plant-like creature A voracious carnivore, it is a threat to all denizens of the sea.</div><div class='indent'>The anemone has a thick, cylindrical trunk that is ten feet in diameter and about eight feet tall.The trunk is usually bright purple, but can also be blue red, pink, or any combination of these colors The bottom of the trunk is covered with small suckers, while the top contains a toothless mouth surrounded by ten translucent tentacles, each 10-15 feet in length.</div><br/><div><b1>Combat:</b1> The anemone attacks with whip-like lashes of its tentacles it makes 1d3 attacks per round, each attack consists of 1dl0 tentacle strikes. A victim struck by a tentacle suffers 1d4 points of damage and also must roll a saving throw vs. paralysis A victim succeeding on the saving roll is immune to all paralyzing and poison effects of that particular anemone. If the saving throw is unsuccessful, the victim suffers an additional 1d6 points of poison damage and becomes paralyzed for the next 3d6 rounds. During this time, the victim is unable to attack or take any other actions Should the effects of the paralysis wear off, the anemone will attack him again; if it hits the victim can again attempt a saving throw to avoid the poison and the paralysis.</div><div class='indent'>The anemone uses its tentacles to drag a paralyzed victim to its mouth, a process that takes one round to complete. it requires at least two tentacles to drag a victim; the anemone can use any free tentacles to continue attacks on other opponents The mouth leads directly to the anemone's trunk cavity. When a victim is inside the cavity, the mouth seals shut. Tiny valves at the base of the trunk expel all of the water within the cavitv (this takes eight rounds). When the cavity is empty, it begins to refill with acidic juices secreted from glands in the base. The cavity fills with acidic juices at the rate of one foot per turn until the entire cavity is filled. Beginning on the first round of secretion, victims trapped in the cavity suffer 1d4 points of damage (no saving throw). Digestion is completed when the victim is reduced to -12 or fewer hit points, after which resurrection is impossible.</div><div class='indent'>Because of the confined space, victims trapped in the cavity can use only short, sharp weapons to hack themselves tree. Maximum normal damage is 1 point per round plus magical and Strength bonuses. Rescue must usually come from outside. If the anemone suffers a loss of 50% of its hit points, and all of the dam age is directed at its trunk the victim can be freed. Thrusting and stabbing weapons have a 20% chance of striking the victim trapped in the trunk. If a trapped character is freed, charactcrs on the outside have a chance of suffering damage from the acidic juice, assuming they are within ten feet of the anemone. The percentage chance of receiving damage is equal to 5% for each foot of juice in the anemone when the victim inside is freed. Characters affected by the juice suffer 1d4 points of damage. (For instance, if the cavity was filled with four feet of acidic juice when the victim inside was freed, all characters within ten feet of the anemone have a 20% chance of suffering 1d4 points of damage from the juice.)</div><div class='indent'>Each tentacle can suffer only 5 points of damage before it is Severed, assuming that the attacker is directing his attacks to the same area in order to chop it off. An anemone regenerates at the rate of 1 point per turn, and it always repairs its tentacles first. If the anemone suffers 30 or more points of damage in a single round, it withdraws all of its tentacles inside its body for 1d10 rounds and spews acidic juices in a ten-foot radius. Those within ten feet of the anemone when it spews juice have a 90% chance of suffering 1d4 points of damage; this check must be made for each round the character is exposed to the acid. When the anemone releases its tentacles, it stops spewing (for instance, if the anemone withdraws its tentacles for six rounds, it also spews juice for six rounds).</div><br/><div><b1>Habitat/Society:</b1> Anemones wander the ocean floor. They move slowly and with great effort, generally preferring to remain stationary for long periods by attaching to a rock or other solid surface. They usually travel in schools of three or more.</div><div class='indent'>Anemones are asexual, reproducing via buds which break off and grow into new anemones. Indigestible treasure items can sometimes be found beneath their trunks.</div><br/><div><b1>Ecology:</b1> Anemones eat all species of marine life. Anemones relish humanoids, especially elves and small humans. Although most sea creatures give anemones wide berth, manta rays and small sucker fish are sometimes seen swimming among a school of anemones, as these creatures are immune to the effects of their tentacles.</div>",
-=======
-    "Description": "<div>The anemone is a mobile, plant-like creature A voracious carnivore, it is a threat to all denizens of the sea.</div><div style='text-indent:1em'>The anemone has a thick, cylindrical trunk that is ten feet in diameter and about eight feet tall.The trunk is usually bright purple, but can also be blue red, pink, or any combination of these colors The bottom of the trunk is covered with small suckers, while the top contains a toothless mouth surrounded by ten translucent tentacles, each 10-15 feet in length.</div><br/><div><b style='color:#4169E1'>Combat:</b> The anemone attacks with whip-like lashes of its tentacles it makes 1d3 attacks per round, each attack consists of 1dl0 tentacle strikes. A victim struck by a tentacle suffers 1d4 points of damage and also must roll a saving throw vs. paralysis A victim succeeding on the saving roll is immune to all paralyzing and poison effects of that particular anemone. If the saving throw is unsuccessful, the victim suffers an additional 1d6 points of poison damage and becomes paralyzed for the next 3d6 rounds. During this time, the victim is unable to attack or take any other actions Should the effects of the paralysis wear off, the anemone will attack him again; if it hits the victim can again attempt a saving throw to avoid the poison and the paralysis.</div><div style='text-indent:1em'>The anemone uses its tentacles to drag a paralyzed victim to its mouth, a process that takes one round to complete. it requires at least two tentacles to drag a victim; the anemone can use any free tentacles to continue attacks on other opponents The mouth leads directly to the anemone's trunk cavity. When a victim is inside the cavity, the mouth seals shut. Tiny valves at the base of the trunk expel all of the water within the cavitv (this takes eight rounds). When the cavity is empty, it begins to refill with acidic juices secreted from glands in the base. The cavity fills with acidic juices at the rate of one foot per turn until the entire cavity is filled. Beginning on the first round of secretion, victims trapped in the cavity suffer 1d4 points of damage (no saving throw). Digestion is completed when the victim is reduced to -12 or fewer hit points, after which resurrection is impossible.</div><div style='text-indent:1em'>Because of the confined space, victims trapped in the cavity can use only short, sharp weapons to hack themselves tree. Maximum normal damage is 1 point per round plus magical and Strength bonuses. Rescue must usually come from outside. If the anemone suffers a loss of 50% of its hit points, and all of the dam age is directed at its trunk the victim can be freed. Thrusting and stabbing weapons have a 20% chance of striking the victim trapped in the trunk. If a trapped character is freed, charactcrs on the outside have a chance of suffering damage from the acidic juice, assuming they are within ten feet of the anemone. The percentage chance of receiving damage is equal to 5% for each foot of juice in the anemone when the victim inside is freed. Characters affected by the juice suffer 1d4 points of damage. (For instance, if the cavity was filled with four feet of acidic juice when the victim inside was freed, all characters within ten feet of the anemone have a 20% chance of suffering 1d4 points of damage from the juice.)</div><div style='text-indent:1em'>Each tentacle can suffer only 5 points of damage before it is Severed, assuming that the attacker is directing his attacks to the same area in order to chop it off. An anemone regenerates at the rate of 1 point per turn, and it always repairs its tentacles first. If the anemone suffers 30 or more points of damage in a single round, it withdraws all of its tentacles inside its body for 1d10 rounds and spews acidic juices in a ten-foot radius. Those within ten feet of the anemone when it spews juice have a 90% chance of suffering 1d4 points of damage; this check must be made for each round the character is exposed to the acid. When the anemone releases its tentacles, it stops spewing (for instance, if the anemone withdraws its tentacles for six rounds, it also spews juice for six rounds).</div><br/><div><b style='color:#4169E1'>Habitat/Society:</b> Anemones wander the ocean floor. They move slowly and with great effort, generally preferring to remain stationary for long periods by attaching to a rock or other solid surface. They usually travel in schools of three or more.</div><div style='text-indent:1em'>Anemones are asexual, reproducing via buds which break off and grow into new anemones. Indigestible treasure items can sometimes be found beneath their trunks.</div><br/><div><b style='color:#4169E1'>Ecology:</b> Anemones eat all species of marine life. Anemones relish humanoids, especially elves and small humans. Although most sea creatures give anemones wide berth, manta rays and small sucker fish are sometimes seen swimming among a school of anemones, as these creatures are immune to the effects of their tentacles.</div>",
->>>>>>> 1d57cf6 (test)
+    "Description": "<div>The anemone is a mobile, plant-like creature A voracious carnivore, it is a threat to all denizens of the sea.</div><div>The anemone has a thick, cylindrical trunk that is ten feet in diameter and about eight feet tall.The trunk is usually bright purple, but can also be blue red, pink, or any combination of these colors The bottom of the trunk is covered with small suckers, while the top contains a toothless mouth surrounded by ten translucent tentacles, each 10-15 feet in length.</div><br/><div><b1>Combat:</b1> The anemone attacks with whip-like lashes of its tentacles it makes 1d3 attacks per round, each attack consists of 1dl0 tentacle strikes. A victim struck by a tentacle suffers 1d4 points of damage and also must roll a saving throw vs. paralysis A victim succeeding on the saving roll is immune to all paralyzing and poison effects of that particular anemone. If the saving throw is unsuccessful, the victim suffers an additional 1d6 points of poison damage and becomes paralyzed for the next 3d6 rounds. During this time, the victim is unable to attack or take any other actions Should the effects of the paralysis wear off, the anemone will attack him again; if it hits the victim can again attempt a saving throw to avoid the poison and the paralysis.</div><div>The anemone uses its tentacles to drag a paralyzed victim to its mouth, a process that takes one round to complete. it requires at least two tentacles to drag a victim; the anemone can use any free tentacles to continue attacks on other opponents The mouth leads directly to the anemone's trunk cavity. When a victim is inside the cavity, the mouth seals shut. Tiny valves at the base of the trunk expel all of the water within the cavitv (this takes eight rounds). When the cavity is empty, it begins to refill with acidic juices secreted from glands in the base. The cavity fills with acidic juices at the rate of one foot per turn until the entire cavity is filled. Beginning on the first round of secretion, victims trapped in the cavity suffer 1d4 points of damage (no saving throw). Digestion is completed when the victim is reduced to -12 or fewer hit points, after which resurrection is impossible.</div><div>Because of the confined space, victims trapped in the cavity can use only short, sharp weapons to hack themselves tree. Maximum normal damage is 1 point per round plus magical and Strength bonuses. Rescue must usually come from outside. If the anemone suffers a loss of 50% of its hit points, and all of the dam age is directed at its trunk the victim can be freed. Thrusting and stabbing weapons have a 20% chance of striking the victim trapped in the trunk. If a trapped character is freed, charactcrs on the outside have a chance of suffering damage from the acidic juice, assuming they are within ten feet of the anemone. The percentage chance of receiving damage is equal to 5% for each foot of juice in the anemone when the victim inside is freed. Characters affected by the juice suffer 1d4 points of damage. (For instance, if the cavity was filled with four feet of acidic juice when the victim inside was freed, all characters within ten feet of the anemone have a 20% chance of suffering 1d4 points of damage from the juice.)</div><div>Each tentacle can suffer only 5 points of damage before it is Severed, assuming that the attacker is directing his attacks to the same area in order to chop it off. An anemone regenerates at the rate of 1 point per turn, and it always repairs its tentacles first. If the anemone suffers 30 or more points of damage in a single round, it withdraws all of its tentacles inside its body for 1d10 rounds and spews acidic juices in a ten-foot radius. Those within ten feet of the anemone when it spews juice have a 90% chance of suffering 1d4 points of damage; this check must be made for each round the character is exposed to the acid. When the anemone releases its tentacles, it stops spewing (for instance, if the anemone withdraws its tentacles for six rounds, it also spews juice for six rounds).</div><br/><div><b1>Habitat/Society:</b1> Anemones wander the ocean floor. They move slowly and with great effort, generally preferring to remain stationary for long periods by attaching to a rock or other solid surface. They usually travel in schools of three or more.</div><div>Anemones are asexual, reproducing via buds which break off and grow into new anemones. Indigestible treasure items can sometimes be found beneath their trunks.</div><br/><div><b1>Ecology:</b1> Anemones eat all species of marine life. Anemones relish humanoids, especially elves and small humans. Although most sea creatures give anemones wide berth, manta rays and small sucker fish are sometimes seen swimming among a school of anemones, as these creatures are immune to the effects of their tentacles.</div>",
     "Source": "TSR2105",
     "Image": ""
 }, {
@@ -53,1002 +49,271 @@
     "Morale": ["Unsteady (7)", "Unsteady (7)", "Average (9)", "Unsteady (7)"],
     "XP Value": ["120", "35", "270", "65"],
     "Psionic Summary": "",
-<<<<<<< HEAD
-    "Description": "<div>Among Krynn’s rich variety of bird life are the ostrich-like emre, the ominous kingfisher, the intelligent skyfisher, and the foraging 'wari.</div><div class='indent'>Both the emre and ‘wari are ground-dwelling birds, though the emre can become airborne for up to one turn. The emre has a plump body covered with white feathers, a long neck, bulging blue eyes, and thick, clawed feet. The ‘wari is a bulkier version of the emre, with bronze, gold, or blue feathers. The kingfisher has a crested head, short legs, and a long, pointed bill; it is deep blue or bluish gray with a white chest. The skyfisher looks like a cross be- tween a giant bat and a vulture, black or gray in color, with long, dangling legs and a sharp beak.</div><br/><div><b1>Combat:</b1> The emre, kingfisher, and ‘wari are all relatively harmless. Each can make beak attacks, and the emre and ‘wan can strike with their clawed feet. When spooked by loud noises or the odor of blood, ’waries can stampede. Those caught in the path of stampeding ‘wari suffer 3d4 points of damage per round.</div><div class='indent'>The skyfisher is the most dangerous of these birds. It can attack with either its beak or talons, but not both in the same round. It can dive for its first attack, gaining a +2 bonus to its attack roll and doubling the damage inflicted. Each time the skyfisher hits with its claws, the victim must roll a Dexterity check to try to avoid the bird’s grip. If the victim fails the check, he is carried aloft for 1d4 rounds and then dropped. Damage from the fall is 1d6 points for each round aloft. A skyfisher drops its prey if it receives 10 points of damage. It cannot lift prey in excess of 200 pounds.</div><br/><div><b1>Habitat/Society:</b1> All of these birds live in flocks. They lay 2d4 eges once a year. The emre and ‘wari range over a few square miles, while the migratory kingfishers and skyfishers range over much larger areas. The intelligent skyfishers collect a variety of shiny treasure items. Kingfishers prefer gems.</div><br/><div><b1>Ecology:</b1> Emre and ‘wari forage for insects, grams, and small rodents. These birds are favorite prey for wolves and other meateaters (‘wari are so dumb that they allow wolves to mingle among them). Kingfishers spear fish with their beaks, while skyfishers eat rabbits and other small mammals. Primitive tribes domesticate emre as mounts. Many cultures believe skyfishers are omens of war and death.</div>",
-=======
-    "Description": "<div>Among Krynn’s rich variety of bird life are the ostrich-like emre, the ominous kingfisher, the intelligent skyfisher, and the foraging 'wari.</div><div style='text-indent:1em'>Both the emre and ‘wari are ground-dwelling birds, though the emre can become airborne for up to one turn. The emre has a plump body covered with white feathers, a long neck, bulging blue eyes, and thick, clawed feet. The ‘wari is a bulkier version of the emre, with bronze, gold, or blue feathers. The kingfisher has a crested head, short legs, and a long, pointed bill; it is deep blue or bluish gray with a white chest. The skyfisher looks like a cross be- tween a giant bat and a vulture, black or gray in color, with long, dangling legs and a sharp beak.</div><br/><div><b style='color:#4169E1'>Combat:</b> The emre, kingfisher, and ‘wari are all relatively harmless. Each can make beak attacks, and the emre and ‘wan can strike with their clawed feet. When spooked by loud noises or the odor of blood, ’waries can stampede. Those caught in the path of stampeding ‘wari suffer 3d4 points of damage per round.</div><div style='text-indent:1em'>The skyfisher is the most dangerous of these birds. It can attack with either its beak or talons, but not both in the same round. It can dive for its first attack, gaining a +2 bonus to its attack roll and doubling the damage inflicted. Each time the skyfisher hits with its claws, the victim must roll a Dexterity check to try to avoid the bird’s grip. If the victim fails the check, he is carried aloft for 1d4 rounds and then dropped. Damage from the fall is 1d6 points for each round aloft. A skyfisher drops its prey if it receives 10 points of damage. It cannot lift prey in excess of 200 pounds.</div><br/><div><b style='color:#4169E1'>Habitat/Society:</b> All of these birds live in flocks. They lay 2d4 eges once a year. The emre and ‘wari range over a few square miles, while the migratory kingfishers and skyfishers range over much larger areas. The intelligent skyfishers collect a variety of shiny treasure items. Kingfishers prefer gems.</div><br/><div><b style='color:#4169E1'>Ecology:</b> Emre and ‘wari forage for insects, grams, and small rodents. These birds are favorite prey for wolves and other meateaters (‘wari are so dumb that they allow wolves to mingle among them). Kingfishers spear fish with their beaks, while skyfishers eat rabbits and other small mammals. Primitive tribes domesticate emre as mounts. Many cultures believe skyfishers are omens of war and death.</div>",
->>>>>>> 1d57cf6 (test)
+    "Description": "<div>Among Krynn’s rich variety of bird life are the ostrich-like emre, the ominous kingfisher, the intelligent skyfisher, and the foraging 'wari.</div><div>Both the emre and ‘wari are ground-dwelling birds, though the emre can become airborne for up to one turn. The emre has a plump body covered with white feathers, a long neck, bulging blue eyes, and thick, clawed feet. The ‘wari is a bulkier version of the emre, with bronze, gold, or blue feathers. The kingfisher has a crested head, short legs, and a long, pointed bill; it is deep blue or bluish gray with a white chest. The skyfisher looks like a cross be- tween a giant bat and a vulture, black or gray in color, with long, dangling legs and a sharp beak.</div><br/><div><b1>Combat:</b1> The emre, kingfisher, and ‘wari are all relatively harmless. Each can make beak attacks, and the emre and ‘wan can strike with their clawed feet. When spooked by loud noises or the odor of blood, ’waries can stampede. Those caught in the path of stampeding ‘wari suffer 3d4 points of damage per round.</div><div>The skyfisher is the most dangerous of these birds. It can attack with either its beak or talons, but not both in the same round. It can dive for its first attack, gaining a +2 bonus to its attack roll and doubling the damage inflicted. Each time the skyfisher hits with its claws, the victim must roll a Dexterity check to try to avoid the bird’s grip. If the victim fails the check, he is carried aloft for 1d4 rounds and then dropped. Damage from the fall is 1d6 points for each round aloft. A skyfisher drops its prey if it receives 10 points of damage. It cannot lift prey in excess of 200 pounds.</div><br/><div><b1>Habitat/Society:</b1> All of these birds live in flocks. They lay 2d4 eges once a year. The emre and ‘wari range over a few square miles, while the migratory kingfishers and skyfishers range over much larger areas. The intelligent skyfishers collect a variety of shiny treasure items. Kingfishers prefer gems.</div><br/><div><b1>Ecology:</b1> Emre and ‘wari forage for insects, grams, and small rodents. These birds are favorite prey for wolves and other meateaters (‘wari are so dumb that they allow wolves to mingle among them). Kingfishers spear fish with their beaks, while skyfishers eat rabbits and other small mammals. Primitive tribes domesticate emre as mounts. Many cultures believe skyfishers are omens of war and death.</div>",
     "Source": "TSR2105",
     "Image": ""
 }, {
-    "Name": "Bear, Ice",
-    "Climate/Terrain": "Arctic/Plain, hill, and mountain",
-    "Frequency": "Uncommon",
-    "Organization": "Pack",
-    "Activity Cycle": "Day",
-    "Diet": "Carnivore",
-    "Intelligence": "Low (5-7)",
-    "Treasure": "Nil",
-    "Alignment": "Neutral",
-    "No. Appearing": "1-4",
-    "Armor Class": "6",
-    "Movement": "12, Sw 3",
-    "Hit dice": "6+2",
-    "THAC0": "15",
-    "No. Of Attacks": "3",
-    "Damage/Attack": "1-8/1-8/2-16",
-    "Special Attacks": "Hugs for 2-12",
-    "Special Defenses": "See below",
-    "Magic Resistance": "Nil",
-    "Size": "L (12’ tall)",
-    "Morale": "Average (10)",
-    "XP Value": "975",
-    "Psionic Summary": "",
-<<<<<<< HEAD
-    "Description": "<div>Resembling a cross between a polar bear and a cave bear, the ice bear is a ferocious meat-eater inhabiting the southernmost regions of Krynn. It is the most intelligent of all bears.</div><div class='indent'>A mature ice bear averages 12 feet in length and weighs nearly 1,500 pounds. Its coat of dense white fur keeps it warm and makes it difficult to see against a background of ice and snow. It has a huge head, long ears, and bright blue eyes. Thick pads on its feet enable it to walk on ice without slipping. Its lean body and powerful legs enable it to swim with relative ease.</div><div class='indent'>Ice bears have no formal language, but can communicate simple ideas to each other by a system of grunts. Ice bears who have established relationships with other races are able to understand brief spoken phrases from them.</div><br/><div><b1>Combat:</b1> Irritable and aggressive, the ice bear is a fearsome opponent. The ice bear has excellent vision and hearing. Its sense of smell is so acute that it can sniff out prey up to 100 yards away. Because of its sharp senses, an ice bear gains a +5 bonus to its surprise roll when encountering victims.</div><div class='indent'>When attacking, the ice bear rears on its hind legs and lunges at its victim, striking with its forepaws and jaws. If the ice bear scores a paw hit with an 18 or better, it also hugs for an additional 2d6 points of damage. It continues to fight for 1d4 rounds after reaching 0 to -8 hit points. When reduced to -9 or fewer hit points, it dies immediately.</div><div class='indent'>The ice bear is immune to all harmful effects of cold temperatures. It is similarly immune to cone of cold and all other cold-based spells.</div><vr/><div><b1>Habitat/Society:</b1> Caves in icebergs serve as lairs for ice bears. Most ice bears live near arctic coastlines, but some live on small islands hundreds of miles from the mainland. Ice bears spend most of their waking hours swimming and fishing; their preferred hunting area is the edge of an ice floe where they can scoop passing fish out of the water. Ice bears seldom stray more than a few miles from their lairs.</div><div class='indent'>Every winter, a female ice bear retires to her cave and gives birth to one or two cubs. Though not as dangerous as their parents, ice bear cubs older than six months are also formidable opponents (AC 7, HD 4, THACO 17, Dmg 1d4/1d4/1d8, hugs for 1d6 points of damage). The cubs remain with their parents until they reach maturity (about seven years), then leave to establish lairs of their own.</div><div class='indent'>The ice bear has an uncanny ability to track prey over snow and ice. If no new snow has fallen, an ice bear has a 100% chance of following a trail that is one day old or less. For each day (after the first) since the trail was made, this chance is reduced by 10%. The chance is reduced by an additional 10% for each inch of snow that has fallen on the trail. (For instance, if the trail is two days old and is covered by an inch of new snow, an ice bear’s chance of following the trail is 80% .) A tracking roll is made once per day; if the roll is successful, the ice bear can follow the trail for the entire day. Otherwise, the trail is lost forever.</div><div class='indent'>Ice bears have been known to establish cooperative relationships with members of other races, including minotaurs and humans. Most commonly, ice bears establish relationships with the thanoi (also known as walrus men). The ice bears track prey for the thanoi, who then slay the quarry and share the meat with the bears. When threatened, ice bears and thanoi unite to defend themselves against common enemies. To facilitate movement over ice and snow, the thanoi have designed special sleds that can be pulled by ice bear teams.</div><div class='indent'>Though often associated with evil races, ice bears are not inherently evil themselves. Their memories are long, and they remain friendly to those who have helped them in the past, regardless of race or alignment. Characters who feed starving ice bears, free them from traps, or heal their wounds can find themselves befriended by those bears years or even decades later. Ice bears can help friends by serving as guides through hostile arctic terrain or by joining them as allies to fight off hostile creatures.</div><br/><div><b1>Ecology: The ice bear mainly eats fish and seals, but any type of prey that stumbles into its path is likely to be eaten as well. Ice bear pelts can be made into warm coats, gloves, and mufflers. Some races, especially evil- and neutral-aligned humans, value ice bear claws as jewelry; a finely crafted ice bear claw necklace can fetch as much as ten stl.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": { "Beast, Undead": ["Stahnk", "Gholor"] },
-=======
-    "Description": "Resembling a cross between a polar bear and a cave bear, the ice bear is a ferocious meat-eater inhabiting the southernmost regions of Krynn. It is the most intelligent of all bears.</div><div style='text-indent:1em'>A mature ice bear averages 12 feet in length and weighs nearly 1,500 pounds. Its coat of dense white fur keeps it warm and makes it difficult to see against a background of ice and snow. It has a huge head, long ears, and bright blue eyes. Thick pads on its feet enable it to walk on ice without slipping. Its lean body and powerful legs enable it to swim with relative ease.</div><div style='text-indent:1em'>Ice bears have no formal language, but can communicate simple ideas to each other by a system of grunts. Ice bears who have established relationships with other races are able to understand brief spoken phrases from them.</div><br/><div><b style='color:#4169E1'>Combat:</b> Irritable and aggressive, the ice bear is a fearsome opponent. The ice bear has excellent vision and hearing. Its sense of smell is so acute that it can sniff out prey up to 100 yards away. Because of its sharp senses, an ice bear gains a +5 bonus to its surprise roll when encountering victims.</div><div style='text-indent:1em'>When attacking, the ice bear rears on its hind legs and lunges at its victim, striking with its forepaws and jaws. If the ice bear scores a paw hit with an 18 or better, it also hugs for an additional 2d6 points of damage. It continues to fight for 1d4 rounds after reaching 0 to -8 hit points. When reduced to -9 or fewer hit points, it dies immediately.</div><div style='text-indent:1em'>The ice bear is immune to all harmful effects of cold temperatures. It is similarly immune to cone of cold and all other coldbased-spells.</div><br/><div><b style='color:#4169E1'>Habitat/Society:</b> Caves in icebergs serve as lairs for ice bears. Most ice bears live near arctic coastlines, but some live on small islands hundreds of miles from the mainland. Ice bears spend most of their waking hours swimming and fishing; their preferred hunting area is the edge of an ice floe where they can scoop passing fish out of the water. Ice bears seldom stray more than a few miles from their lairs.</div><div style='text-indent:1em'>Every winter, a female ice bear retires to her cave and gives birth to one or two cubs. Though not as dangerous as their parents, ice bear cubs older than six months are also formidable opponents (AC 7, HD 4, THACO 17, Dmg 1d4/1d4/1d8, hugs for 1d6 points of damage). The cubs remain with their parents until they reach maturity (about seven years), then leave to establish lairs of their own.</div><div style='text-indent:1em'>The ice bear has an uncanny ability to track prey over snow and ice. If no new snow has fallen, an ice bear has a 100% chance of following a trail that is one day old or less. For each day (after the first) since the trail was made, this chance is reduced by 10%. The chance is reduced by an additional 10% for each inch of snow that has fallen on the trail. (For instance, if the trail is two days old and is covered by an inch of new snow, an ice bear’s chance of following the trail is 80% .) A tracking roll is made once per day; if the roll is successful, the ice bear can follow the trail for the entire day. Otherwise, the trail is lost forever.</div><div style='text-indent:1em'>Ice bears have been known to establish cooperative relationships with members of other races, including minotaurs and humans. Most commonly, ice bears establish relationships with the thanoi (also known as walrus men). The ice bears track prey for the thanoi, who then slay the quarry and share the meat with the bears. When threatened, ice bears and thanoi unite to defend themselves against common enemies. To facilitate movement over ice and snow, the thanoi have designed special sleds that can be pulled by ice bear teams.</div><div style='text-indent:1em'>Though often associated with evil races, ice bears are not inherently evil themselves. Their memories are long, and they remain friendly to those who have helped them in the past, regardless of race or alignment. Characters who feed starving ice bears, free them from traps, or heal their wounds can find themselves befriended by those bears years or even decades later. Ice bears can help friends by serving as guides through hostile arctic terrain or by joining them as allies to fight off hostile creatures.</div><br/><div><b style='color:#4169E1'>Ecology:</b> The ice bear mainly eats fish and seals, but any type of prey that stumbles into its path is likely to be eaten as well. Ice bear pelts can be made into warm coats, gloves, and mufflers. Some races, especially evil- and neutral-aligned humans, value ice bear claws as jewelry; a finely crafted ice bear claw necklace can fetch as much as ten stl.",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": {"Beast, Undead": ["Stahnk", "Gholor"]},
->>>>>>> 1d57cf6 (test)
-    "Climate/Terrain": ["Any", "Any"],
-    "Frequency": ["Very rare", "Very rare"],
-    "Organization": ["Solitary", "Solitary"],
-    "Activity Cycle": ["Any", "Any"],
-    "Diet": ["Nil", "Nil"],
-    "Intelligence": ["Non- (0)", "Non- (0)"],
-    "Treasure": ["G", "G, H"],
-    "Alignment": ["Neutral", "Neutral"],
-    "No. Appearing": ["1", "1"],
-    "Armor Class": ["6", "6"],
-    "Movement": ["9,Sw9", "Nil"],
-    "Hit dice": ["12+12", "12+12"],
-    "THAC0": ["7", "7"],
-    "No. Of Attacks": ["3", "3 or 1"],
-    "Damage/Attack": ["3-9/3-9/3-24", "3-9/3-9/3-24 or 3-"],
-<<<<<<< HEAD
-    "Special Attacks": ["Ensnare and fling", "Acidic bite"],
-=======
-    "Special Attacks": ["_ Ensnare and fling", "Acidic bite"],
->>>>>>> 1d57cf6 (test)
-    "Special Defenses": ["See below", "See below"],
-    "Magic Resistance": ["20%", "20%"],
-    "Size": ["H (20’ long)", "H (20’ long)"],
-    "Morale": ["Elite (14)", "Elite (14)"],
-    "XP Value": ["8,000", "8,000"],
-    "Psionic Summary": "",
-<<<<<<< HEAD
-    "Description": "<div>The undead beast is a mindless killer of unknown origin, compelled to destroy the living. The most common variety of undead beast is called the stahnk.</div><div class='indent'>The size of a small dragon, the stahnk’s bones protrude from rotting flesh. It has a great horned head, and its ribs are bare and barbed, forming a nasty cage. It walks on all fours, but it can rear on its hind legs, balancing with its stubby tail, to bring its powerful forearms to bear.</div><br/><div><b1>Combat:</b1> The stahnk assaults anything that moves, attacking with its razor-sharp claws and horned head. Any victim struck by a claw must roll a successful saving throw vs. death magic or be flung for 1d20 additional points of damage. The beast can also charge its victims in an attempt to trample them (roll its normal attack roll). A trampled victim must roll a saving throw vs. death magic, suffering 1d8 points of damage if the roll succeeds and 3d8 points of damage if the roll fails. Additionally, a trampled victim who fails his saving throw vs. death magic must then roll a saving throw vs. wand. If he fails this saving throw, he is ensnared in the beast’s rib cage and suffers 1d4 points of damage from the barbs each round the beast moves. An ensnared character can break free from the rib cage if the beast loses 50% of its hit points (a stahnk that has already lost half of its hit points cannot ensnare victims). Victims ensnared in the rib cage can continue to attack the beast, but they do so with a -3 penalty to both attack and damage rolls.</div><div class='indent'>The stahnk can be turned by a priest as a special monster. It is unaffected by flame and suffers only minimum damage (1 point plus any applicable bonuses) from edged or pointed weapons. Blunt weapons, such as clubs and maces, affect the beast normally.</div><br/><div><b1>Habitat/Society:</b1> The stahnk dwells in the most desolate regions world. It is almost always found alone, having long ago destroyed all other creatures in its immediate environment. Each stahnk claims an area of no more than a few acres as its domain. A stahnk never leaves its domain, and it kills all living creatures that trespass. Since stahnks destroy the bodies of their victims but leave the possessions untouched, they tend to accumulate sizeable treasure caches.</div><br/><div><b1>Ecology:</b1> Stahnks do not eat their victims, but instead crush and rend them into pulp. Powerful evil wizards occasionally use stahnks as guards.</div><br/><div><b1>Gholor</b1></div><br/><div>The gholor, also known as the feaster, is an undead beast with no hind legs or rib cage. It cannot make ensnaring, trampling, or flinging attacks. Instead, it attacks with two 20-foot-long bony hooked arms and its sharp teeth; its jaws secrete acid, causing an additional 1d8 points of acid damage with each successful bite.</div><div class='indent'>Gholors live at the bottom of deep funnel-like depressions located in deserts, on ocean floors, or in similarly desolate areas. They cannot move from their funnels. Gholors radiate a magical pull within a 1d10-mile radius of their funnels, causing all victims in the area to feel a desire to travel to the funnel. For every hour a being is within this radius, it must roll a successful saving throw vs. spell or continue to move toward the funnel at its normal movement rate. When a victim reaches the funnel, it begins to slip inside; it slips to the center and into the arms of the waiting gholor in three rounds.</div>< br/><div><b1>Anhkolox</b1></div><br><div>About 10% of all undead beasts, including gholors, have enchanted bones that glow green. Such undead beasts are called anhkolox. These beasts are very hot: a character touching a glowing bone with his bare hands suffers 1 point of damage. If the beast is touched with any inflammable object, such as a wooden staff, the object bursts into flames.</div><div class='indent'>An anhkolox can also attack with a breath weapon, an ice-cold cone of green fire seven feet long with a base diameter of 2% feet, A victim struck by the green fire must roll a saving throw vs. spell. If he succeeds, he suffers 1d4 points of damage. If he tails, he suffers 2d4 points of damage and his bones throb inside his body for the next 1d6 turns; his AC is increased by +1 and all attack rolls suffer a -1 penalty during that period. These effects can be negated by dispel magic or a similar spell, though the PC still suffers the damage.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Centaur (of Krynn)",
-    "Climate/Terrain": "Temperate/Forest, hill, and, plain",
-    "Frequency": "Rare",
-    "Organization": "Herd",
-    "Activity Cycle": "Any",
-    "Diet": "Herbivore",
-    "Intelligence": "Average (8-10)",
-    "Treasure": "M, Q; (D, I, T)",
-    "Alignment": "Chaotic or neutral good",
-    "No. Appearing": "5-30",
-    "Armor Class": "5",
-    "Movement": "18",
-    "Hit dice": "4",
-    "THAC0": "17",
-    "No. Of Attacks": "2orl",
-    "Damage/Attack": "1-6 (front hooves) and weapon, or 1-6 (hind hooves)",
-    "Special Attacks": "Nil",
-    "Special Defenses": "See below",
-    "Magic Resistance": "Nil",
-    "Size": "M (4-7! tall)",
-    "Morale": "Steady (12)",
-    "XP Value": "120",
-    "Psionic Summary": "",
-    "Description": "<div>The centaurs of Krynn are half-human and half-horse, living in secluded forests and pasture lands throughout the world.</div><div class='indent'>The chest, arms, and head of the centaur are human. The body, legs, and tail are those of a horse. The centaur is typically seven feet tall from his hooves to the top of his head, but some rare species, such as the Wendle centaur, are as small as four feet. An adult centaur can weigh as much as 1,500 pounds.<div><div>The human features of centaurs are slightly larger than those of an actual human. Their chests are broad and barrel-shaped, and their arms ripple with solid muscle. They have huge shoulders and thick necks. They wear their hair in long, flowing curls; hair colors include black, brown, blonde, red-orange, and white. They have bright eyes, usually blue or brown, but sometimes violet, green, or black. Skin tones on the human half of a centaur range from pale pink to light brown to rich ebony.</div><div class='indent'>From a human perspective, both male and female centaurs are strikingly attractive. The males are ruggedly handsome, with square jaws, aquiline noses, and full beards. Females are sleek and voluptuous, with full lips, soft cheeks, and sparkling eyes. Centaurs move with an easy grace, their steps assured and proud.</div><div class='indent'>The horse portion of the centaur’s body is covered with hair. This coat of hair grows throughout the year, becoming shaggy in the colder months, and shorter in the spring when the coat is shed, Centaur coats come in a variety of colors, including brown, blonde, black, white, and gray. Some coats are combinations of colors; white and black or brown and blonde are the most common. A shiny coat indicates a healthy centaur.</div><div class='indent'>Centaurs have long, full tails. They can twitch their tails at will, and usually do so to sweep away insects or to fan a companion.</div><div class='indent'>Centaurs do not normally wear clothing. When associating with humans, however, female centaurs wear simple cloth blouses in deference to human custom. Most centaurs carry leather or cloth bags slung over their shoulders with long straps to hold food, treasure, and other possessions.</div><div class='indent'>Centaurs speak their own language as well as common language. They speak in deep, sonorous voices. Humans find centaur speech somewhat formal and stilted; for instance, centaurs use “thou” and “thy” where humans use “you” and “your.”</div><div class='indent'>Compared to humans and demihumans, centaurs are not particularly intelligent. Nor are they especially virtuous, devoted more to their own self-interests than the common good. Centaurs are sensualists first and foremost, preferring the taste of a good wine or the warmth of a sunny day to debating philosophy or exploring new places. Soaking in a woodland stream can easily occupy an entire day.</div><div class='indent'>There are four general species of Krynn centaurs. Though all share the characteristics described earlier, as well as the social organization and combat techniques described following, each has a distinctive temperament and several distinguishing features. Each species is named for the region of its origin. The various species are by no means confined to these regions; each has been found in temperate woodlands and meadows in all corners of Krynn.</div><div class='indent'>When acentaur encounter occurs, roll 1d20 and consult the following table for the type; mixed groups are never encountered. (The DM can modify the roll for specific regions as he sees fit; for instance, Crystalmirs are more likely to be encountered in southern regions, less likely in northern regions.)</div><br/><div><b1>Centaur Species Encounter Table</b1><div><br/><div><table><thead><tr><th>D20 Roll</th><th>Species Encountered</th></thead><tbody><tr><td>1-13</td><td>Abanasinian</td></tr><tr><td>14-15</td><td>Crystalmir</td></tr><tr><td>16-19</td><td>Endscape</td></tr><tr><td>20</td><td>Wendle</td></tr></tbody></table></div><br/><div><b1>Abanasinian Centaur</b1></div><br><div>The Abanasinians comprise the vast majority of Krynn centaurs; in fact, few races have seen any centaurs other than Abanasinians. These centaurs developed on the plains of Abanasinia in southern Ansalon, migrated south to the forests of Qualinesti, then quickly spread north throughout the rest of the continent. ‘Today, there are few major forests without a herd or two of these centaurs.</div><div class='indent'>The Abanasinians are the biggest and most handsome of the centaurs. All adults exceed 1,000 pounds and are at least six feet tall. They are usually a single color, such as chestnut brown, blonde, or black. Their broad backs and powerful legs enable them to gallop for long distances without tiring and also enable them to carry heavy weights; a large Abanasinian could carry three human soldiers on his back with no noticeable strain. They are extremely robust, gaining a +2 bonus to all saving throws.</div><div class='indent'>Abanasinians are superb hunters and fighters. They are playful and spirited, but they can also be quite temperamental, refusing to cooperate with their allies for a variety of minor reasons. Abanasinians remain loyal to their friends for their entire lives and hold grudges against their enemies just as long.</div><br/><div><b1>Crystalmir Centaur</b1></div><br/><div>This variety of centaur was named for the Crystalmir Lake, located near the town of Solace in Abanasinia. Originally a subspecies of the Abanasinian centaurs, the Crystalmirs did not migrate as far as their more adventurous cousins, and today are largely confined to Ansalon’s southern forests and plains.</div><div class='indent'>The Crystalmirs are strong and sturdy, though less so than the Abanasinians. They rarely exceed 1,000 pounds in weight or six feet in height. They have lean bodies, slim necks, and high-set tails. They are usually blonde or light brown in color, with black or chestnut highlights; a few herds are solid black or white. They are extremely quick, able to gallop at a movement rate of 30 for short bursts.</div><div class='indent'>The Crystalmirs are shy and reclusive, the most reluctant combatants of all the centaurs. Their usual reaction to strangers is to run away as fast as they can. They seldom cooperate with humans or other intelligent races, refusing even to speak with them until they are completely convinced the outsiders mean them no harm.</div><br/><div><b1>Endscape Centaur</b1></div><br/><div>The Endscapes are the most savage of the centaurs. Originally from the forests of the Endscape Peninsula north of Kern, this species is now largely confined to the northern regions of Ansalon. But since they have no permanent settlements, Endscape herds can be found just about anywhere.</div><div class='indent'>Endscapes average five to six feet tall, though their leaders are a full foot taller. Endscapes have shaggy coats and tails. The hair on their heads often grows to their waists. They are black or gray in color, occasionally brown or blonde. By human standards, Endscapes are the least attractive of the centaurs. The males have short, scraggly beards and pock-marked faces; the females have beady eyes and flabby bellies.</div><div class='indent'>What the Endscapes lack in physical beauty, they make up for in combat prowess; Endscapes get a +1 damage bonus when using melee weapons and a +2 damage bonus when kicking with their powerful hind legs.</div><div class='indent'>Endscapes are lawless creatures that attack for the sheer thrill of it, mercilessly preying on the weak and helpless. They are fond of strong wine and are frequently inebriated. Endscapes enjoy making drunken raids on human villages, burning buildings, stealing food and weapons, and generally terrorizing the populace. Male Endscapes are fascinated by human women, and have been known to kidnap them.</div><br/><div><b1>Wendle Centaur</b1></div><br/><div>The Wendle centaurs arose in the Wendle Woods of Goodlund in eastern Ansalon. Incessant annoyance from nearby kender communities eventually drove most of the Wendles from the area, and they now populate the various forests and plains in the eastern regions of the continent.</div><div class='indent'>The Wendles average four to five feet in height. They resemble smaller versions of the Abanasinians and are sometimes mistaken for Abanasinian young. However, the Wendles are distinguished by their golden eyes and stubby tails. Instead of rib cages, Wendies have plates of solid bone, giving them an AC of 4.</div><div class='indent'>The Wendles are the smartest of all centaurs; all have a +1 modifier to their base Intelligence (meaning their Intelligence scores average 9-11). They are more interested in philosophy, history, and other intellectual pursuits than other centaurs, and they are always better sources of information. However, Wendles can be argumentative and stubborn. They are wary of strangers and seldom cooperate with them.</div><br/><div><b1>Combat:</b1> Except for the Endscapes, Krynn centaurs have no love of fighting, but life in the wilderness requires all centaurs to keep their combat skills sharp. Centaurs typically patrol in groups of 1d4 +2. When an enemy is engaged, half of the patrol remains in the rear to conduct missile attacks while the rest charges ahead; if the number of enemies substantially exceeds the number of centaurs, the entire patrol charges.</div><div class='indent'>Centaurs move constantly, attempting to attack their opponents from all sides. In melee, centaurs can strike twice per round—once with their weapons and once with their front hooves. They can attack enemies in back of them with their hind hooves.</div><div class='indent'>Centaurs are master archers; when using bows of any kind, they gain a +1 bonus to their attack rolls. They also favor spears, clubs, javelins, long swords, short swords, and daggers.</div><div class='indent'>Abanasinian and Endscape centaurs wield huge scythes, whose razor-sharp blades inflict 2d4 points of damage. Most centaurs carry at least two different weapons.</div><div class='indent'>Centaurs never wear armor, but centaur leaders carry shields, giving them an effective AC of 4. Wendle leaders who carry shields have an effective AC of 3.</div><br/><div><b1>Habitat/Society:</b1> Centaurs live in pastures and pleasant woodlands far from human and demihuman civilizations. They have no formal lairs, thus it is easy for them to relocate; when outsiders move in or when food becomes scarce, they simply migrate to a more suitable location.</div><div class='indent'>An average herd has 2d4 males. There are twice as many females as males, and a number of young equal to the total number of adults. Female centaurs are called mares, males are called stallions, young centaurs from age one to four are called colts, and those below the age of one are called foals. Mares have 3 HD, colts have 1d3 HD, and foals have 2d4 hit points. Neither the mares, the colts, nor the foals can use weapons, though the mares can attack with their hooves.</div><div class='indent'>The strongest stallions serve as the leaders, organized into a council to make all decisions for the herd. A council must have an odd number of stallion leaders, so votes can be taken when the council cannot reach a consensus. Most councils have three members, but larger herds have five.</div><div class='indent'>Since centaurs are typically easy-going and docile, few herds have a need for a strict set of laws. Most infractions, such as minor theft, are punishable by extra hunting or guard duty. Serious crimes, such as violence against another herd member, are punishable by expulsion from the herd.</div><div class='indent'>Centaurs love treasure. Each herd has a community treasure cache, usually in a cave or beneath a pile of rocks, to which herd members are expected to contribute. Centaurs keep their personal treasure with them in leather bags or hide it in hollow trees.</div><br/><div><b1>Ecology:</b1> Centaurs avoid contact with most other races, although they are on good terms with fellow woodland creatures, especially unicorns. They will help humans and other good races if it is in their best interests to do so. Ogres and sligs sometimes slaughter centaurs to feed their pet wolves.</div><div class='indent'>Centaurs eat all day long. They enjoy all types of ‘grasses, grains, fruits, nuts, and saplings. Centaurs rarely engage in trade, but occasionally they exchange fruits and nuts for wine and other alcoholic beverages.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Disir",
-    "Climate/Terrain": "Subterranean",
-    "Frequency": "Very Rare",
-    "Organization": "Tribal",
-    "Activity Cycle": "Any",
-    "Diet": "Omnivore",
-    "Intelligence": "Highly (13-14)",
-    "Treasure": "(B)",
-    "Alignment": "Lawful evil",
-    "No. Appearing": "2d4",
-    "Armor Class": "3",
-    "Movement": "12",
-    "Hit dice": "5",
-    "THAC0": "15",
-    "No. Of Attacks": "3",
-    "Damage/Attack": "2d4/2d4/2d6",
-    "Special Attacks": "Pain",
-    "Special Defenses": "Fire resistance",
-    "Magic Resistance": "Nil",
-    "Size": "M (6’-7’ tall)",
-    "Morale": "15",
-    "XP Value": "975",
-    "Psionic Summary": "",
-    "Description": "<div>The disir are a race of deep-dwelling subterranean creatures of disgusting appearance. They stand about six to seven feet tall, although they are normally hunched over to a lesser height. Parts of their bodies are covered with a natural armor, while other areas show exposed rubbery flesh. Their skin tone is a pasty greenwhite. Their pores exude a thick coating of slimy gel. This is normally polluted with dirt, debris, and bits of dead flesh that seem to constantly slough off them. An aura of stench and decay hangs around them.</div><br/><div><b1>Combat:</b1> Disir usually fight with claws and bite, but they have been known to use weapons on rare occasions. Although their bite is more effective, disir prefer to fight with their claws whenever possible, saving their bite attack for helpless or nearly helpless victims. The claws are long and powerful and the disir are able to easily crush soft stones with one hand. Their bite is particularly vicious, both for their protruding jagged tangs and their long, razor-sharp, rasp-like tongue. This is used to shear flesh from bone.</div><div class='indent'>All the attacks of the disir (claws and bite) are poisonous, due to the slimy jelly that drips from their bodies. This jelly causes intense pain to (but does not kill) its victims. Those struck by a disir must roll a saving throw vs. poison at the end of the round. Only one saving throw need be made, regardless of the number of times the character has been hit. Each claw causes a -1 penaltv to the saving throw, while a bite gives a -2 penalty. These modifiers are cumulative, so if a character is struck by all three attacks, he would have a total penalty of -4 to his saving throw.</div><div class='indent'>If the saving throw is failed, the poison generates a burning fire, starting from the point of the wound. This pain is so intense that it numbs the muscles and gradually paralyzes the victim. The process takes 1d4 +1 rounds. Each round until the character is paralyzed, he suffers a -1 (cumulative) penalty to his THAC0. This penalty is removed when the pain is neutralized. The poison has a duration of Id4 turns. The poisonous gel has a very short life when exposed to air. It is effective on the disir because their bodies are constantly renewing it. However, it cannot be bottled or kept and used by others.</div><div class='indent'>The gel also provides protection from fire-based attacks Disir gain a +4 saving throw bonus and suffer 1 point less per die of damage from fire-based attack?</div><br/><div><b1>Habitat/Society:</b1> The disir are a secretive group, due in part to geographic location (miles beneath the earth) and a fanatical hatred of anything that might be their neighbor. Their homeland is deep under the earth in the realm of the Underdark. There, they fashion underground tunnels or, more often appropriate the homes of others. Thus they are a scourge to dwarves and other tunneling races Wars between the two are often fought over the homes the dwarves have built.</div><divThe disir live in large tribal units of 50 or more members The tribes, in turn maintain close relations with each other and several tribes may be located in a limited area Warfare between different tribes is unknown. They are not so scrupulous about other neighbors, viewing any other settlement as a source of food. Although highly intelligent, they do not enter into treaties or truces of any kind.</div><div class='indent'>The disir reproduce from eggs. There are no distinguishing signs of their sex, making it impossible to tell male from female by sight Indeed, a single disir may be either male or female, depending on what stage of life it is in. The females of their kind (or those in the female phase) dominate the males.</div><div class='indent'>The tribes live communally sharing the duties between all the adult members. The eggs are laid in Incubator halls and are guarded at all times. Food gathering and raiding is done in groups and the spoils of each are brought back to the tribe and divided among all the members. Those who cannot assist in these tasks, for whatever reason are killed.</div><br/><div><b1>Ecology:</b1> The disir, while omnivorous, greatly favor meat—of any kind They seem untroubled by spoilage decay or source. They eat anything they can kill or any dead they find They resort to vegetable matter (mostly fungus only, when other resources have dried up. Thus they often serve to scour old overpopulated sections of the Underdark, leaving behind sterile dead remains.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Draconian (proto-), Traag"
-    "Climate/Terrain": "Temperate plain or forest",
-    "Frequency": "Very Rare",
-    "Organization": "Tribal",
-    "Activity Cycle": "Night",
-    "Diet": "Carnivore",
-    "Intelligence": "Low (5-7)",
-    "Treasure": "None",
-    "Alignment": "Chaotic evil",
-    "No. Appearing": "2d6",
-    "Armor Class": "4",
-    "Movement": "6",
-    "Hit dice": "3",
-    "THAC0": "17",
-    "No. Of Attacks": "2ori1",
-    "Damage/Attack": "1d6/1d6 or by weapon",
-    "Special Attacks": "None",
-    "Special Defenses": "None",
-    "Magic Resistance": "Nil",
-    "Size": "M (5’-6’ tall)",
-    "Morale": "Special",
-    "XP Value": { "Traag": "120", "Chieftain": "175" },
-    "Psionic Summary": "",
-    "Description": "<div>The traag draconians are among the first failed attempts to create draconians, a precursor of the more successful baaz. While not overly tall, they are emaciated and gangly. They have sharp taloned hands, and crocodile-like snouts. Their bodies are covered with rough scales of a metallic brass color, a link to their heritage.</div><br/><div><b1>Combat:</b1> Traag draconians are fierce fighters, adept with either weapons or their natural talons. At the same time, they are not naturally courageous, being extremely conscious, even paranoid, of their- own weaknesses and numbers. They do not attack unless the odds are in their favor, either through numbers, the element of surprise or clever strategies, or if they have been forced into battle. Thus, their initial morale is only 8.<div><div>Once the battle is joined, however, the traag become maniacally fearless. A blood-lust seizes them and they no longer need to check morale for the duration of the fight. They will fight without regard for losses and gain a +1 on all saving throws vs. spells that cause fear (scare, fear, etc.). This effect only comes into play when the combat is actually joined. Since the traag don’t use missile weapons, this is when hand-to-hand combat is conducted.</div><div class='indent'>In combat, the traag often disdain the use of weapons and fight with their claws, which are effective enough. They use weapons when there is some advantage to be gained from using the weapon-attack mode, reach, or other special use.</div><div class='indent'>Upon death, the traag bubble and rot away in a single round, leaving only a slimy puddle behind.</div><br/><div><b1>Habitat/Society:</b1> The traag were one of the first products of the lords’ attempts to pervert the eggs of the good dragons to create araconians. (At least, they were one of the first experiments to survive.) For a time, since they lived and were good fighters (when they fought), the lords considered them a success and bred large numbers of them.</div><div class='indent'>Over time, however, the traag began to develop a number of undesirable traits that ultimately made them unsuitable for use in the dragon armies. Most obvious of these is their noteworthy cowardice. Even this alone would not have been sufficient, but coupled with a very low birth rate (each brass dragon egg yielded only a few viable traag) and a tendency to suddenly go berserk, attacking anything or anyone, made the traag a failure. Not wanting to waste time slaughtering them by the thousands, the evil lords simply disposed of their error in the lands of Aurim.</div><div class='indent'>The traag have formed themselves into small tribal bands. Each tribe is led by a chieftain (5 HD, THACO 15, Dmg 1d8/1d8). These bands of 1d100 + 50 traag live mostly in the deserted villages and cities of ancient Aurim The more numerous and powerful hobgoblins have made the plains unsafe for their habitation, so the traag have for tified and trapped the ruins as a protection against their powerful neighbors. The old streets are honeycombed with hidden sally ports, rockfalls, dead ends, and concealed ways.</div><div class='indent'>The villages are normally organized in a similar manner. At the center of the rums is the tribal headquarters. There are always at least two paths to this and sometimes more. Fanning out from the center are different encampments, or “divislons” as the traag call them. Each division has 1d20 + 10 members. These divisions have varying responsibilities, usually assigned the duty of guarding a specific post or hunting in a given territory.</div><div class='indent'>Because the traag are created, they have only one sex (male for lack of a better name). There are no young or dependents. All members of the tribe are warriors—they are more completely mobilized than any other group in Taladas. This has led them to Increasing dominance in Aurim.</div><br/><div><b1>Ecology:</b1> Although carnivorous, the traag are often reduced to scavenging. Unwilling to hunt for great lengths of time on the plains, they are almost universally under-nourished. It’s not surprising then that they will eat virtually anything (even hobgoblin) that is put in front of them.</div",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Draconian, Aurak",
-    "Climate/Terrain": "Any, except water",
-    "Frequency": "Rare",
-    "Organization": "Solitary",
-    "Activity Cycle": "Any",
-    "Diet": "Special",
-    "Intelligence": "Exceptional (15-16)",
-    "Treasure": "K, L, N, V",
-    "Alignment": "Lawful evil",
-    "No. Appearing": "1-2",
-    "Armor Class": "0",
-    "Movement": "15",
-    "Hit Dice": "8",
-    "THAC0": "13",
-    "No. Of Attacks": "2 or 1",
-    "Damage/Attack": "3-10 (x 2) or spell",
-    "Special Attacks": "Spells and breath",
-    "Special Defenses": "+4 bonus to saves",
-    "Magic Resistance": "30 %",
-    "Size": "M (7’ tall)",
-    "Morale": "Champion (15)",
-    "XP Value": "6,000",
-    "Psionic Summary": "",
-    "Description": "<div>Derived from the eggs of gold dragons, Auraks are the most powerful and devious of the draconians. Soft-spoken and coldblooded, no act of violence is too extreme for an Aurak.</div><div class='indent'>Auraks are seven-foot-tall, sinewy draconians with short tails and golden scales. Small spines grow from the backs of their heads They have long, sharp teeth and bulging eyes that are either blood red, green, or black. Their bodies emit a noxious sulphur odor, detectable from several yards away. They wear few clothes, aside from the occasional belt or cape. Auraks are the only wingless draconians.</div><br/><div><b1>Combat:</b1> Auraks experience the agony of their victims as an alphysical pleasure. But they are not impulsive fighters-they strike only after careful planning has minimized all of the risks. Auraks have several natural defenses to frustrate their opponents. They can become invisible at will until they attack. They can polymorph into any animal their size, three times per day. They can also change self three times per day to perfectly imitate any human or humanoid they have ever seen; this effect lasts for 2d6 +6 rounds. The heightened senses of Auraks give them  infravision to 60 feet, and the ability to detect hidden and invisible creatures within 40 feet. Auraks can also see through all illusions.</div><div class='indent'>Though Auraks cannot fly, they move as fast as other draconians on the ground. They also have the ability to cast a dimension door spell three times per day at a range of 60 yards.</div><div class='indent'>Auraks have three modes of attack. First, they can generate an energy blast from each hand, causing 1d8 +2 points of damage at targets up to 60 yards away. When using their change self ability, they appear to be using a weapon appropriate to the character they are copying, but they are actually attacking with energy blasts. Second, they can exhale a noxious sulphur cloud five feet in diameter three times per day. Victims caught in the cloud suffer 2d10 points of damage and are blinded for 1d4 rounds (a successful saving throw means half damage and no blindness). Third, Auraks can attack with claws and fangs (1d4/1d4/1d6), though such attacks are seldom used.</div><div class='indent'>Once per day, Auraks can cast two wizard spells of 1st to 4th level. Preferred spells include enlarge, shocking grasp, ESP stinking cloud, blink, lightning bolt, fire shield, and wall of fire.</div><div class='indent'>Auraks gain a +4 bonus to all saving throws.</div><div class='indent'>An Aurak’s most insidious power is that of mind control. Once per day, it can mind control one creature of equal or fewer Hit Dice for 2d6 rounds. This ability enables the caster to control the actions of the victim as if it were its own body. The victim can avoid the effects of this ability by rolling a successful saving throw vs. spell. If an Aurak concentrates for a full turn, taking no other actions, it can use its suggestion ability; there is no limit to the number of times an Aurak can use this ability.</div><div class='indent'>When an Aurak reaches 0 hit points, it does not die, but instead surrounds itself with green flames and enters a fighting frenzy (+2 bonus to attack and damage rolls). Anyone coming within three feet of the flames suffers Id6 points of damage, unless a saving throw vs. petrification is successful. Six rounds later, or when the Aurak reaches -20 hit points, it transforms into a spinning ball of lightning, striking once per round as a 13-HD monster to cause 2d6 points of damage. Three rounds later, it explodes, stunning all within ten feet for 1d4 rounds (2d4 rounds if underwater), Those within ten feet also suffer 3d6 points of damage (no saving throw). Items within the range of the explosion must roll successful saving throws vs. crushing blow or be destroyed.</div><br/><div><b1>Habitat/Society:</b1> Because of their superior strength and exceptional abilities, Auraks are easily adaptable to all environments, though they prefer secluded areas. Auraks live alone or in pairs; larger groups of Auraks are never encountered. Auraks collect treasures as souvenirs of their kills; the value of treasure has little meaning for most Auraks.</div><br/><div><b1>Ecology:</b1> Auraks have an almost compulsive need to kill; most intelligent races, including other draconians, have learned to avoid them. There are no limits to what an Aurak will eat, though they prefer pearls and small gems. Auraks will consume alcohol, but they are less interested in strong drink than other draconians.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Draconian, Baaz",
-    "Climate/Terrain": "Any, but usually tropical, and temperate/ Forest, plain, and urban",
-    "Frequency": "Uncommon",
-    "Organization": "Band",
-    "Activity Cycle": "Any",
-    "Diet": "Special",
-    "Intelligence": "Average (8-10)",
-    "Treasure": "M, Q; (D, I, T)",
-    "Alignment": "Lawful or chaotic evil",
-    "No. Appearing": "2-20",
-    "Armor Class": "4",
-    "Movement": "6. Run 15 *, Glide 18",
-    "Hit dice": "2",
-    "THAC0": "19",
-    "No. Of Attacks": "2 orl",
-    "Damage/Attack": "1-4/1-4 or by weapon",
-    "Special Attacks": "Nil",
-    "Special Defenses": "Nil",
-    "Magic Resistance": "20%",
-    "Size": "M (5%’ tall)",
-    "Morale": "Elite (13)",
-    "XP Value": "175",
-    "Psionic Summary": "",
-    "Description": "<div>* This movement rate applies when the draconian is running on all fours, flapping its wings.</div><br/><div>Baaz are the smallest and most plentiful draconians. Derived from the eggs of brass dragons, they were the first draconians to appear on Krynn.</div><div class='indent'>Baaz have mottled scales in various shades of bronze and dark green. Their eyes are blood red, and they have slightly stooped shoulders. Their fangs are somewhat shorter than those of other draconian races.</div><div class='indent'>Baaz so enjoyed the regal dress of the Dragonarmies that many of them continue to wear it today. Leather collars and breastplates studded with iron are common, as are layered metal leggings. Since this apparel is poorly kept, it is primarily for decoration, offering little in the way of protection.</div><div class='indent'>Baaz are often encountered in disguise. They conceal their wings under long dark robes and hide their features with large hoods and masks. Such outfits enable them to pass through civilized lands unnoticed.</div><div class='indent'>At the bottom of the draconian social order, Baaz tend to be chaotic in nature and self-serving when they can get away with it. During the War of the Lance, they served as common foot soldiers and were routinely assigned the most dangerous and least appealing duties. Their superior officers, along with members other draconian races, made no effort to conceal their contempt for the Baaz, humiliating them at every opportunity. The Baaz deeply resented this treatment, a feeling that still lingers.</div><br/><div><b1>Combat:</b1> Baaz are cruel and sadistic fighters, especially when drunk. They can attack twice in a round with their sharp claws; they can also use their fangs instead of one of the claw attacks (the bite also causes Id4 points of damage), but they prefer their claws. Baaz use short swords, daggers, and other easily concealed weapons; when concealment is not important, they use long swords and spears. They fight viciously and brutally, aiming their attacks at their opponents’ heads and eyes. Alcohol has no significant affect on their ability to fight; if anything, it makes them all the more vicious. If alcohol is available, Baaz always drink before fighting. Drunken Baaz always fight to the death.</div><div class='indent'>It possible, Baaz attempt to ambush their victims by dressing in masks and heavy robes, passing themselves off as harmless humanoids. When their victims are off-guard, the Baaz leader draws his weapon and attacks, screaming for his comrades to do the same. While fighting in their robes, Baaz are limited to a movement rate of 6. After combat is initiated, a Baaz can tear off its robe instead of attacking.</div><div class='indent'>When a Baaz reaches 0 hit points, it turns into a stone statue. The person who struck the death blow must roll a successtul Dexterity Check with a -3 penalty or his weapon is stuck in the statue. The statue crumbles to dust within ld4 rounds, freeing the weapon. The weapons and armor of the Baaz remain behind after it turns to dust.</div><br/><div><b1>Habitat/Society:</b1> Bands of Baaz lair in abandoned buildings of all kinds. Because of their talents in disguising themselves, they sometimes live unnoticed in abandoned buildings in the center of human settlements. Baaz have a particular affinity for deserted inns and taverns.</div><div class='indent'>Baaz live lawless, disorderly lives, utterly lacking in selfdiscipline. They regularly engage in drunken raids and random acts of vandalism. Baaz love treasure of all kinds, but they particularly covet brass dragon eggs, believing that the eggs can one day be corrupted to create more Baaz. The magical techniques to create new draconians are hopelessly beyond the meager abilities of the Baaz, but they continue to accumulate the precious eggs, just in case.</div><br/><div><b1>Ecology:</b1> Because the Baaz were responsible for more human deaths during the War of the Lance than any other draconian race, humans hunt them mercilessly. Since the end of the war, the Baaz have won grudging acceptance from other draconians, but relations are strained; the Baaz and the Kapaks, for instance, remain bitter enemies.</div><div class='indent'>Baaz can eat virtually anything, including minerals, carrion, and human flesh. They love alcohol, and even the smallest amounts turn them into raging, boastful brutes.</div",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Draconian, Bozak",
-    "Climate/Terrain": "Any, but usually tropicals, sub-, tropical, and temperate/Forest",
-    "Frequency": "Uncommon",
-    "Organization": "Band",
-    "Activity Cycle": "Any",
-    "Diet": "Special",
-    "Intelligence": "Highly (13-14)",
-    "Treasure": "Q x 2; (U)",
-    "Alignment": "Lawful evil",
-    "No. Appearing": "2-20",
-    "Armor Class": "2",
-    "Movement": "6, Run 15 *, Glide 18, FI 6 (E)",
-    "Hit dice": "4",
-    "THAC0": "17",
-    "No. Of Attacks": "2 or1",
-    "Damage/Attack": "1-4/1-4 or by weapon",
-    "Special Attacks": "Spells",
-    "Special Defenses": "+2 bonus to saves",
-    "Magic Resistance": "20%",
-    "Size": "M (6’+ tall)",
-    "Morale": "Elite (13)",
-    "XP Value": "1,400",
-    "Psionic Summary": "",
-    "Description": "<div>* This movement rate applies when the draconian is running on all fours, flapping its wings.</div><br/><div>Bozaks are magic-using draconians derived from the eggs of bronze dragons. They are quick-witted, shrewd, and ruthless. Bozaks are just over six feet tall and are covered with bronze-colored scales. They have dull yellow eyes and gray teeth.</div><div class='indent'>Though Bozaks eschew armor, since it limits their maneuverability, they often wear helmets, light breastplates, and leather arm and leg bands for body decoration.</div><div class='indent'>Bozak wings are the most versatile of any draconian race. Aside from the Kapak, the Bozak is the only draconian that can actually fly, albeit only for a single round (because flight requires a great effort, its movement rate in the air is 6). Not only can it glide like other winged draconians, it can sustain the glide indefinitely in a strong wind. On cold days, Bozaks spread their wings to increase exposure to the sunlight. On warm days, they slowly flap their wings to generate cooling breezes. When Bozaks are anxious or lost in thought, their wings twitch and vibrate.</div><div class='indent'>Bozaks are intensely spiritual, devoted to the worship of Takhisis, the Queen of Darkness. They conduct elaborate ceremonies in her honor.</div><br/><div><b1>Combat:</b1> Bozaks are cautious and devious fighters When possible, they strike from a distance with spells or missile weapons, then charge for melee attacks. A favorite tactic of Bozaks is to charge a victim on all fours, flapping their wings and hissing while clutching swords or other weapons between their teeth. So disconcerting is this sight that the victims are often too startled to take action before the Bozaks are on them.</div><div class='indent'>Bozaks never show mercy once they attack. However, they do not destroy an opponent if they believe their cause can be advanced by sparing the life.</div><div class='indent'>Like Baaz, Bozaks can make two claw attacks per round, or one claw attack and a bite attack (the bite causes 1d4 points of damage). Favored weapons of the Bozaks are short swords, daggers, or any other weapon that they can carry in their mouths while running. Most. Bozaks carry a long bow in addition to a melee weapon.</div><div class='indent'>Bozaks are magic wielders and can cast spells as 4th-level wizards. Among their preferred spells are burning hands enlarge magic missile, shocking grasp invisibility, stinking cloud, and web.</div><div class='indent'>Bozaks gain a +2 bonus to all saving throws.</div><div class='indent'>When a Bozak reaches 0 hit points, its scaly flesh shrivels and crumbles from its bones in a cloud of dust; this process takes one round. In the next round, the bones explode, causing 1d6 points of damage to all within ten feet (no saving throw)</div><br/><div><b1>Habitat/Society:</b1> Bozaks prefer to live in secluded forests where they can conduct their religious ceremonies undisturbed. Unlike other draconians, Bozaks construct their own lairs, usually small huts of wood and stone with flat roots, wooden doors, and small openings in the walls for windows. They use large rocks and tree stumps for furniture, and line the floors with soft layers of weeds and twigs.</div><div class='indent'>A Bozak band usually contains 2d10 members, but bands larger than six are rarely encountered. The strongest Bozak serves as the band’s leader. In addition to making all the decisions for the band, the leader conducts their religious ceremonies.</div><divMost Bozak lairs have a simple shrine to Takhisis where the band conducts regular services. A typical shrine is a crude idol in the shape of a dragon made of stones and small trees lashed together with vines. The idol, seldom more than a few feet tall, is centered in an open held where all of the vegetation has been scorched black. A circle of charred bones surrounds the shrine. It is here the Bozaks offer prayers to Takhisis and conduct their rituals in her honor.</div><div class='indent'>Bozaks prefer gems and jewelry to all other treasure, and often decorate their shrines with them.</div><br/><div><b1>Ecology:</b1> Though utterly convinced of their superiority, Bozaks feign friendship with other draconian races if it serves their purposes (the gullible Baaz are often exploited by the Bozaks in this way). Bozaks frequently raid human settlements for prisoners. Their diet consists mainly of vegetable matter, carrion, and small mammals.</div",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Draconian, Kapak",
-    "Climate/Terrain": "Any, but usually tropical, subtropical, and temperate/Forest and mountain",
-    "Frequency": "Uncommon",
-    "Organization": "Band",
-    "Activity Cycle": "Any",
-    "Diet": "Carnivore",
-    "Intelligence": "Average (8-10)",
-    "Treasure": "K, L, M; (1, Y)",
-    "Alignment": "Lawful evil",
-    "No. Appearing": "2-20",
-    "Armor Class": "4",
-    "Movement": "6, Run 15 *, Glide 18",
-    "Hit dice": "3",
-    "THAC0": "17",
-    "No. Of Attacks": "1",
-    "Damage/Attack": "1-4",
-    "Special Attacks": "Poison",
-    "Special Defenses": "Nil",
-    "Magic Resistance": "20 %",
-    "Size": "M (6’ tall)",
-    "Morale": "Elite (13)",
-    "XP Value": "650",
-    "Psionic Summary": "",
-    "Description": "<div>* This movement rate applies when the draconian is running on all fours, flapping its wings.</div><br/><div>Kapaks are a race of venomous draconians known for their stealth. They are derived from copper dragon eggs.</div><div class='indent'>Kapaks average six feet tall and have sleek torsos and long limbs. Their scales are dull copper tinged with green, their eyes are orange or dark brown. They have short manes of dark brown or blonde hair hanging from either side of their mouths. Soft pads line the bottoms of their feet, enabling them to move silently. They speak in a soft, high-pitched whine.</div><div class='indent'>The most exotic physical feature of the Kapaks are the poison glands located under their tongues that continuously secrete a venomous spittle. The glands are magical in nature, and are capable of producing a virtually limitless amount of the thick, yellowish venom.</div><div class='indent'>Kapaks avoid any style of clothing that might draw attention to themselves.</div><br/><div><b1>Combat:</b1> Though their intelligence is limited, Kapaks are superb fighters, fiendishly clever in their ability to catch victims offguard and take advantage of opponents’ weaknesses. Kapaks rarely attack unless their opponents are at some sort of disadvantage. Because of their cunning, Kapaks make excellent assassins.</div><div class='indent'>Most (70%) Kapaks have the following abilities: move silently (base chance of 15%), hide in shadows (base chance of 10%), and find/remove traps (base chance of base chance of 20%). A few (10%) have these abilities at a higher level. To determine the level of the more skilled Kapaks, roll 1d6 and multiply the result by 5; this gives the percentage increase (above the base) in each skill. (For instance, a roll of 4 indicates a 20% increase over the listed chances.)</div><div class='indent'>Kapaks can bite for 1d4 points of damage, but they prefer to use weapons such as short swords, daggers, slings, bows, maces, and broad swords. Kapaks often lick their weapons before engaging in combat to coat them with venom. Victims bitten by a Kapak or struck by a venom-coated weapon must roll a successful saving throw vs. poison or become paralyzed for 2d6 turns. The poison evaporates from a weapon in three rounds; it takes a Kapak one full round to poison a weapon again after the previous coating has evaporated (they can do this even while engaged in melee).</div><div class='indent'>Kapak frequently wear leather or scale mail armor. Leather armor reduces their AC to 2, while scale mail reduces it to 1. If a shield is carried, the AC is reduced by another point. Because of their strength, wearing armor does not significantly reduce the Kapaks’ ability to move.</div><div class='indent'>When a Kapak reaches 0 hit points, its body instantly dissolves into a ten-foot-wide pool of acid. All within the pool suffer 1d8 points of damage per round from the acid (no saving throw). The acid evaporates in 1d6 rounds. All items possessed by the dissolved Kapak, including treasure and magical items, are rendered useless by the acid.</div><br/><div><b1>Habitat/Society:</b1> Kapaks are not builders. Kapak bands occupy abandoned buildings throughout Krynn, primarily in mountain ranges near civilized regions. Towers and castles are favorite Kapak strongholds.</div><div class='indent'>Kapaks seldom have formal leaders, making most decisions by consensus. When disagreements cannot be resolved, a Kapak is just as likely to leave the group as he is to fight for the acceptance of his opinion. Kapaks have great respect for Auraks, and often allow them to serve as their leaders.</div><div class='indent'>A Kapak band has a common treasure cache; individuals seldom keep more than a few coins for themselves. When a Kapak leaves the band, he takes his share of the group’s treasure with him, using it to buy his way into a new band.</div><br/><div><b1>Ecology:</b1> Kapaks are larger than Baaz and often bully and abuse their smaller cousins. Consequently, the Baaz hate the Kapaks as much as they do any non-dracoman race. Violent confrontations are common between Baaz and Kapaks. Aside from the Baaz, the Kapaks maintain good relations with other evil races, often hiring themselves out as mercenaries and assassins. Hundreds of Kapaks survived the War of the Lance, and they continue to serve in the remaining Dragonarmies that exist throughout central Ansalon.</div><div class='indent'>Kapaks are strictly carnivorous. Because of their extremely high metabolisms, Kapaks must devour at least 20 pounds of meat per day. They eat fish, wild game, and defeated opponents.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Draconian, Sivak",
-    "Climate/Terrain": "Any, but usually tropical, subtropical, and temperate/Mountain and hill",
-    "Frequency": "Uncommon",
-    "Organization": "Band",
-    "Activity Cycle": "Any",
-    "Diet": "Special",
-    "Intelligence": "Highly (13-14)",
-    "Treasure": "Q,% V; (Z)",
-    "Alignment": "Neutral evil",
-    "No. Appearing": "2-20",
-    "Armor Class": "1",
-    "Movement": "6, Run 15 *, Glide 18, FI 24 (C)",
-    "Hit dice": "6",
-    "THAC0": "15",
-    "No. Of Attacks": "3 orl",
-    "Damage/Attack": "1-6/1-6/2-12 or by weapon",
-    "Special Attacks": "None",
-    "Special Defenses": "+2 bonus to saves",
-    "Magic Resistance": "20% ne",
-    "Size": "L (9 tall)",
-    "Morale": "Elite (14)",
-    "XP Value": "2,000",
-    "Psionic Summary": "",
-    "Description": "<div>* This movement rate applies when the draconian is running on all fours, flapping its wings.</div><br/><div>Sivaks are savage, shapechanging draconians that are derived from the eggs of silver dragons. They are among the most powerful draconians, second only to Auraks.</div><div class='indent'>Sivaks have gleaming sliver scales and black eyes. Topping nine feet in height, they are the largest draconian race. They emit a mild odor that smells ilke hot metal and smoke. Sivaks seldom wear armor, but they sometimes wear flowing capes and decorative metal bands around their arms, legs, necks, and tails.</div><div class='indent'>Sivaks can run and glide like most other draconian races, but they are unique in their ability to fly. They are extremely agile in the air, as maneuverable as dragons and nearly as fast.</div><br/><div><b1>Combat:</b1> Like most draconians, Sivaks relish the suffering of but Sivaks are particularly nasty, no victim is too small or too weak to be victimized by a Sivaks. Sivaks work especially well in teams defending one another against unexpected attacks and surrounding opponents to assault them from all sides. Sivaks do not fight carelessly. Unless ordered by a strong leader, they do not go into battle when the odds are stacked against them, nor do they venture into an area where an ambush is possible. They refuse to fight to the death, flying to safety if a battle turns against them.</div><div class='indent'>The Sivaks’ movement flexibility gives them an important tactical advantage. They can race forward on all fours, silently glide from a height, or attack from the air. Many opponents are unfamiliar with the existence of flying draconians, glving the Sivaks the additional advantage of surprise—for instance, a Sivak chdrging on all fours can suddenly take to the air and swoop at its opponent from behind.</div><div class='indent'>Sivaks are also powerful shapechangers. When a Sivak slays a humanoid of its size or smaller, it can take the form of the victim. It does not gain the memories, experiences, or spell use of its victim and, like all draconians, it contniues to radiate magic, but its appearance and voice are exact matches to those of the victim. A Sivak can remain in this new form as long as it wishes. A Sivak can change back to its normal form at any time. but cannot shapechange again until it kills another victim.</div><div class='indent'>Sivaks use their shapechanging ability to explore or spy in lands hostile to draconians. A shapechanged Sivak can penetrate deep into a enemy stronghold, or it can secretly observe humanoid enemies. A shapechanged Sivak can kidnap an opponent, destroy him, then shapechange to the form of this victim.</div><div class='indent'>Sivaks attack with both claws for 1d6 points of damdge each and with their long, heavy tails for 2d6 points of damage (the tails can strike opponents on any side). They also use a variety of weapons, including long swords, two-handed swords, battle axes, and spears. A favorite weapon is a Sivak-designed sword with barbed notches on each edge: this weapon causes 1d10 points of damage. Sivaks also use magical weapons whenever available.</div><div class='indent'>Sivaks gain a +2 bonus to all saving throws.</div><div class='indent'>What happens to a Sivak when it reaches 0 hit points depends on the size of its slayer. If the slayer was a humanoid the same size as or smaller than the Sivak, the slain Sivak shapechanges into the form of its slayer. It remains in its death shape for three days. after which time it decomposes into black soot. It the slayer was not a humanoid or if it was a humanoid larger than the Sivak, the Sivak immediately bursts into flame upon reaching 0 hp, causing 2d4 points of damage to all within ten feet (no saving throw).</div><br/><div><b1>Habitat/Society:</b1> Sivak bands usually can be found in secluded mountain caves. Sivaks are not particularly ambitious. They make decisions by consensus and spend most of their time waylaying travelers. They enjoy all types of gambling, wagering money, food, alcohol, or prisoners on endless card and dice games. They welcome any opportunity to steal magical items and are also fond of gems and jewelry.</div><br/><div><b1>Ecology:</b1> Sivaks are distrustful of other draconian races and generally avoid them. They sometimes ally with a powerful Aurak leader or join with a Kapak band tar some recreational slaughter of the Baar. Sivaks are tend of strong drink, but like the Baaz, alcohol has no significant effect on their ability to fight. Sivaks eat virtually anything, and have a special fondness for elven flesh.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dragon, Amphi",
-    "Climate/Terrain": "Tropical subbtropical and temperate/Ocean",
-    "Frequency": "Rare",
-    "Organization": "Solitary",
-    "Activity Cycle": "Any",
-    "Diet": "Special",
-    "Intelligence": "Very (11-12)",
-    "Treasure": "Special",
-    "Alignment": "Neutral evil",
-    "No. Appearing": "1-4",
-    "Armor Class": "3 (base)",
-    "Movement": "6, Sw 24",
-    "Hit Dice": "9 (base)",
-    "THAC0": "11 (at 9 HD)",
-    "No. Of Attacks": "3 + special",
-    "Damage/Attack": "1-8/1-8/2-20",
-    "Special Attacks": "Tongue, breath weapon, and magical abilities",
-    "Special Defenses": "Variable",
-    "Magic Resistance": "Variable",
-    "Size": "H (25’ base length)",
-    "Morale": "Champion (16 base)",
-    "XP Value": "Variable",
-    "Psionic Summary": "",
-    "Description": "<div><table><thead><tr><th>Age Cat.</th><th>Body Length (’)</th><th>AC</th><th>Breath Weapon</th><th>MR</th><th>Treas. Type</th><th>X.P. Value</th></tr></thead><tbody><tr><td>1</td><td>4-7</td><td>6</td><td>1d6+1</td><td>—</td><td>—</td><td>1,400</td></tr><tr><td>2</td><td>7-11</td><td>5</td><td>2d6+2</td><td>—</td><td>—</td><td>2,000</td></tr><tr><td>3</td><td>11-19</td><td>4</td><td>3d6+3</td><td>—</td><td>—</td><td>3,000</td></tr><tr><td>4</td><td>19-27</td><td>3</td><td>4d6+4</td><td>—</td><td>½ F</td><td>4,000</td></tr><tr><td>5</td><td>27-36</td><td>2</td><td>5d6+5</td><td>10%</td><td>F</td><td>7,000</td></tr><tr><td>6</td><td>36-45</td><td>1</td><td>6d6+6</td><td>15%</td><td>F</td><td>8,000</td></tr><tr><td>7</td><td>45-54</td><td>0</td><td>7d6+7</td><td>20%</td><td>F</td><td>10,000</td></tr><tr><td>8</td><td>54-63</td><td>-1</td><td>8d6+8</td><td>25%</td><td>Fx2</td><td>11,000</td></tr><tr><td>9</td><td>63-72</td><td>-2</td><td>9d6+9</td><td>30%</td><td>Fx2</td><td>12,000</td></tr><tr><td>10</td><td>72-81</td><td>-3</td><td>10d6+10</td><td>35%</td><td>Fx2</td><td>13,000</td></tr><tr><td>11</td><td>81-90</td><td>-4</td><td>11d6+11</td><td>40%</td><td>Fx3</td><td>14,000</td></tr><tr><td>12</td><td>90-102</td><td>-5</td><td>12d6+12</td><td>45%</td><td>Fx3</td><td>15,000</td></tr></tbody></table></div><br/><div>A unique crossbreed between a green dragon and a sea dragon, the amphi dragon is one of the most cruel and repulsive denizens of the ocean, sharing the green dragons’ hatred of all good-aligned creatures.</div><div class='indent'>Though it has the smooth and flexible, deep green scales of a green dragon, the amphi dragon more closely resembles a giant toad with tiny, vestigial wings and webbed feet. Bony ridges surround its beady black eyes, and yellow warts cover its body. When encountered on land, the rotten egg odor of the amphi dragon is detectable as much as 100 yards away.</div><div class='indent'>Amphi dragons speak their own tongue, as well as the tongue common to all evil dragons. Additionally, amphi dragons can communicate with any human or demihuman race.</div><br/><div><b1>Combat:</b1> The amphi dragon cannot fly, and it moves only awkwardly on land. However, on land it can leap a horizontal distance of 18 feet or a vertical distance of six feet once every other round. It cannot move on the round following a leap.</div><div class='indent'>The amphi dragon generally avoids the land, however, preferring to nestle itself in the mud of the ocean floor and wait for victims. It attacks with little or no provocation, and creatures of any size are potential victims. It uses its breath weapon first, then closes for fore claw and bite attacks. It attempts tongue strikes at solitary opponents, particularly ones smaller than itself. The amphi dragon may intentionally prolong its attacks to savor the death throes of a doomed victim.</div><div class='indent'>Breath Weapon and Special Abilities: An amphi dragon’s breath weapon is a stream of acid 60 feet long and three feet wide. Damage caused by the breath weapon varies with the dragon's age (see earlier table). Victims caught in the blast must roll saving throws vs. breath weapon, with success indicating half damage. The breath weapon is equally effective underwater and in the open air and can be used once every three combat rounds.</div><div class='indent'>From birth, the amphi dragon can breathe both water and air. It can change the color of its skin to match the surroundings. If it remains stationary while camouflaged, it is undetectable 80% of the time.</div><div class='indent'>The amphi dragon’s warts continually ooze acid. Each time a character attacks the dragon in melee, he must roll a Dexterity check. If he fails, he suffers 1d6 points of damage.</div><div class='indent'>The amphi dragon can attempt a tongue strike, up to a distance of two feet times its age category, to capture a victim. If the amphi dragon succeeds in an attack roll against AC 10, the victim is stuck to its tongue and is pulled to its mouth at the end of the round. If the tongue suffers 12 or more points of damage, the amphi dragon releases its prey. Otherwise, the victim is automatically bitten in each subsequent round. When the victim is reduced to 0 hit points, the amphi dragon swallows it on the next round.</div><div class='indent'>As they age, amphi dragons gain the following additional abilities, useable once per day:</div><br/><div><table><tr><td>Adult:</td><td><i>detect magic</i></td></tr><tr><td>Old:</td><td><i>suggestion</i></td></tr><tr><td>Wyrm:</td><td><i>darkness, 15' radius</i></td></tr></table></div><br/><div><b1>Habitat/Society:</b1> Too lazy to construct elaborate lairs, amphi dragons live in sunken ships or empty underwater caves. They are shunned by all other ocean-swelling creatures, including other amphi dragons. Female amphi dragons abandon their newborns within a few days after birth, and only about 25% survive.</div><br/><div><b1>Ecology:</b1> Amphi dragons eat virtually anything, but they prefer live prey, especially Dargonesti and Dimernesti (sea elves). They scavenge refuse from the ocean floor and also eat algae, seaweed, fish, and minerals.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": { "Dragon, Astral": ["Unmated", "Mated pair*"] },
-    "Climate/Terrain": ["The Abyss", "The Abyss"],
-    "Frequency": ["Very rare", "Very rare"],
-    "Organization": ["Solitary", "Pair"],
-    "Activity Cycle": ["Any", "Any"],
-    "Diet": ["Any liquid", "Any liquid"],
-    "Intelligence": ["Genius (17-18)", "God-like (21)"],
-    "Treasure": ["Nil", "Nil"],
-    "Alignment": ["Neutral", "Neutral"],
-    "No. Appearing": ["1", "2 (1 pair)"],
-    "Armor Class": ["5", "-5"],
-    "Movement": ["6, F1 18 (C)", "15, F1 48 (B)"],
-    "Hit Dice": ["3", "35"],
-    "THAC0": ["17", "5"],
-    "No. Of Aattacks": ["3", "6"],
-    "Damage/Attack": ["l-4/1-4/2-12", "3-60 (x4)/l-100 (x2)"],
-    "Special Attacks": ["Nil", "Spells"],
-    "Special Defenses": ["Immortal", "Immortal, spells"],
-    "Magic Resistance": ["Nil", "95%"],
-    "Size": ["M (5' long)", "G (50' long each)"],
-    "Morale": ["Steady (12)", "Fanatic (17)"],
-    "XP Value": ["1,400", "40,000"],
-    "Psionic Summary": "",
-    "Description": "<div>* These statistics apply to mated astral dragons when considered as a pair, not as individuals. See text for details.</div><br/><div>'Astral dragon' is a general term for a race of ancient golden dragons to whom all dragons of Krynn can trace a common ancestry. The immortal astral dragons are the personification of neutrality in dragons.</div><div class='indent'>Among the first dragons ever created by the gods were two astral dragons named Deion and Procene. These dragons were directcd to give birth to a race of dragons that the gods would adopt as their own. Selected newborns were taken from their parents and transformed to reflect the personalties and philosophies of the gods who adopted them. Thus were created early archetypes of black, red, gold, silver, and other dragons. Deion and Procene remained neutral, in exchange for their offspring, the gods pledged to leave them alone.</div><div class='indent'>When the couple grew weary of the constant tension between the good and evil dragons, they appealed to the gods to be relieved of their obligations on Krynn. The gods granted their wish, and relocated them to an alternate plane of existence in the Abyss. In time, Deion and Procene gave birth to new generations of neutral dragons.</div><div class='indent'>An unmated astral dragon is dull yellow in color and about five feet long with human hands and long, slim fingers. It has huge black eyes. and its scales are covered with fine blond fur. Though a hatchling is slightly less formidable (AC 4, HD 2), an astral dragon does not progress through the various age categories as do other dragons; its statistics do not change significantly until it becomes part of a mated pair.</div><div class='indent'>When an astral dragon finds a suitable mate, the couple appeals to the gods of neutrality to sanction their union. If approval is granted, the mated astral dragons undergo a remarkable transformation. To symbolize the union, the gods create a 100-foot golden chain, each end of which encircles the mates necks to link them for all eternity. The mates grow to a length of 50 feet and become enveloped in a permanent aura of golden light. Their intelligence and abilities increase to god-like levels.</div><div class='indent'>Thereafter, the couple lives. tights, works, and plays as a unit. If the chain is broken and the mates are separated by a distance of at least 100 yards for 30 days, they will revert to their original, weaker forms; however, it requires the power of a wish spell or its equivalent to break the chain.</div><div class='indent'>Astral dragons speak their own tongue as well as the languages of good and evil dragons. All astral dragons have the ability to communicate with any intelligent creature.</div><br/><div><b1>Combat:</b1> Unmated astral dragons are incapable of performing snatch, kick, wing buffet, or tail slap attacks. Though they have the special senses of a dragon (as per the very young age category), they do not radiate fear. They can defend themselves with their claws and teeth, but they are sluggish combatants, always attempting to flee instead of engaging in melee. They are essentially immortal, as they instantly recover all lost hit points. However, they can be destroyed by power word, kill, wish, or similar spells.</div><div class='indent'>Mated astral dragons attack as a unit. Though capable of performing snatch, kick, wing buffet, and tail slap attacks, as well as vicious attacks with their teeth and claws, they prefer to use spells to frighten away their enemies.</div><div class='indent'>Mated astral dragons gain the abilities of a 35th-level cleric. They have the special senses of a dragon (as per the great wyrm age category). They radiate fear in a radius of 50 feet (-4 penalty to saving throw) and have a bonus of +12 to their attack and damage rolls. Like unmated astral dragons, they are essentially immortal, instantly recovering all lost hit points; nothing less than the power of a wish, power word, kill, or similar spells can destroy them.</div><br/><div><b1>Habitat/Society:</b1> Astral dragons live in immense keeps of black crystal built for them by the gods. They rarely leave their keeps and never voluntarily leave the Abyss. A mated pair must petition the gods for permission to give birth, a request seldom granted in order to limit the population. Upon reaching the age of five, a young astral dragon is dispatched from his parents keep to fend for himself. Astral dragons have no interest in treasure.</div><br/><div><b1>Ecology:</b1> Astral dragons consume only liquids. Any liquid will domercury is a nourishing to them as water. They have no natural enemies.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dragon, Kodragon",
-    "Climate/Terrain": "Plane of the Astral Dragon",
-    "Frequency": "Very rare",
-    "Organization": "Solitary",
-    "Activity Cycle": "Any",
-    "Diet": "Any liquid",
-    "Intelligence": "Exceptional (15-16)",
-    "Treasure": "Nil",
-    "Alignment": "Neutral (good)",
-    "No. Appearing": "1",
-    "Armor Class": "5",
-    "Movement": "6, F1 24 (A)",
-    "Hit Dice": "5",
-    "THAC0": "15",
-    "No. Of Attacks": "3",
-    "Damage/Attack": "1-2/1-2/1-6",
-    "Special Attacks": "Breath weapon",
-    "Special Defenses": "Teleport and plane shift",
-    "Magic Resistance": "Nil",
-    "Size": "S (3' wingspan)",
-    "Morale": "Elite (13)",
-    "XP Value": "2,000",
-    "Psionic Summary": "",
-    "Description": "<div>The kodragon is an extremely rare species of dragon that exists only in the plane of the Astral Dragon. It is a furry dragon about the size of a small house cat.</div><div class='indent'>At first glance the kodragon appears to be a large bat, but only for a moment It iS shaped like a dragon, with four spindly legs, a long sinuous neck, etc. However it has a fine gray fur instead of scales. It has bare, leathery wings, like those of a bat. Its face has a blunt snout and large, luminous black eyes. Its tail is furred all the way down to the tip, where it iS bare and pointed. The fore claws of a kodragon have opposable thumbs, like those of a human.</div><div class='indent'>Kodragons speak in light, hissing voices; they speak human languages fluently. Their voices sound like those of children.</div><div class='indent'>These miniature dragons have a delicate, musky odor, completely different from any mammal.</div><br/><div><b1>Combat:</b1> These small creatures avoid combat whenever possible. If cornered or angered, they can fight with their two front claws and a bite. Their strategy is to stay aloft and attack the backsides and hard-to-defend parts of their enemies. They can dart from front to back, between the legs, and under the arms of an opponent. This makes them very tough to hit. When executing such aerial maneuvers, they get a -2 bonus to their Armor Class and a +2 penalty to their attack rolls.</div><div class='indent'>They have two magical breath weapons. Both form ten-footdiameter clouds One breath weapon iS a shrinking gas; the other cancels the effects of any kodragons shrinking gas (it does not work to cancel other means of shrinking). The shrinking gas reduces its victims to 5% of their original size. A successful saving throw vs. breath weapon means that the victim leapt out of the way in time.</div><div class='indent'>Kodragons can teleport without error once per round. This can be used in combat, but they dont like to do that. They would prefer to fly instead However, this is their primary defense. These small dragons teleport out of harms way if there is any serious dagger. The plane shift ability is used to travel in a more leisurely fashion, but it can also be used to escape a bad situation.</div><br/><div><b1>Habitat/Society:</b1> The natural home of kodragons is the plane of the Astral Dragon. This plane is one of the layers of the Abyss that has been converted to absolute neutrality by the gods of Krynn. It is physically similar to the world of Krynn. One quirk is that creatures can swim through the air simply by willing it.</div><div class='indent'>Kodragons are lovers of art and knowledge. They do not use tools or weapons, except for a special tablet and stylus that they use to record histories and make other records. There is no unified culture of kodragons. Each wanders as he sees fit and records those things he feels are important. There are great shared repositories of these clay tablets. Older kodragons whose wanderlust has faded maintain these secret libraries.</div><div class='indent'>Kodragons do not lay eggs but rather give live birth to their children, Like marsupials, they have a pouch on their stomachs where the infants are kept and raised in safety. When not being used for child rearing, this pouch holds their tablets and styluses. It operates as a bag of holding, and therefore can hold much more than its size would indicate. Child rearing is done by the female. The father visits only occasionally, spending most of his time on other tasks.</div><div class='indent'>By nature these diminutive dragons are inquisitive and talkative. They are always poking around, sometimes so much that they get into trouble. Their keen verbal skills and meticulous record keeping have made them ideal emissaries for the Astral Dragon.</div><br/><div><b1>Ecology:</b1> There are no natural predators for the kodragon. Catching one is so difficult, and the resulting meal so meager, that a species would die out before surviving off of them. A gland in their neck can be used to make potions of shrinking.</div><div class='indent'>Kodragons can drink any liquid to sustain themselves. Anything from water or wine to hemlock or mercury can sustain them. They need to consume their own body weight in fluids each day.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dragon, Sea",
-    "Climate/Terrain": "Tropical, subtropical, and temperate/Ocean",
-    "Frequency": "Rare",
-    "Organization": "Solitary",
-    "Activity Cycle": "Any",
-    "Diet": "Special",
-    "Intelligence": "Highly (13-14)",
-    "Treasure": "Special",
-    "Alignment": "Neutral evil",
-    "No. Appearing": "1-6",
-    "Armor Class": "-2 (base)",
-    "Movement": "3, Sw 12",
-    "Hit dice": "15 (base)",
-    "THAC0": "5",
-    "No. Of Attacks": "3 + special",
-    "Damage/Attack": "1-12/1-12/3-36",
-    "Special Attacks": "Breath weapon and magical abilities",
-    "Special Defenses": "Variable",
-    "Magic Resistance": "Variable",
-    "Size": "G (35’ base length)",
-    "Morale": "Fanatic (18 base)",
-    "XP Value": "Variable",
-    "Psionic Summary": "",
-    "Description": "<div><table><thead><tr><th>Age Cat.</th><th>Body Length (’)</th><th>AC</th><th>Breath Weapon</th><th>MR</th><th>Treas. Type</th><th>X.P. Value</th></tr></thead><tbody><tr><td>1</td>4-11<td></td>1<td></td><td>1d8+1</td><td>—</td><td>—</td><td>2,000</td></tr><tr><td>2</td>11-20<td></td>0<td></td><td>2d8+2</td><td>—</td><td>—</td><td>5,000</td></tr><tr><td>3</td>20-29<td></td>-1<td></td><td>3d8+3</td><td>—</td><td>—</td><td>7,000</td></tr><tr><td>4</td>29-38<td></td>-2<td></td><td>4d8+4</td><td>—</td><td>EC</td><td>8,000</td></tr><tr><td>5</td>38-48<td></td>-3<td></td><td>5d8+5</td><td>20%</td><td>CH</td><td>11,000</td></tr><tr><td>6</td>48-58<td></td>-4<td></td><td>6d8+6</td><td>25%</td><td>CH</td><td>12,000</td></tr><tr><td>7</td>58-68<td></td>-5<td></td><td>7d8+7</td><td>30%</td><td>CH</td><td>13,000</td></tr><tr><td>8</td>68-79<td></td>-6<td></td><td>8d8+8</td><td>35%</td><td>CHx2</td><td>14,000</td></tr><tr><td>9</td>79-90<td></td>-7<td></td><td>9d8+9</td><td>40%</td><td>CHx2</td><td>15,000</td></tr><tr><td>10</td>90-101<td></td>-8<td></td><td>10d8+10</td><td>45%</td><td>CHx2</td><td>16,000</td></tr><tr><td>11</td>101-113<td></td>-9<td></td><td>11d8+11</td><td>50%</td><td>CHx3</td><td>17,000</td></tr><tr><td>12</td>113-125<td></td>-10<td></td><td>12d8+12</td><td>55%</td><td>CHx3</td><td>18,000</td></tr></tbody></table></div><br/><div>Related to the dragon turtle, the sea dragon resembles a giant turtle with a dragon’s head and massive flippers. A thick shell, usually black or dark green, covers most of its body. Its webbed toes and paddlelike flippers make land travel difficult. The sea dragon has no teeth.</div><div class='indent'>Sea dragons speak their own tongue, and also the languages of fishes and evil dragons. They can also converse with any human or demihuman.</div><br/><div><b1>Combat:</b1> Any creature appearing in a sea dragon’s territory without permission is considered to be an enemy. The sea dragon attacks with its breath weapon and front flippers, closing to finish off a wounded opponent with its powerful jaws.</div><div class='indent'>A sea dragon attempts to capsize unauthorized vessels entering its territory. To determine the sea dragon’s chance of capsizing a vessel, divide the dragon’s size by the ship’s size and multiply by 100. (For instance, if a 50-foot sea dragon attempts to capsize an 200-foot ship, it has a 25% chance of success.) This chance never exceeds 95% -a sea dragon always has a 95% chance of capsizing a ship the same size as itself or smaller.</div><div class='indent'>Knowledgeable sailors crossing a sea dragon’s territory often dump barrels of treasure overboard in hopes of placating it. Usually, anything less than the ship’s entire cargo is considered an insult. Once the ship is capsized, the sea dragon tries to kill all of the ship’s passengers.</div><div class='indent'>Breath Weapon and Special Abilities: A sea dragon’s breath weapon is a cone of steam 50 feet long that is five feet wide at the dragon’s mouth and 30 feet wide at the base. Damage caused by the breath weapon varies with the dragon’s age (see table above). A victim of the blast can roll a saving throw vs. breath weapon; success means only half damage was suffered. The breath weapon is as effective underwater as it is in the open air and can be used once every three combat rounds.</div><div class='indent'>From birth, a sea dragon can breathe both water and air. It possesses a type of sonar that enables it to detect creatures and ob-ects of man-size or larger up to 360 feet away in the water.</div><div class='indent'>Once per day, a sea dragon has the scaly command power over a variable number of scaly creatures with animal intelligence or less (primarily reptiles and fishes) living in the water within a half-mile radius. The number of creatures under scaly command is 4d10 times the age category of the dragon. This control lasts for 2d6 turns and cannot be dispelled. No saving throws are allowed. Creatures under the scaly command of one sea dragon cannot fall under the control of another. Additionally, scaly creatures will never voluntarily attack a sea dragon.</div><div class='indent'>As they age, sea dragons gain the following additional abilities, all useable three times per day:</div><br/><div><table><tr><td>Adult:</td><td>light</td></tr><tr><td>Old:</td><td>entangle</td></tr><tr><td>Wyrm:</td><td>suggestion</td></tr></table></div><br/><div><b1>Habitat/Society:</b1> A sea dragon’s territory is an area of several hundred square miles of ocean. Unless pursuing an enemy or laying eggs, a sea dragon rarely leaves its territory. Its lair is usually an immense stone castle on the ocean floor. Two sea dragons never share the same territory or lair, except during the annual mating season, a period of approximately three weeks.</div><div class='indent'>A female sea dragon lays as many as 300 eggs in a deep nest on a sandy beach. After laying the eggs, she buries them, then returns to the ocean. The warm sun hatches the eggs, a process taking about eight weeks. However, it is rare that more than a few of the hatchlings survive.</div><br/><div><b1>Ecology:</b1> Essentially herbivorous, sea dragons mainly eat algae and seaweed, but also enjoy the occasional fish, mineral chunk, or swimming sailor. Their eggs are considered delicacies by many races, particularly the minotaurs of Mithas.</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dreamshadow",
-    "Climate/Terrain": "As creature or person mimicked",
-    "Frequency": "Very rare",
-    "Organization": "As creature or person mimicked",
-    "Activity Cycle": "As creature or person mimicked",
-    "Diet": "Nil",
-    "Intelligence": "As the dreamer",
-    "Treasure": "As creature or person mimicked (but illusionary)",
-    "Alignment": "As creature or person mimicked",
-    "No. Appearing": "Variable",
-    "Armor Class": "As creature or person mimicked",
-    "Movement": "As creature or person mimicked",
-    "Hit dice": "As creature or person mimicked",
-    "THAC0": "As creature or person mimicked",
-    "No. Of Attacks": "As person or creature mimicked",
-    "Damage/Attack": "As person or creature mimicked (but illusionary)",
-    "Special Attacks": "As person or creature mimicked (but illusionary)",
-    "Special Defenses": "As person or creature mimicked",
-    "Magic Resistance": "See below",
-    "Size": "As person or creature mimicked",
-    "Morale": "As person or creature mimicked",
-    "XP Value": "As person or creature mimicked + 10%",
-    "Psionic Summary": "",
-    "Description": "<div>Dreamshadows are illusionary creations that take the appearance of any real person or creature known to the dreamer or to anyone experiencing the dream. They are quite believable and in all ways appear to be the actual person or creature. They are normally encountered as a result of a mindspin spell (see the “Dreamwraith” entry for details).</div><div class='indent'>A dreamshadow can be of any alignment and can either be helpful or harmful to those experiencing it. It can appear as a monster (such as a whisper spider or an undead beast), a member of an intelligent race (such as an elf or a draconian), or even as the dreamer himself. Not only does a dreamshadow have the shape of the creature or person it mimics, it also has the same alignment and personality. An ogre dreamshadow, for instance, will probably be stupid and hostile, while a Solamnic Knight dreamshadow will probably be stern and honorable. A character encountering a dreamshadow of himself will discover that the dreamshadow shares the identical equipment, clothing, and physical features, but not necessarily the same knowledge and information.</div><div class='indent'>It is extremely difficult to distinguish dreamshadows from their non-illusionary counterparts, but since dreamshadows always retam the intelligence of the dreamer some dreamshadows can exhibit peculiar aberrations. For instance, a chicken that scratches a message in the dirt or an ogre who speaks with eloquence and precision might alert the observer that he is dealing with a dreamshadow instead of the actual creature.</div><br/><div><b1>Combat:</b1> A dreamshadow attacks with the same weapons, abilities, strategies, and ferocity as its non-illusionary counterpart. However, a dreamshadow causes partially illusionary damage. This damage is equal to 1 hit point of real damage per 4 points of illusionary damage (for instance, if a character takes 12 points of illusionary damage, he experiences it as 3 hit points of real damage). Note that while a character is in the dream he believes illusionary damage to be genuine and therefore drops to the ground as though lifeless after taking what he believes to be the appropriate damage. When a character believes he has suffered a fatal amount of damage, he “dies.” The illusionary nature of the damage is apparent only after his companions successfully end the dream or the dream is otherwise dispelled.</div><div class='indent'>Spells cast by magic-using dreamshadows have effects on characters equivalent to actual spells. A fireball cast by a dreamshadow dragon does a comparable amount of illusionary damage. A dreamshadow gorgon turns a character to stone until the dream is ended.</div><div class='indent'>Dreamshadows cannot be disbelieved into non-existence. However, if a dreamshadow is disbelieved before it conducts its first attack against a character, the character suffers no illusionary damage. A character cannot disbelieve a dreamshadow once he has suffered illusionary damage from it (see the “Dreamwraith” entry for information about disbelieving illusions).</div><div class='indent'>Characters can use their weapons and spells against a dreamshadow just as they would against its non-illusionary counterpart. the dreamshadow suffers normal damage, not illusionary damage. When a dreamshadow is reduced to 0 hit points, it is destroyed.</div><div class='indent'>Dreamshadows have no magic resistance in the first level of a mindspin dream, 10% magic resistance in the second level, and 20% in the third level (see the “Dreamwraith” entry for information about the mindspin levels).</div><br/><div><b1>Habitat/Society:</b1> A dreamshadow has no meaningful existence beyond that as experienced by the dreamer. Hence, even if a dreamshadow survives an encounter with a character or adventuring party, for all practical purposes it ceases to exist when the dream is ended. Dreamshadows collect illusionary treasure; their treasure items have no value for non-illusionary characters and cannot be taken from the dream.</div><br/><div><b1>Ecology:</b1> Dreamshadows interact with one another as they would in the non-illusionary world, for instance, a dreamshadow farmer might be tending a flock of dreamshadow sheep, while a band of dreamshadow hunters might be stalking a dreamshadow ice bear. But dreamshadows only appear to eat, drink, and sleep, since their physiological functions are all illusionary</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dreamwraith",
-    "Climate/Terrain": "As creature or person mimicked",
-    "Frequency": "Very rare",
-    "Organization": "As creature or person mimicked",
-    "Activity Cycle": "As creature or person mimicked",
-    "Diet": "Nil",
-    "Intelligence": "As creature or person mimicked",
-    "Treasure": "Nil",
-    "Alignment": "Chaotic evil",
-    "No. Appearing": "1-4",
-    "Armor Class": "3",
-    "Movement": "As creature or person mimicked",
-    "Hit dice": "8",
-    "THAC0": "13",
-    "No. Of Attacks": "1",
-    "Damage/Attack": "1-10 or by weapon (illusionary)",
-    "Special Attacks": "— -1 bonus to initiative roll",
-    "Special Defenses": "Nil",
-    "Magic Resistance": "See below",
-    "Size": "As person or creature mimicked",
-    "Morale": "Very steady (14)",
-    "XP Value": "2,000",
-    "Psionic Summary": "",
-    "Description": "<div>Dreamwraiths are violent creations of the subconscious. They assault the minds of their victims through powerful illusionary attacks.</div><div class='indent'>A dreamwraith can appear in a number of forms, usually humanoid, but almost always frightening and repulsive. It often takes the form of the dead, decaying visage of a character’s former friend or ally. Dreamwraiths are normally encountered as a result of a mindspin spell (see following).</div><br/><div><b1>Combat:</b1> Although their forms can vary, the AC and Hit Dice of dreamwraiths are always the same. Dreamwraiths despise all non-illusionary creatures of good or neutral alignment and are devoted to their destruction. Intelligent and cunning, dreamwraiths strike with surprising fury, often catching their victims off-guard. Dreamwraiths gain a -1 bonus to all initiative checks.</div><div class='indent'>Occasionally, a character may encounter a dreamwraith with the ability to cause despair. Such a dreamwraith will tell the character a tale of hopelessness and discouragement If the character succeeds in a saving throw vs. spell, he resists the hypnotic effect of the dreamwraith’s words. If he fails the saving throw, the character is overwhelmed with despair. He joins the dreamwraith, repeating the litany of hopelessness. Only a dispel magic spell or a convincing speech about hope and courage can negate the despair. There iS a base chance of 30% that the speech negates the despair At the DM’s discretion, the base chance may be modified as much as + 70% if the speech is particularly inspiring.</div><div class='indent'>The chilling touch of a dreamwraith inflicts 1d10 points of damage. They also employ a variety of weapons, most often long swords, battle axes, and daggers However, the damage from both the touch and the weapons is illusionary, equal to 1 hit point of real damage per 4 points of illusionary damage. As with the illusionary damage of a dreamshadow, a character suffering illusionary damage perceives the damage to be real, “dying” when he believes he has suffered a fatal amount of damage. The illusionary nature of the damage is apparent only after the dream has ended.</div><div class='indent'>Dreamwraiths take normal damage from a characters weapons and spells, ceasing to exist when reduced to 0 hit points.</div><div class='indent'>Dreamwraiths have normal magic resistance in the first level of mindspin dream, 10% magic resistance in the second level, and 20% in the third level. Because they are not undead, they cannot be turned.</div><div class='indent'>If a dreamwraith is disbelieved before it conducts its first attack on a character, the character suffers no illusionary damage. A character cannot disbelieve a dreamwraith once he has suffered illusionary damage from it.</div><br/><div><b1>Disbelieving Illusions:</b1> A character can attempt to disbelieve dreamwraiths and dreamshadows. Each disbelief attempt requires the following steps:<ol><li>The disbelieving character announces how many melee rounds he intends to concentrate on the suspected illusion.</li><li>The modifier for the disbelief check is determined, based on the length of uninterrupted concentration. The character can per form no other actions while concentrating. Note that the concentration time is extremely limited if the illusion attacks the character while he is concentrating.</li></ol></div><br/><div><b1>Concentration Modifiers for Illusion Disbelief</b1><div><br/><div><table><thead><tr><th>Time</th><th>Modifier</th></tr></thead><tbody><tr><td>1 round</td><td>+1</td></tr><tr><td>2 rounds</td><td>+2</td></tr><tr><td>3 rounds</td><td>+3</td></tr><tr><td>4-6 rounds</td><td>+4</td></tr><tr><td>7-9 rounds</td><td>+5</td></tr><tr><td>1-3 turns</td><td>+6</td></tr><tr><td>4-6 turns</td><td>+7</td></tr><tr><td>1+ hours</td><td>+8</td></tr></tbody></table></div><div class='indent'><ol start='3'><li>Determine the Disbelief Number by adding the concentration modifier to the characters intelligence Add 1 for every other character who has successfully disbelieved during any previous round. If the character is attempting to disbelieve a dreamwraith, there is a -5 penalty.</li><li>The DM secretly rolls 1d20. It the result is higher than the Disbelief Number, then the entity in question looks real and its effects are perceived as real. It the result is equal to or lower than the Disbelief Number, then the illusion is disbelieved</li></ol></div><div class='indent'>A disbelief check can be made only once per hour by a character against any single illusion however, the character-can check again whenever another character in his group makes a successful check. If an illuslon is a group of entities, then the check is made for the entire group Characters who successfully disbelieve cannot be harmed by illusions.</div><br/><div><b1>Habitat/Society:</b1> A dreamwraith ceases to exist when the dream in which he resides has ended.</div><br/><div><b1>Ecology:</b1> Dreamwraiths experience only illusionary physiological functions. They are shunned by illusionary creatures of all alignments, but often ally with other dreamwraiths as well as evil dreamshadows</div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dwarf, Daergar",
-    "Climate/Terrain": "Tropical, subtropical and temperate/Subterranean",
-    "Frequency": "Uncommon",
-    "Organization": "Clan",
-    "Activity Cycle": "Any",
-    "Diet": "Omnivore",
-    "Intelligence": "Varies (318)",
-    "Treasure": "M (x 5); (G, Q (x 20), R)",
-    "Alignment": "Varies, but usually lawful evil",
-    "No. Appearing": "4400",
-    "Armor Class": "4 (10)",
-    "Movement": "6",
-    "Hit Dice": "1",
-    "THAC0": "19",
-    "No. Of Attacks": "1",
-    "Damage/Attack": "18 or by weapon",
-    "Special Attacks": "See below",
-    "Special Defenses": "See below",
-    "Magic Resistance": "See below",
-    "Size": "S (4 tall)",
-    "Morale": "Elite (13)",
-    "XP Value": "Varies",
-    "Psionic Summary": "",
-    "Description": "<div>Daergar are a clan of dark dwarves who split from the Theiwar hundreds of years ago. They are among the most violent of all the dwarven races.</div><div>Daergar have light brown skin and smooth cheeks. Their hair is black or gray, their eyes deep brown or violet. They are somewhat stockier than other dwarves, averaging 150180 pounds. Typical attire includes fuss, beathes boots, and dull gray chain mail.</div><br/><div><b1>Combat:</b1> Daergar are hot-tempered and brutal fighters. They are utterly without honor on the battlefield. Seldom encountered alone, Daergar usually fight in squads of 1d6 +6, often accompanied by wild dogs, hell hounds, or similarly vicious creatures. Daergar carry shields, hammers, clubs, and battle axes.</div><br/><div><b1>Habitat/Society:</b1> Daergar have established impressive strongholds in the caverns beneath the Kharolis Mountains. Outposts are also rumored to exist elsewhere on the continent. Daergar cities are dark and gloomy. A typical Daergar city is dominated by windowless prison modules and a huge arena where prisoners engage in bloody combat for the amusement of the citizens.</div><div>About 40-50% of a group of Daergar are females and young. About 80% of adult males are 1stlevel fighters, 10% are 2nd or 3rdlevel fighters, 5% are 4thlevel or higher fighters, and 5% are priests and thieves of various levels. The Daergar leader is generally the most powerful warrior of the kingdom; rule passes to the leaders eldest son when the leader dies. The leader represents the Daergar in the Council of Thanes (see the Mountain Dwarf entry for more about the council).</div><div>Among the most revered members of the Daergar society are the bonemasters. Bonemasters are elder Daergar who attend to the bone pits located on the village perimeters, designing weapons, tools, and armor from the bones. Typically, there is one bonemaster for every 200 members of a society.</div><div>Bonemasters also have the ability to animate bones, creating living skeletons to do the bonemasters bidding. A bonemaster can animate humanoid and animal skeletons alike; a number of skeletons equal to the bonemasters level can be animated at the same time. The animated skeletons cannot be turned as long as the bonemaster is alive. Bonemasters can be of any class; they choose their successors, to whom they teach the bone-animating ability.</div><br/><div><b1>Ecology:</b1> Daergar have little interest in the affairs of other races. They hate Neidar and have no particular affection for humans, elves, or kender.</div><br/><div><b1>Daergar Class Limits</b1><table><thead><tr><th>Group/Class</th><th>Maximum Level</th></tr></thead><tbody><tr><td>Warrior</td><td>-</td></tr><tr><td>Fighter</td><td>Unlim</td></tr><tr><td>Ranger</td><td>N/E *</td></tr><tr><td>Paladin</td><td>8</td></tr><tr><td>Solamnic Knight</td><td>N/E *</td></tr><tr><td>Wizard</td><td>-</td></tr><tr><td>Mage (Renegade)</td><td>N/E *</td></tr><tr><td>Illusionist (Renegade)</td><td>N/E *</td></tr><tr><td>Wizard of High Sorcery</td><td>N/E *</td></tr><tr><td>Priest</td><td>-</td></tr><tr><td>Cleric (Heathen)</td><td>N/E *</td></tr><tr><td>Druid (Heathen)</td><td>N/E *</td></tr><tr><td>Holy Order of the Stars</td><td>10</td></tr><tr><td>Rogue</td><td>-</td></tr><tr><td>Thief</td><td>8</td></tr><tr><td>Bard</td><td>N/E *</td></tr></tbody></table>* N/E means not eligible for that class.</div><br/><div>Daergar have all of the special abilities of dwarves listed in the 2nd Edition Player's Handbook.</div><div>Their initial ability rolls are modified by a 1 penalty to Charisma and a +1 bonus to Constitution. The minimum and maximum ability scores for Daergar are as follows:</div><table><thead><tr><th>Ability</th><th>Minimum</th><th>Maximum</th>,/tr></thead><tbody><tr><td>Strength</td><td>10</td><td>18</td></tr><tr><td>Dexterity</td><td>3</td><td>16</td></tr><tr><td>Constitution</td><td>12</td><td>19</td></tr><tr><td>Intelligence</td><td>3</td><td>18</td></tr><tr><td>Wisdom</td><td>3</td><td>18</td></tr><tr><td>Charisma</td><td>3</td><td>14</td></tr></tbody></table></div>",
-    "Source": "TSR2105",
-    "Image": ""
-}, {
-    "Name": "Dwarf, Gully",
-    "Climate/Terrain": "Tropical, subtropical, and temperate/Plain, swamp, forest, jungle, hill. and mountain",
-    "Frequency": "",
-    "Organization": "",
-    "Activity Cycle": "",
-    "Diet": "",
-    "Intelligence": "",
-    "Treasure": "",
-    "Alignment": "",
-    "No. Appearing": "",
-    "Armor Class": "",
-    "Movement": "",
-    "Hit Dice": "",
-    "THAC0": "",
-    "No. Of Attacks": "",
-    "Damage/Attack": "",
-    "Special Attacks": "",
-    "Special Defenses": "",
-    "Magic Resistance": "",
-    "Size": "",
-    "Morale": "",
-    "XP Value": "",
-
-    Rare
-    Clan
-    Any
-    Omnivore
-    Varies(3 9)
-    J(x…);
-    (J, K)
-    Varies,
-    but usually chaotic neutral
-    2 20
-    7(10)
-    61
-    19
-    1 or 2
-    1 4 / 1 4(fist / bite) or by weapon(1 4)
-    See below
-    See below
-    See below
-    S(4 tall)
-    Unsteady(7)
-    Varies
-    Gully dwarves,
-    also known as Aghar,
-    are stupid,
-    filthy,
-    and obnoxious.
-    Gully dwarves are short and squat,
-    averaging four feet in height
-    and weighing about 100 pounds.Their skin tones range from olive
-    brown to a light parchment color Males wear long,
-    scruffy beards;
-    females have cheek hair but no beards.Hair color ranges from dirty
-    blond to duil black.Eyes can be watery blue,
-    dull green,
-    or hazel.
-    Gully dwarves have narrower fingers and limbs than other dwarves,
-    and their skin is often covered with scars,
-    boils,
-    sores,
-    and filth.Pot
-    bellies are common among both sexes.
-    The stupidity of gully dwarves is legendary.To a gully dwarf,
-    any number greater than one is two,
-    which simply means more
-    than one.In spite of their dull minds,
-    gully dwarves take themselves quite seriously.They tend to have inflated ideas of their
-    own importance,
-    and puncturing their egos is almost impossible. <
-    /div><br/ > < div > < b1 > Combat: < /b1> Since they regard cowardice as a virtue, gully dwarves
-    have raised groveling to an art form.If confronted by a dangerous opponent but not immediately attacked,
-    gully dwarves either
-    faint,
-    cry,
-    beg
-    for mercy,
-    divulge rivers of information,
-    run away,
-    or stand and hake.If attacked,
-    gully dwarves defend themselves,
-    but they something fight with their eyes closed.Gully dwarves
-    are not above stealing,
-    lying,
-    or bullying,
-    and dirty tricks are
-    among their favorite tactics
-    Master scavengers,
-    gully dwarves use any armor and weapons
-    they happen to recover from garbage dumps or scrap heaps.Padded and studded leather are commonly worn.Gully dwarves
-    rarely use weapons other than clubs,
-    daggers,
-    knifes,
-    and hand
-    axes.A few have learned to use slings. <
-    /div><br/ > < div > < b1 > Habitat / Society: < /b1> Gully dwarf communities are quite small, seldom exceeding more than 2d10 members. A typical clan of 11
-    members includes a chieftain(a fighter of level 2 6),
-    about four
-    1 st level fighters(one of whom serves as the clans shaman, although he has no magical abilities),
-    one fighter of level 2 - 4(or a thief of the same level range);the rest are females and children
-    Most clans live in abandoned villages or in the wilderness in old
-    mines and caves.Others live in slums,
-    refuse dumps,
-    or the sewer
-    systems of large cities.When several clans live together,
-    the
-    strongest and cleverest chieftain becomes the local king,
-    whose ti
-    tle is produced by adding the prefix High to his clan name Each
-    successive king often calls himself the First,
-    owing to the gully
-    dwarf s inability to count
-    Gully dwarves believe magical items are useless because their
-    magic was put into them by other races.To gully dwarves,
-    the
-    most powerful items are those that seem to do nothing at all.Objects such as old bones,
-    rotten fruit,
-    fur balls,
-    and bent sticks are
-    treasured and venerated.The clan s shaman keeps these holy
-    relics and administers their use. <
-    /div><br/ > < div > < b1 > Ecology: < /b1> Other races avoid gully dwarves, but they are occasionally hired to perform menial tasks. Gnomes occasionally hire
-    them as assassins and spies,
-    even though gully dwarves aren t
-    particular adept at these jobs.Gully dwarves eat anything Many
-    gully dwarves keep a pot of stew boiling constantly,
-    throwing
-    anything dead or nearly dead into the pot.
-    Gully Dwarf Class Limits
-    Class
-    Warrior
-    Fighter
-    Ranger
-    Paladin
-    Solamnic Knight
-    Wizard
-    Mage(Renegade)
-    Illusionist(Renegade)
-    Wizard of High Sorcery
-    Priest
-    Cleric(Heathen)
-    Druid(Heathen)
-    Holy Order of the Stars
-    Rogue
-    Thief
-    Bard
-    Max.Level
-    6
-    N / E *
-    N / E *
-    N / E *
-    N / E *
-    N / E *
-    N / E *
-    N / E *
-    N / E *
-    5 8
-    N / E *
-    *
-    N / E means not eligible
-    for that class
-    Gully dwarves have all of the special abilities of dwarves listed in
-    the 2 nd Edition Player s Handbook.
-    Their initial abilities are generated using special dice rolls.The
-    minimum and maximum ability scores and the dice to roll
-    for
-    gully dwarves are as follows: Ability Roll Minimum Maximum
-    Strength 4 d4 + 2 6 18
-    Dexterity 4 d 4 + 2 6 18
-    Constitution 3 d4 3 12
-    Intelligence 2 d4 + 1 3 9
-    Wisdom 2 d 4 + 1 3 9
-    Charisma 2 d 4 + 1 3 9
-
-     Dwarf,
-    Hill(Neidar)
-    "Climate/Terrain": "",
-    "Frequency": "",
-    "Organization": "",
-    "Activity Cycle": "",
-    "Diet": "",
-    "Intelligence": "",
-    "Treasure": "",
-    "Alignment": "",
-    Subtropical and temperate /
-    Hills and forests
-    Common
-    Clan
-    Any
-    Omnivore
-    Varies(3 18)
-    M(x 2);
-    (G, Q(x 20) R)
-    Varies,
-    but usually neutral good "No. Appearing": "1 or clan of 10100 members",
-    "Armor Class": "6 (10)",
-    "Movement": "6",
-    "Hit Dice": "1",
-    "THAC0": "19",
-    "No. Of Attacks": "1",
-    "Damage/Attack": "18 (weapon)",
-    "Special Attacks": "See below",
-    "Special Defenses": "See below",
-    "Magic Resistance": "See below",
-    "Size": "M (45 tall)",
-    "Morale": "Elite (13)",
-    "XP Value": "V a r i e s",
-    Hill dwarves,
-    also known as Neidar,
-    are the most commonly encountered dwarven race on Krynn
-    Neidar have deep tan to light brown skin,
-    ruddy cheeks,
-    and
-    bright eyes Their hair is brown,
-    black,
-    or gray,
-    and the majority
-    of adult males wear long bushy beards and moustaches.They fa
-    vor earth toned clothing and knee - high hoots
-    Neidar tend to be rough and coarse.They are extremely loyal
-    and honorable,
-    and are capable of deep and lasting friendships.
-    Neidar have low,
-    rich voices and can sing quite well.They have
-    an extreme aversion to traveling by water. <
-    /div><br/ > < div > < b1 > Combat: < /b1> Neidar are reluctant combatants, preferring to let others do their fighting for them or, avoiding violent situations altogether. However, when drawn into a battle, Neidar fight with
-    skill and courage.They usually wear studded leather armor and
-    carry small shields.Battle axes and daggers are their preferred
-    weapons. <
-    /div><br/ > < div > < b1 > Habitat / Society: < /b1> Neidar clans form small villages that consist of
-    modest houses of thatch,
-    wood,
-    and stone.A typical clan Includes 10 d10 members About 40 50 % are women and children.
-    Of the adult males,
-    about 80 % are 1 st level fighters,
-    10 % are
-    2 nd to 4 th level fighters,
-    5 % are 5 th level or higher fighters,
-    and
-    the rest are rangers and thieves of various levels.Because of their
-    dwarven roots they are excellent miners,
-    metalsmiths,
-    and
-    woodworkers.The eldest male serves as clan leader,
-    but most major decisions are made by consensus.Unmarried Neidar oftenset out on their own returning to their original clan only occasion
-    ally.
-    The Neidar clan system predates the Cataclysm by hundreds of
-    years and,
-    true to tradition,
-    different clans seldom associate with
-    each other.This attitude has not only bred suspicion and a lack of
-    cooperation among the clans,
-    it has also hindered trade and economic development,
-    keeping most clans in relative poverty.
-    Once part of the society of subterranean dwarves,
-    the Neidar
-    were cast from their homes in the wake of the Cataclysm that pre
-    ceded the Age of Darkness.Forbidden to
-    return to their former
-    homes,
-    the Neidar were forced to live permanently above
-    ground Neidar have been reasonably successful at integrating
-    themselves into Krynn society and are as likely to be found in urban taverns as in their own modest villages. <
-    /div><br/ > < div > < b1 > Ecology: < /b1> Neidar get along well with humans and kendcr. Some
-    have established cordial relationships with elves.Howcvcr,
-    most
-    other dwarven races shun the Neidar,
-    particularly the mountain
-    dwarves.Fond of animals,
-    they keep kittens,
-    sparrows,
-    and po
-    nies as pets.They produce few items of value,
-    but sometimes they
-    create metal tools and honey candies to sell in human towns.
-    Neidar have voracious appetites.Favorite dishes include cornbread,
-    mushroom soup,
-    and roast kingfisher.
-    Hill Dwarf Class Limits
-    Class Max.Level
-    Warrior
-    Fighter Unlim
-    Ranger 8
-    Paladin N / E *
-    Solamnic Knight N / E *
-    Wizard
-    Mage(Renegade) N / E *
-    Illusionist(Renegade) N / E *
-    Wizard of High Sorcery N / E *
-    Priest
-    Cleric(Heathen) N / E *
-    Druid(Heathen) N / E *
-    Holy Order of the Stars 10
-    Rogue
-    Thiet 10
-    Bard N / E *
-    *
-    N / E means not eligible
-    for that class.
-    Neidar have all of the special abilities of dwarves listed in the 2 nd
-    Edition Player s Handbook.Their initial ability rolls are modi
-    fled by a 1 penalty to Charisma and a + 1 bonus to Constitution
-    The minimum and maximum ability scores
-    for Neidar are as fol
-    lows: Ability
-    Strength
-    Dexterity
-    Constitution
-    Intelligence
-    Minimum Maximum
-    9 18
-    3 17
-    14 19
-    3 18
-
-     Dwarf,
-    Mountain(Hylar)
-    "Climate/Terrain": "Tropical subtropical, and",
-    temperate / Subterranean
-
-    "Frequency": "Uncommon",
-
-    "Organization": "Clan",
-
-    "Activity Cycle": "Any",
-
-    "Diet": "Omnivore",
-
-    "Intelligence": "Varies (3-18)",
-
-    "Treasure": "M (x 5), Q; (R (x 20), G)",
-
-    "Alignment": "Varies, but usually lawful neu-",
-    tral
-
-    "No. Appearing": "4-24",
-
-    "Armor Class": "4 (10)",
-
-    "Movement": "4 (6)",
-
-    "Hit dice": "1",
-
-    "THAC0": "19",
-
-    "No. Of Attacks": "1",
-
-    "Damage/Attack": "1-8 (weapon)",
-
-    "Special Attacks": "See below",
-
-    "Special Defenses": "See below",
-
-    "Magic Resistance": "See below",
-
-    "Size": "M (4%’ tall)",
-
-    "Morale": "Elite (13)",
-
-    "XP Value": "Varies",
-
-    Mountain dwarves are the oldest of the dwarven races.The best
-    known and most revered of mountain dwarves are the Hylar.
-
-    Hylar have light brown skin,
-    ruddy cheeks,
-    and dark brown,
-    gray,
-    or green eyes.Their hair is black,
-    gray,
-    brown,
-    or white.
-    They favor earth tones in their clothing.
-
-    <
-    /div><br/ > < div > < b1 > Combat: < /b1> The battlefield skill of the Hylar is legendary. When
-    they encounter an intelligent opponent,
-    Hylar prefer to parley be -
-    fore combat.Opponents who surrender with grace are treated
-    with dignity.
-
-    Hylar wear chain mail and carry shields.Preferred weapons in -
-    clude hammers,
-    spears,
-    battle axes,
-    and light crossbows.
-
-    <
-    /div><br/ > < div > < b1 > Habitat / Society: < /b1> Hylar live in fabulous underground cities be-
-    neath immense mountain ranges.The most famous of all dwar -
-    ven kingdoms is Thorbardin,
-    a 300 - square - mile area in the
-    Kharolis Mountains.
-
-    Mountain dwarves have little interest in the affairs of other
-    races.In fact,
-    most mountain dwarves have never seen a non -
-    dwarf They are not interested in helping others unless they can
-    be shown that the matter affects them directly.
-=======
-    "Description": "The undead beast is a mindless killer of unknown origin, compelled to destroy the living. The most common variety of undead beast is called the stahnk.</div><div style='text-indent:1em'>The size of a small dragon, the stahnk’s bones protrude from rotting flesh. It has a great horned head, and its ribs are bare and barbed, forming a nasty cage. It walks on all fours, but it can rear on its hind legs, balancing with its stubby tail, to bring its powerful forearms to bear.</div><br/><div><b style='color:#4169E1'>Combat: The stahnk assaults anything that moves, attacking with its razor-sharp claws and horned head. Any victim struck by a claw must roll a successful saving throw vs. death magic or be flung for 1d20 additional points of damage. The beast can also charge its victims in an attempt to trample them (roll its normal attack roll). A trampled victim must roll a saving throw vs. death magic, suffering 1d8 points of damage if the roll succeeds and 3d8 points of damage if the roll fails. Additionally, a trampled victim who fails his saving throw vs. death magic must then roll a saving throw vs. wand. If he fails this saving throw, he is ensnared in the beast’s rib cage and suffers 1d4 points of damage from the barbs each round the beast moves. An ensnared character can break free from the rib cage if the beast loses 50% of its hit points (a stahnk that has already lost half of its hit points cannot ensnare victims). Victims ensnared in the rib cage can continue to attack the beast, but they do so with a -3 penalty to both attack and damage rolls.</div><div style='text-indent:1em'>The stahnk can be turned by a priest as a special monster. It is unaffected by flame and suffers only minimum damage (1 point plus any applicable bonuses) from edged or pointed weapons. Blunt weapons, such as clubs and maces, affect the beast normally.</div><br/><div><b style='color:#4169E1'>Habit/Society: The stahnk dwells in the most desolate regions world. It is almost always found alone, having long ago destroyed all other creatures in its immediate environment. Each stahnk claims an area of no more than a few acres as its domain. A stahnk never leaves its domain, and it kills all living creatures that trespass. Since stahnks destroy the bodies of their victims but leave the possessions untouched, they tend to accumulate sizeable treasure caches.</div><br/><div><b style='color:#4169E1'>Ecology: Stahnks do not eat their victims, but instead crush and rend them into pulp. Powerful evil wizards occasionally use stahnks as guards.</div><br/><div><b style='color:#4169E1'>Gholor</b></div><br/><div>The gholor, also known as the feaster, is an undead beast with no hind legs or rib cage. It cannot make ensnaring, trampling, or flinging attacks. Instead, it attacks with two 20-foot-long bony hooked arms and its sharp teeth; its jaws secrete acid, causing an additional 1d8 points of acid damage with each successful bite.</div><div style='text-indent:1em'>Gholors live at the bottom of deep funnel-like depressions located in deserts, on ocean floors, or in similarly desolate areas. They cannot move from their funnels. Gholors radiate a magical pull within a 1d10-mile radius of their funnels, causing all victims in the area to feel a desire to travel to the funnel. For every hour a being is within this radius, it must roll a successful saving throw vs. spell or continue to move toward the funnel at its normal movement rate. When a victim reaches the funnel, it begins to slip inside; it slips to the center and into the arms of the waiting gholor in three rounds.</div><br/><div><b style='color:#4169E1'>Anhkolox</b></div><br/><div>About 10% of all undead beasts, including gholors, have enchanted bones that glow green. Such undead beasts are called anhkolox. These beasts are very hot: a character touching a glowing bone with his bare hands suffers 1 point of damage. If the beast is touched with any inflammable object, such as a wooden staff, the object bursts into flames.</div><div style='text-indent:1em'>An anhkolox can also attack with a breath weapon, an ice-cold cone of green fire seven feet long with a base diameter of 2% feet, A victim struck by the green fire must roll a saving throw vs. spell. If he succeeds, he suffers 1d4 points of damage. If he tails, he suffers 2d4 points of damage and his bones throb inside his body for the next 1d6 turns; his AC is increased by +1 and all attack rolls suffer a -1 penalty during that period. These effects can be negated by dispel magic or a similar spell, though the PC still suffers the damage.",
-    "Source": "TSR2105",
-    "Image": ""
-},
-{
->>>>>>> 1d57cf6 (test)
-
-    A typical group of 100 Hylar includes 40 Ist - to 2 nd - level fight -
-    ers,
-    15 3 rd - to 4 th - level fighters,
-    ten 5 th - to 8 th - level fighters,
-    five
-    8 th - level or higher fighters,
-    25 O0 - level workers and children,
-    and
-    five paladins,
-    priests,
-    and thieves of various levels.
-
-<<<<<<< HEAD
-    Two other dwarven races are closely associated with the Hylar
-    and often live in the same cities.The Daewar,
-    who are respected
-    fighters and deter to the Hylar’ s leadership.The Klar are hill
-    dwarves who serve wealthy Hylar in menial roles.
-
-    Mountain dwarf leaders are called thanes.Each thane repre -
-    sents his folk in the Council of Thanes,
-    an organization founded
-    for the purpose of settling disputes and promoting common inter -
-    ests.Seats on the Council are held by representatives of the Hy -
-    lar,
-    Theiwar,
-    Daewar,
-    Daergar,
-    Neidar,
-    Klar,
-    and Aghar.The
-    dwarves venerate their dead and consider the Kingdom of the
-    Dead to be represented on the Council.The High King is chosen
-    by acclamation of the Council and must be ordained by the citi -
-    zens.Most of the great dwarven kings have been Hylar.
 
 
+----
 
+Bear, Ice
 
+"Climate/Terrain": "Arctic/Plain, hill, and mountain",
+"Frequency": "Uncommon",
+"Organization": "Pack",
+"Activity Cycle": "Day",
 
+"Diet": "Carnivore",
+"Intelligence": "Low (5-7)",
+"Treasure": "Nil",
+"Alignment": "Neutral",
 
+"No. Appearing": "1-4",
+"Armor Class": "6",
+"Movement": "12, Sw 3",
+"Hit dice": "6+2",
+"THAC0": "15",
 
+"No. Of Attacks": "3",
+"Damage/Attack": "1-8/1-8/2-16",
+"Special Attacks": "Hugs for 2-12",
+"Special Defenses": "See below",
+"Magic Resistance": "Nil",
 
+"Size": "L (12’ tall)",
+"Morale": "Average (10)",
+"XP Value": "975",
 
+Resembling a cross between a polar bear and a cave bear, the ice
+bear is a ferocious meat-eater inhabiting the southernmost re-
+gions of Krynn. It is the most intelligent of all bears.
 
+A mature ice bear averages 12 feet in length and weighs nearly
+1,500 pounds. Its coat of dense white fur keeps it warm and
+makes it difficult to see against a background of ice and snow. It
+has a huge head, long ears, and bright blue eyes. Thick pads on its
+feet enable it to walk on ice without slipping. Its lean body and
+powerful legs enable it to swim with relative ease.
 
-    <
-    /div><br/ > < div > < b1 > Ecology: < /b1> Tension persists between the Hylar and other dwarven
-    races.They have reasonably good relations with the Qualinesti
-    elves.Hylar enjoy roasted meats,
-    boiled vegetables,
-    and strong
-    beer.They rarely trade with other races.
+Ice bears have no formal language, but can communicate sim-
+ple ideas to each other by a system of grunts. Ice bears who have
+established relationships with other races are able to understand
+brief spoken phrases from them.
 
-    Mountain Dwarf Class Limits
-=======
+Combat: Irritable and aggressive, the ice bear is a fearsome op-
+ponent. The ice bear has excellent vision and hearing. Its sense of
+smell is so acute that it can sniff out prey up to 100 yards away.
+Because of its sharp senses, an ice bear gains a +5 bonus to its sur-
+prise roll when encountering victims
 
+When attacking, the ice bear rears on its hind legs and lunges at
+its victim, striking with its forepaws and jaws. If the ice bear
+scores a paw hit with an 18 or better, it also hugs for an additional
+2d6 points of damage. It continues to fight for 1d4 rounds after
+reaching 0 to -8 hit points. When reduced to -9 or fewer hit points,
+it dies immediately.
+
+The ice bear is immune to all harmful effects of cold tempera-
+tures. It is similarly immune to cone of cold and all other cold-
+based _ spells.
+
+Habitat/Society: Caves in icebergs serve as lairs for ice bears.
+Most ice bears live near arctic coastlines, but some live on small
+islands hundreds of miles from the mainland. Ice bears spend
+most of their waking hours swimming and fishing; their preferred
+hunting area is the edge of an ice floe where they can scoop pass-
+ing fish out of the water. Ice bears seldom stray more than a few
+miles from their lairs.
+
+Every winter, a female ice bear retires to her cave and gives
+birth to one or two cubs. Though not as dangerous as their par-
+ents, ice bear cubs older than six months are also formidable op-
+ponents (AC 7, HD 4, THACO 17, Dmg 1d4/1d4/1d8, hugs for
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1d6 points of damage). The cubs remain with their parents until
+they reach maturity (about seven years), then leave to establish
+lairs of their own.
+
+The ice bear has an uncanny ability to track prey over snow
+and ice. If no new snow has fallen, an ice bear has a 100% chance
+of following a trail that is one day old or less. For each day (after
+the first) since the trail was made, this chance is reduced by 10%.
+The chance is reduced by an additional 10% for each inch of snow
+that has fallen on the trail. (For instance, if the trail is two days
+old and is covered by an inch of new snow, an ice bear’s chance of
+following the trail is 80% .) A tracking roll is made once per day;
+if the roll is successful, the ice bear can follow the trail for the en-
+tire day. Otherwise, the trail is lost forever.
+
+Ice bears have been known to establish cooperative relation-
+ships with members of other races, including minotaurs and hu-
+mans. Most commonly, ice bears establish relationships with the
+thanoi (also known as walrus men). The ice bears track prey for
+the thanoi, who then slay the quarry and share the meat with the
+bears. When threatened, ice bears and thanoi unite to defend
+themselves against common enemies. To facilitate movement
+over ice and snow, the thanoi have designed special sleds that can
+be pulled by ice bear teams.
+
+Though often associated with evil races, ice bears are not inher-
+ently evil themselves. Their memories are long, and they remain
+friendly to those who have helped them in the past, regardless of
+race or alignment. Characters who feed starving ice bears, free
+them from traps, or heal their wounds can find themselves be-
+friended by those bears years or even decades later. Ice bears can
+help friends by serving as guides through hostile arctic terrain or
+by joining them as allies to fight off hostile creatures.
+
+Ecology: The ice bear mainly eats fish and seals, but any type of
+prey that stumbles into its path is likely to be eaten as well. Ice
+bear pelts can be made into warm coats, gloves, and mufflers.
+Some races, especially evil- and neutral-aligned humans, value
+ice bear claws as jewelry; a finely crafted ice bear claw necklace
+can fetch as much as ten stl.
+Beast, Undead
+
+ 
+
+ 
+
+ 
+
+Stahnk Gholor
+CLIMATE/
+"Terrain": "Any Any",
+"Frequency": "Very rare Very rare",
+"Organization": "Solitary Solitary",
+"Activity Cycle": "Any Any",
+"Diet": "Nil Nil",
+"Intelligence": "Non- (0) Non- (0)",
+"Treasure": "G G, H",
+"Alignment": "Neutral Neutral",
+"No. Appearing": "1 1",
+"Armor Class": "6 6",
+"Movement": "9,Sw9 Nil",
+"Hit dice": "12+12 12+12",
+"THAC0": "7 7",
+"No. Of Attacks": "3 3 or 1",
+"Damage/Attack": "3-9/3-9/3-24 3-9/3-9/3-24 or 3-",
+
+18
+
+"Special Attacks": "_ Ensnare and fling Acidic bite",
+"Special Defenses": "See below See below",
+"Magic Resistance": "20% 20%",
+"Size": "H (20’ long) H (20’ long)",
+"Morale": "Elite (14) Elite (14)",
+"XP Value": "8,000 8,000",
+
+The undead beast is a mindless killer of unknown origin, compel-
+led to destroy the living. The most common variety of undead
+beast is called the stahnk.
+
+The size of a small dragon, the stahnk’s bones protrude from
+rotting flesh. It has a great horned head, and its ribs are bare and
+barbed, forming a nasty cage. It walks on all fours, but it can rear
+on its hind legs, balancing with its stubby tail, to bring its power-
+
+ful forearms to bear.
+
+Combat: The stahnk assaults anything that moves, attacking
+with its razor-sharp claws and horned head. Any victim struck by
+a claw must roll a successful saving throw vs. death magic or be
+flung for 1d20 additional points of damage. The beast can also
+charge its victims in an attempt to trample them (roll its normal
+attack roll). A trampled victim must roll a saving throw vs. death
+magic, suffering 1d8 points of damage if the roll succeeds and 3d8
+points of damage if the roll fails. Additionally, a trampled victim
+who fails his saving throw vs. death magic must then roll a saving
+throw vs. wand. If he fails this saving throw, he is ensnared in the
+beast’s rib cage and suffers 1d4 points of damage from the barbs
+each round the beast moves. An ensnared character can break
+free from the rib cage if the beast loses 50% of its hit points (a
+stahnk that has already lost half of its hit points cannot ensnare
+victims). Victims ensnared in the rib cage can continue to attack
+the beast, but they do so with a -3 penalty to both attack and
+damage rolls.
+
+The stahnk can be turned by a priest as a special monster. It is un-
+affected by flame and suffers only minimum damage (1 point plus
+any applicable bonuses) from edged or pointed weapons. Blunt
+weapons, such as clubs and maces, affect the beast normally.
+
+Habit/Society: The stahnk dwells in the most desolate regions
+world. It is almost always found alone, having long ago de-
+stroyed all other creatures in its immediate environment. Each
+stahnk claims an area of no more than a few acres as its domain.
+A stahnk never leaves its domain, and it kills all living creatures
+that trespass. Since stahnks destroy the bodies of their victims but
+leave the possessions untouched, they tend to accumulate size-
+able treasure caches.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ecology: Stahnks do not eat their victims, but instead crush and
+
+rend them into pulp. Powerful evil wizards occasionally use
+stahnks as guards.
+
+Gholor
+
+The gholor, also known as the feaster, is an undead beast with no
+hind legs or rib cage. It cannot make ensnaring, trampling, or
+flinging attacks. Instead, it attacks with two 20-foot-long bony
+hooked arms and its sharp teeth; its jaws secrete acid, causing an
+additional 1d8 points of acid damage with each successful bite.
+
+Gholors live at the bottom of deep funnel-like depressions lo-
+cated in deserts, on ocean floors, or in similarly desolate areas.
+They cannot move from their funnels. Gholors radiate a magical
+pull within a 1d10-mile radius of their funnels, causing all victims
+in the area to feel a desire to travel to the funnel. For every hour a
+being is within this radius, it must roll a successful saving throw
+vs. spell or continue to move toward the funnel at its normal
+movement rate. When a victim reaches the funnel, it begins to slip
+inside; it slips to the center and into the arms of the waiting gholor
+in three rounds.
+
+Anhkolox
+
+About 10% of all undead beasts, including gholors, have en-
+chanted bones that glow green. Such undead beasts are called
+anhkolox. These beasts are very hot: a character touching a glow-
+ing bone with his bare hands suffers 1 point of damage. If the
+beast is touched with any inflammable object, such as a wooden
+staff, the object bursts into flames.
+
+An anhkolox can also attack with a breath weapon, an ice-cold
+cone of green fire seven feet long with a base diameter of 2% feet,
+A victim struck by the green fire must roll a saving throw vs.
+spell. If he succeeds, he suffers 1d4 points of damage. If he tails,
+he suffers 2d4 points of damage and his bones throb inside his
+body for the next 1d6 turns; his AC is increased by +1 and all at-
+tack rolls suffer a -1 penalty during that period. These effects can
+be negated by dispel magic or a similar spell, though the PC still
+suffers the damage.
 Centaur (of Krynn)
->>>>>>> 1d57cf6 (test)
-
-    Class Max.Level
-    Warrior
-    Fighter Unlim
-    Ranger N / E *
-    Paladin 8
-    Solamnic Knight N / E *
-    Wizard
-    Mage(Renegade) N / E *
-    Illusionist(Renegade) N / E *
-    Wizard of High Sorcery N / E *
-    Priest
-    Cleric(Heathen) N / E *
-    Druid(Heathen) N / E *
-    Holy Order of the Stars 10
-    Rogue
-    Thief 8
-    Bard N / E *
-
-    *
-    N / E means not eligible
-    for that class
-
-    Hylar have all of the special abilities of dwarves listed in the 2 nd
-    Edition Player’ s Handbook.
-
-    Their initial ability rolls are modified by a - 1 penalty to Cha -
-    risma and a + 1 bonus to Constitution.The minimum and maxi -
-    mum ability scores
-    for Hylar are as follows.
-
-    Ability Minimum Maximum
-    Strength 8 18
-    Dexterity 3 17
-    Constitution 12 19
-    Intelligence 3 18
-    Wisdom 3 18
-    Charisma 3 16
-
-
-     Dwarf,
-    Theiwar
-
-
-
-
-
-
-
 
 
     "Climate/Terrain": "Tropical, and",
