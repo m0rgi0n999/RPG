@@ -1,0 +1,115 @@
+# INLEIDING
+Het is goed om de Dungeon Master te zijn! Je mag niet alleen fantastische verhalen vertellen over helden, schurken, monsters en monsters, maar je mag ook de wereld creëren waarin deze verhalen leven. Of je nu al een D&D-game runt of denkt dat je het wilt proberen, dit boek is voor jou.
+
+De *Dungeon Master's Guide* gaat ervan uit dat je de basis kent van het spelen van het D&D-tabletop-rollenspel. Als je nog niet eerder hebt gespeeld, is de *{{font-family:MrEavesRemake Dungeons & Dragons}} Starter Set* een geweldig startpunt voor nieuwe spelers en DM's.
+
+Dit boek heeft twee belangrijke metgezellen: het *Player's Handbook*, dat de regels bevat die je spelers nodig hebben om personages te creëren en de regels die je nodig hebt om het spel te runnen, en het *Monster Manual*, dat kant-en-klare monsters bevat om je D&D-wereld te bevolken.
+
+## DE DUNGEON MASTER
+De Dungeon Master (DM) is de creatieve kracht achter een D&D-game. De DM creëert een wereld die de andere spelers kunnen verkennen, en creëert en runt ook **avonturen** die het verhaal sturen. Een avontuur hangt meestal af van het succesvol voltooien van een quest, en kan zo kort zijn als een enkele spelsessie. Langere avonturen kunnen spelers in grote conflicten betrekken die meerdere spelsessies vereisen om op te lossen. Wanneer ze aan elkaar worden geregen, vormen deze avonturen een doorlopende **campagne**. Een D&D-campagne kan tientallen avonturen bevatten en maanden of jaren duren.
+
+Een Dungeon Master krijgt veel hoeden op zijn hoofd. Als architect van een campagne creëert de DM avonturen door monsters, vallen en schatten te plaatsen die de personages van de andere spelers (de **avonturiers**) kunnen ontdekken. Als verhalenverteller helpt de DM de andere spelers te visualiseren wat er om hen heen gebeurt, improviserend wanneer de avonturiers iets doen of ergens onverwachts naartoe gaan. Als acteur speelt de DM de rollen van de monsters en ondersteunende personages, en blaast ze leven in. En als scheidsrechter interpreteert de DM de regels en beslist wanneer ze zich eraan moeten houden en wanneer ze moeten veranderen.
+
+Uitvinden, schrijven, verhalen vertellen, improviseren, acteren, scheidsrechteren - elke DM vervult deze rollen anders en je zult waarschijnlijk van sommige meer genieten dan van andere. Het helpt om te onthouden dat {{font-family:MrEavesRemake Dungeons & Dragons}} een hobby is en dat het leuk moet zijn om de DM te zijn. Concentreer je op de aspecten die je leuk vindt en bagatelliseer de rest. Als je bijvoorbeeld niet van het creëren van je eigen avonturen houdt, kun je gepubliceerde avonturen gebruiken. Je kunt ook op de andere spelers leunen om je te helpen met het beheersen van de regels en het bouwen van de wereld.
+
+De D&D-regels helpen jou en de andere spelers om een leuke tijd te hebben, maar de regels zijn niet de baas. Jij bent de DM en jij bent de baas van het spel. Dat gezegd hebbende, is je doel niet om de avonturiers af te slachten, maar om een campagnewereld te creëren die draait om hun acties en beslissingen, en om je spelers terug te laten komen voor meer! Als je geluk hebt, zullen de gebeurtenissen van je campagne nog lang in de herinneringen van je spelers blijven hangen nadat de laatste spelsessie is afgelopen.
+
+## HOE JE DIT BOEK GEBRUIKT
+Dit boek is in drie delen georganiseerd. Het eerste deel helpt je te beslissen wat voor soort campagne je wilt uitvoeren. Het tweede deel helpt je de avonturen te creëren - de verhalen - die de campagne zullen vormen en de spelers van de ene spelsessie naar de andere zullen vermaken. Het laatste deel helpt je de spelregels te beoordelen en ze aan te passen aan de stijl van je campagne.
+
+### DEEL 1: MEESTER VAN WERELDEN
+Elke DM is de maker van zijn of haar eigen campagnewereld. Of je nu een wereld bedenkt, een wereld aanpast van een favoriete film of roman, of een gepubliceerde setting gebruikt voor het D&D-spel, je maakt die wereld in de loop van een campagne je eigen.
+
+De wereld waarin je je campagne plaatst, is een van de talloze werelden die het D&D **multiversum** vormen, een groot aantal vlakken en werelden waar avonturen gebeuren. Zelfs als je een gevestigde wereld gebruikt zoals Forgotten Realms, speelt je campagne zich af in een soort spiegeluniversum van de officiële setting waar Forgotten Realms-romans, gameproducten en digitale games zich afspelen. De wereld is van jou om te veranderen zoals je wilt en aan te passen terwijl je de gevolgen van de acties van de spelers onderzoekt.
+
+Je wereld is meer dan alleen een achtergrond voor avonturen. Net als Midden-aarde, Westeros en talloze andere fantasiewerelden is het een plek waar je naartoe kunt ontsnappen en fantastische verhalen kunt zien ontvouwen. Een goed ontworpen en goed gerunde wereld lijkt om de avonturiers heen te stromen, zodat ze zich deel voelen van iets, in plaats van er los van te staan.
+\page
+Consistentie is een sleutel tot een geloofwaardige fictieve wereld. Wanneer de avonturiers teruggaan naar de stad voor voorraden, zouden ze dezelfde **niet-spelerpersonages** (NSP's) moeten tegenkomen die ze eerder zijn tegengekomen. Binnenkort zullen ze de naam van de barman leren kennen, en hij of zij zal zich ook hun naam herinneren. Zodra je deze mate van consistentie hebt bereikt, kun je af en toe een verandering aanbrengen. Als de avonturiers terugkomen om meer paarden te kopen bij de stallen, ontdekken ze misschien dat de man die de zaak runde, terugging naar huis in de grote stad aan de andere kant van de heuvels, en nu runt zijn nicht het familiebedrijf. Dat soort verandering - een die niets te maken heeft met de avonturiers direct, maar die ze wel zullen opmerken - geeft de spelers het gevoel dat hun personages deel uitmaken van een levende wereld die met hen verandert en groeit.
+
+Deel 1 van dit boek gaat helemaal over het uitvinden van je wereld. Hoofdstuk 1 vraagt wat voor soort spel je wilt spelen en helpt je een paar belangrijke details over je wereld en de overkoepelende conflicten vast te stellen. Hoofdstuk 2 helpt je je wereld in de grotere context van het multiversum te plaatsen, en breidt de informatie uit die in het *Player's Handbook* wordt gepresenteerd uit om de bestaansvlakken en de goden te bespreken en hoe je ze kunt samenvoegen om te voldoen aan de behoeften van je campagne.
+
+### DEEL 2: MEESTER VAN AVONTUREN
+Of je nu je eigen avonturen schrijft of gepubliceerde gebruikt, verwacht dat je voorbereidingstijd investeert naast de uren die je aan de speeltafel doorbrengt. Je zult wat vrije tijd moeten vrijmaken om je creativiteit te oefenen terwijl je boeiende plots bedenkt, nieuwe NPC's creëert, ontmoetingen creëert en slimme manieren bedenkt om verwachtingen te maken die nog moeten komen.
+
+Deel 2 van dit boek is gewijd aan het helpen van je om geweldige avonturen te creëren en te runnen. Hoofdstuk 3 behandelt de basiselementen van een D&D-avontuur en hoofdstuk 4 helpt je om memorabele NPC's te creëren. Hoofdstuk 5 biedt richtlijnen en advies voor het runnen van avonturen die zich afspelen in kerkers, de wildernis en andere locaties, en hoofdstuk 6 behandelt de tijd tussen avonturen. Hoofdstuk 7 gaat helemaal over schatten, magische voorwerpen en speciale beloningen die helpen de spelers betrokken te houden bij je campagne.
+
+### DEEL 3: MEESTER VAN DE REGELS
+DUNGEONS & DRAGONS is geen rechtstreekse competitie, maar er is iemand nodig die onpartijdig is, maar toch betrokken bij het spel om te garanderen dat iedereen aan tafel zich aan de regels houdt. Als speler die de spelwereld en de avonturen die zich daarin afspelen creëert, is de DM een natuurlijke geschikte speler om de rol van scheidsrechter op zich te nemen.
+·
+Als scheidsrechter fungeert de DM als bemiddelaar tussen de regels en de spelers. Een speler vertelt de DM wat hij of zij wil doen en de DM bepaalt of het succesvol is of niet, in sommige gevallen door de speler te vragen om een dobbelsteenworp te doen om succes te bepalen. Bijvoorbeeld, als een speler wil dat zijn of haar personage een slag naar een Orc uitvoert, zeg je "Doe een aanvalsworp" terwijl je de pantserklasse van de Orc opzoekt.
+
+De regels houden geen rekening met elke mogelijke situatie die zich kan voordoen tijdens een typische D&D-sessie. Bijvoorbeeld, een speler wil dat zijn of haar personage een vuurkorf vol hete kolen in het gezicht van een monster gooit. Hoe je de uitkomst van deze actie bepaalt, is aan jij. Je kunt de speler vertellen om een Strength-check te doen, terwijl je de **Difficulty Class** (DC) mentaal op 15 zet. Als de Strength-check succesvol is, bepaal je vervolgens hoe een gezicht vol hete kolen het monster beïnvloedt. Je unt besluiten dat het ld4 vuurschade toebrengt en nadeel oplegt aan de aanvalsworpen van het monster tot het einde van zijn volgende beurt. Je gooit de schadedobbelsteen (of laat de speler het doen) en het spel gaat verder.
+
+Soms betekent het bemiddelen in de regels het stellen van grenzen. Als een speler je vertelt: "Ik wil naar boven rennen en de Orc aanvallen," maar het personage heeft niet genoeg beweging om de Orc te bereiken, zeg je: "Hij is te ver weg om naar boven te bewegen en toch aan te vallen. Wat zou je in plaats daarvan willen doen?" De speler neemt de informatie en bedenkt een ander plan.
+
+Om de regels te beoordelen, moet je ze kennen. Je hoeft dit boek of het Player's Handbook niet uit je hoofd te leren, maar je moet wel een duidelijk idee hebben van de inhoud, zodat je, wanneer een situatie om een uitspraak vraagt, weet waar je de juiste referentie kunt vinden.
+
+Het *Player's Handbook* bevat de belangrijkste regels die je nodig hebt om het spel te spelen. Deel 3 van dit boek biedt een schat aan informatie om je te helpen de regels te beoordelen in een breed verscheidenheid aan situaties. Hoofdstuk 8 geeft advies over het gebruik van aanvalsrollen, vaardigheidscontroles en reddingsworpen. Het bevat ook opties die geschikt zijn voor bepaalde speelstijlen en campagnes, inclusief richtlijnen voor het gebruik van miniaturen, een systeem voor het afhandelen van achtervolgingsscènes en regels voor waanzin. Als je graag je eigen spullen maakt, zoals nieuwe monsters, rassen en karakterachtergronden, laat hoofdstuk 9 je zien hoe. Dat hoofdstuk bevat ook optionele regels voor ongewone situaties of speelstijlen, zoals het gebruik van vuurwapens in een fantasy-setting.
+\page
+## KEN JE SPELERS
+Het succes van een D&D-spel hangt af van jouw vermogen om de andere spelers aan de speeltafel te vermaken. Terwijl hun rol is om personages (de protagonisten van de campagne) te creëren, ze tot leven te wekken en de campagne te helpen sturen door de acties van hun personages, is jouw rol om de spelers (en jezelf) geïnteresseerd en ondergedompeld te houden in de wereld die je hebt gecreëerd en om hun personages geweldige dingen te laten doen.
+
+Als je weet wat je spelers het leukst vinden aan het D&D-spel, kun je avonturen creëren en uitvoeren die ze zullen waarderen en onthouden. Zodra je weet welke van de volgende activiteiten elke speler in je groep het leukst vindt, kun je avonturen op maat maken die zoveel mogelijk voldoen aan de voorkeuren van je spelers, waardoor ze betrokken blijven.
+
+### ACTEREN
+Spelers die graag acteren, kruipen graag in hun rol en spreken in de stem van hun personage. In hun hart zijn ze rollenspelers en ze houden van sociale interacties met NPC's, monsters en hun groepsgenoten.
+
+Betrek spelers die graag acteren door ...
+- hen de kans te geven om de persoonlijkheden en achtergronden van hun personages te ontwikkelen.
+- hen in staat te stellen om regelmatig met NPC's te communiceren.
+- elementen van rollenspellen toe te voegen aan gevechtsontmoetingen.
+- elementen uit de achtergronden van hun personages in je avonturen op te nemen.
+
+### VERKENNEN
+Spelers die graag willen verkennen, willen de wonderen ervaren die een fantasiewereld te bieden heeft. Ze willen weten wat er om de volgende hoek of heuvel ligt. Ze houden er ook van om verborgen aanwijzingen en schatten te vinden.
+
+Betrek spelers die graag verkennen door ...
+- aanwijzingen te geven die wijzen op dingen die nog moeten komen.
+- hen dingen te laten vinden wanneer ze de tijd nemen om te verkennen.
+- rijke beschrijvingen te geven van opwindende omgevingen en interessante kaarten en rekwisieten te gebruiken.
+- monsters geheimen te geven om te ontdekken of culturele details om te leren.
+
+### AANZETTEN
+Spelers die graag actie willen ondernemen, willen graag dingen laten gebeuren, zelfs als dat betekent dat ze gevaarlijke risico's moeten nemen. Ze rennen liever halsoverkop het gevaar in en zien de gevolgen onder ogen dan dat ze zich vervelen.
+
+Betrek spelers die graag aanzetten tot actie door ...
+- hen hun omgeving te laten beïnvloeden.
+- dingen in je avonturen op te nemen om ze te verleiden.
+- hun acties de personages in een lastig parket te laten brengen.
+- inclusief ontmoetingen met NPC's die net zo strijdlustig en onvoorspelbaar zijn als zijzelf.
+
+### VECHTEN
+Spelers die van fantasiegevechten houden, zoals schurken en monsters de grond in stampen. Ze zoeken naar elk excuus om een ​​gevecht te beginnen en geven de voorkeur aan gedurfde actie boven zorgvuldige overwegingen.
+
+Betrek spelers die graag vechten door ...
+- hen onverwachte gevechtsontmoetingen te bezorgen.
+- de verwoesting die hun personages met hun aanvallen en spreuken aanrichten, levendig te beschrijven.
+- inclusief gevechtsontmoetingen met grote aantallen zwakke monsters.
+- sociale interactie en verkenning te onderbreken met gevechten.
+
+### OPTIMALISEREN
+Spelers die graag de capaciteiten van hun personages optimaliseren, willen hun personages graag verfijnen voor optimale gevechtsprestaties door levels, nieuwe functies en magische voorwerpen te winnen. Ze verwelkomen elke kans om de superioriteit van hun personages te demonstreren.
+
+Betrek spelers die van optimalisatie houden door ...
+- te zorgen voor constante toegang tot nieuwe vaardigheden en spreuken.
+- gewenste magische voorwerpen te gebruiken als avontuurlijke haken.
+- inclusief ontmoetingen die hun personages laten schitteren.
+- kwantificeerbare beloningen te bieden, zoals ervaringspunten, voor niet-gevechtsontmoetingen.
+
+### PROBLEMEN OPLOSSEN
+Spelers die problemen willen oplossen, willen graag de motivaties van NPC's onderzoeken, de machinaties van een schurk ontwarren, puzzels oplossen en plannen bedenken.
+
+Betrek spelers die graag problemen oplossen door ...
+- inclusief ontmoetingen die de nadruk leggen op probleemoplossing.
+- planning en tactieken te belonen met in-game voordelen.
+- af en toe een slim plan toe te staan om de spelers een gemakkelijke overwinning te bezorgen.
+- NPC's creëren met complexe motieven.
+\page
+### VERHALEN VERTELLEN
+Spelers die van verhalen vertellen houden, willen bijdragen aan een narratief. Ze vinden het leuk als hun personages zwaar geïnvesteerd zijn in een zich ontvouwend verhaal, en ze genieten van ontmoetingen die verbonden zijn met en een overkoepelend plot uitbreiden.
+
+Betrek spelers die van verhalen vertellen houden door ...
+- de achtergronden van hun personages te gebruiken om de verhalen van de campagne vorm te geven.
+- ervoor te zorgen dat een ontmoeting het verhaal op de een of andere manier verder brengt.
+- de acties van hun personages te laten helpen toekomstige gebeurtenissen te sturen.
+- NPC's idealen, banden en gebreken te geven die de avonturiers kunnen uitbuiten.
